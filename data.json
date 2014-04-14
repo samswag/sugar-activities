@@ -1,0 +1,62 @@
+{
+    "activities": {
+        "bundle.id.of.the.thing": {
+            "by": [
+                {
+                    "name": "Walter", 
+                    "page": "https://www.github.com/walterbender"
+                }
+            ], 
+            "description": {
+                "en_US": "Turtle Blocks is an activity with a Logo-inspired graphical \"turtle\" that draws colorful art with snap-together visual programming elements. <br/> Turtle Blocks can be used to explore basic concepts in programming, mathematics, multimedia and design. A portfolio feature lets you use Turtle Blocks for making presentations. <br/> Turtle Blocks is intended to be a stepping stone to Logo, but there are many restrictions compared to Logo. Turtle Blocks was written by Brian Silverman and is maintained by Walter Bender and Raul Gutierrez. Arjun Sarwal added the sensor features. Tony Forster is the most inspired user."
+            }, 
+            "github_current_tag": "v102", 
+            "github_url": "walterbender/turtleart", 
+            "icon": "http://activities.sugarlabs.org/en-US/sugar/images/addon_icon/4027/1396971837", 
+            "screenshots": {
+                "en_US": [
+                    "http://activities.sugarlabs.org/en-US/sugar/images/p/8/1321708306"
+                ]
+            }, 
+            "title": {
+                "en-US": "Turtle Art"
+            }, 
+            "version": 201, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT: <br/> * New sample program: plot global tempuratures (temperature data from http://eesc.columbia.edu/courses/ees/climate/labs/globaltemp/data/global_temp.xls) <br/>BUG FIXES: <br/> * Fixed problem with turning off hover help (Alan Aguiar) <br/> * Fixed problem with starting plugins from exported Python code (w/ Cynthia Solomon) <br/> * FIxed problem with label offset (SL #4754)"
+            }
+        }, 
+        "me.samdroid.sugar.slides": {
+            "hasOldToolbars": false, 
+            "isGTK3": true, 
+            "isWeb": true
+        }, 
+        "org.sugarlabs.browse.or.whatever": {
+            "by": [
+                {
+                    "name": "Person", 
+                    "page": "https://www.github.com/github"
+                }
+            ], 
+            "description": {
+                "en-US": "Whatever......."
+            }, 
+            "icon": "https://fancy.photo/hosting/site/icon2.svg", 
+            "screenshots": {
+                "en_US": [
+                    "hosted", 
+                    "by", 
+                    "http://you"
+                ]
+            }, 
+            "title": {
+                "en-US": "Browse"
+            }, 
+            "version": 60, 
+            "whats_new": {
+                "en-US": "Cool new stuff!"
+            }, 
+            "xo_url": "https://get.your.own/file/host/or/ask/somebody/else.xo"
+        }
+    }
+}
