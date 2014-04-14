@@ -57,6 +57,11 @@
                 "en-US": "Cool new stuff!"
             }, 
             "xo_url": "https://get.your.own/file/host/or/ask/somebody/else.xo"
+        }, 
+        "ta-whatever": {
+            "hasOldToolbars": false, 
+            "isGTK3": false, 
+            "isWeb": false
         }
     }
 }
