@@ -10,9 +10,12 @@
             "description": {
                 "en_US": "Turtle Blocks is an activity with a Logo-inspired graphical \"turtle\" that draws colorful art with snap-together visual programming elements. <br/> Turtle Blocks can be used to explore basic concepts in programming, mathematics, multimedia and design. A portfolio feature lets you use Turtle Blocks for making presentations. <br/> Turtle Blocks is intended to be a stepping stone to Logo, but there are many restrictions compared to Logo. Turtle Blocks was written by Brian Silverman and is maintained by Walter Bender and Raul Gutierrez. Arjun Sarwal added the sensor features. Tony Forster is the most inspired user."
             }, 
-            "github_current_tag": "v102", 
+            "github_current_tag": "v201", 
             "github_url": "walterbender/turtleart", 
+            "hasOldToolbars": false, 
             "icon": "http://activities.sugarlabs.org/en-US/sugar/images/addon_icon/4027/1396971837", 
+            "isGTK3": false, 
+            "isWeb": false, 
             "screenshots": {
                 "en_US": [
                     "http://activities.sugarlabs.org/en-US/sugar/images/p/8/1321708306"
