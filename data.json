@@ -24,7 +24,7 @@
             "title": {
                 "en-US": "Turtle Art"
             }, 
-            "version": 201, 
+            "version": 201.0, 
             "whats_new": {
                 "en-US": "ENHANCEMENT: <br/> * New sample program: plot global tempuratures (temperature data from http://eesc.columbia.edu/courses/ees/climate/labs/globaltemp/data/global_temp.xls) <br/>BUG FIXES: <br/> * Fixed problem with turning off hover help (Alan Aguiar) <br/> * Fixed problem with starting plugins from exported Python code (w/ Cynthia Solomon) <br/> * FIxed problem with label offset (SL #4754)"
             }
