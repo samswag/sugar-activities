@@ -34,6 +34,14 @@
             "isGTK3": true, 
             "isWeb": true
         }, 
+        "org.laptop.TurtleArtActivity": {
+            "github_current_tag": "v201", 
+            "hasOldToolbars": false, 
+            "isGTK3": false, 
+            "isWeb": false, 
+            "minSugarVersion": "0.86", 
+            "version": 201.0
+        }, 
         "org.sugarlabs.browse.or.whatever": {
             "by": [
                 {
