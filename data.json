@@ -35,7 +35,9 @@
             "isGTK3": true, 
             "isWeb": true, 
             "minSugarVersion": "0.100", 
-            "version": 1
+            "version": 1, 
+            "xo_url": "http://localhost:5000/uploads/me.samdroid.sugar.slides_stable.xo", 
+            "xo_url_latest": "http://localhost:5000/uploads/me.samdroid.sugar.slides_latest.xo"
         }, 
         "org.laptop.TurtleArtActivity": {
             "github_current_tag": "v201", 
