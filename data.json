@@ -40,7 +40,7 @@
             "isGTK3": false, 
             "isWeb": false, 
             "minSugarVersion": "0.86", 
-            "version": 201.0
+            "version": 201
         }, 
         "org.sugarlabs.browse.or.whatever": {
             "by": [
