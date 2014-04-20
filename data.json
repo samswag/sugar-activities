@@ -30,9 +30,12 @@
             }
         }, 
         "me.samdroid.sugar.slides": {
+            "github_current_tag": "v1.0", 
             "hasOldToolbars": false, 
             "isGTK3": true, 
-            "isWeb": true
+            "isWeb": true, 
+            "minSugarVersion": "0.100", 
+            "version": 1
         }, 
         "org.laptop.TurtleArtActivity": {
             "github_current_tag": "v201", 
