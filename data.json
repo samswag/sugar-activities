@@ -28,17 +28,7 @@
             "whats_new": {
                 "en-US": "ENHANCEMENT: <br/> * New sample program: plot global tempuratures (temperature data from http://eesc.columbia.edu/courses/ees/climate/labs/globaltemp/data/global_temp.xls) <br/>BUG FIXES: <br/> * Fixed problem with turning off hover help (Alan Aguiar) <br/> * Fixed problem with starting plugins from exported Python code (w/ Cynthia Solomon) <br/> * FIxed problem with label offset (SL #4754)"
             }
-        }, 
-        "me.samdroid.sugar.slides": {
-            "github_current_tag": "v1.0", 
-            "hasOldToolbars": false, 
-            "isGTK3": true, 
-            "isWeb": true, 
-            "minSugarVersion": "0.100", 
-            "version": 1, 
-            "xo_url": "http://localhost:5000/uploads/me.samdroid.sugar.slides_stable.xo", 
-            "xo_url_latest": "http://localhost:5000/uploads/me.samdroid.sugar.slides_latest.xo"
-        }, 
+        },
         "org.laptop.Chat": {
             "description": {
                 "ayc": "Qillq\u00e4wimpi jakisi\u00f1a", 
@@ -154,15 +144,7 @@
                 "zh-TW": "\u804a\u5929"
             }, 
             "version": 78
-        }, 
-        "org.laptop.TurtleArtActivity": {
-            "github_current_tag": "v201", 
-            "hasOldToolbars": false, 
-            "isGTK3": false, 
-            "isWeb": false, 
-            "minSugarVersion": "0.86", 
-            "version": 201
-        }, 
+        },
         "org.sugarlabs.browse.or.whatever": {
             "by": [
                 {
