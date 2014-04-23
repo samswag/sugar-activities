@@ -1,6 +1,5 @@
 {
     "activities": {
-        "me.samdroid.sugar.slides": {},
         "bundle.id.of.the.thing": {
             "by": [
                 {
@@ -29,6 +28,36 @@
             "whats_new": {
                 "en-US": "ENHANCEMENT: <br/> * New sample program: plot global tempuratures (temperature data from http://eesc.columbia.edu/courses/ees/climate/labs/globaltemp/data/global_temp.xls) <br/>BUG FIXES: <br/> * Fixed problem with turning off hover help (Alan Aguiar) <br/> * Fixed problem with starting plugins from exported Python code (w/ Cynthia Solomon) <br/> * FIxed problem with label offset (SL #4754)"
             }
+        }, 
+        "me.samdroid.sugar.slides": {
+            "description": {
+                "en_US": "Eaisly make beautiful presentations"
+            }, 
+            "github_current_tag": "v2", 
+            "hasOldToolbars": false, 
+            "icon": "http://i.imgur.com/VTBNiI3.png", 
+            "iconHash": "e27c7f96e55ef5a437b17e0b0831acba", 
+            "isGTK3": true, 
+            "isWeb": true, 
+            "minSugarVersion": "0.100", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/FwS8OTX.png"
+                ]
+            }, 
+            "screenshotsHashes": {
+                "en": [
+                    "1ab824baa5471a84708d149c9202b572"
+                ]
+            }, 
+            "title": {
+                "en_US": "Slides"
+            }, 
+            "version": 2, 
+            "xo_url": "http://localhost:5001/uploads/me.samdroid.sugar.slides_stable.xo", 
+            "xo_url_latest": "http://localhost:5001/uploads/me.samdroid.sugar.slides_latest.xo", 
+            "xo_url_latest_timestamp": 1398247583.997825, 
+            "xo_url_timestamp": 1398247583.997642
         }, 
         "org.laptop.Chat": {
             "description": {
