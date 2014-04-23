@@ -39,17 +39,7 @@
             "iconHash": "e27c7f96e55ef5a437b17e0b0831acba", 
             "isGTK3": true, 
             "isWeb": true, 
-            "minSugarVersion": "0.100", 
-            "screenshots": {
-                "en": [
-                    "http://i.imgur.com/aUWnatG.png"
-                ]
-            }, 
-            "screenshotsHashes": {
-                "en": [
-                    "1ab824baa5471a84708d149c9202b572"
-                ]
-            }, 
+            "minSugarVersion": "0.100",  
             "title": {
                 "en_US": "Slides"
             }, 
