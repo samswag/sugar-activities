@@ -35,14 +35,14 @@
             }, 
             "github_current_tag": "v2", 
             "hasOldToolbars": false, 
-            "icon": "http://i.imgur.com/VTBNiI3.png", 
+            "icon": "http://i.imgur.com/f1l9xH4.png", 
             "iconHash": "e27c7f96e55ef5a437b17e0b0831acba", 
             "isGTK3": true, 
             "isWeb": true, 
             "minSugarVersion": "0.100", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/FwS8OTX.png"
+                    "http://i.imgur.com/aUWnatG.png"
                 ]
             }, 
             "screenshotsHashes": {
@@ -56,7 +56,7 @@
             "version": 2, 
             "xo_url": "http://localhost:5001/uploads/me.samdroid.sugar.slides_stable.xo", 
             "xo_url_latest": "http://localhost:5001/uploads/me.samdroid.sugar.slides_latest.xo", 
-            "xo_url_latest_timestamp": 1398247583.997825, 
+            "xo_url_latest_timestamp": 1398287905.368314, 
             "xo_url_timestamp": 1398247583.997642
         }, 
         "org.laptop.Chat": {
