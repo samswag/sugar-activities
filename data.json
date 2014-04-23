@@ -39,14 +39,24 @@
             "iconHash": "e27c7f96e55ef5a437b17e0b0831acba", 
             "isGTK3": true, 
             "isWeb": true, 
-            "minSugarVersion": "0.100",  
+            "minSugarVersion": "0.100", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/W4NEaT5.png"
+                ]
+            }, 
+            "screenshotsHashes": {
+                "en": {
+                    "1ab824baa5471a84708d149c9202b572": "http://i.imgur.com/W4NEaT5.png"
+                }
+            }, 
             "title": {
                 "en_US": "Slides"
             }, 
             "version": 2, 
             "xo_url": "http://localhost:5001/uploads/me.samdroid.sugar.slides_stable.xo", 
             "xo_url_latest": "http://localhost:5001/uploads/me.samdroid.sugar.slides_latest.xo", 
-            "xo_url_latest_timestamp": 1398287905.368314, 
+            "xo_url_latest_timestamp": 1398288360.285548, 
             "xo_url_timestamp": 1398247583.997642
         }, 
         "org.laptop.Chat": {
