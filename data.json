@@ -1,5 +1,14 @@
 {
     "activities": {
+        "org.laptop.TurtleArtActivity": {
+            "by": [
+                {
+                    "name": "Walter",
+                    "page": "https://www.github.com/walterbender",
+                    "email": "walter@sugarlabs.org"
+                }
+            ],
+        }
         "me.samdroid.sugar.slides": {
             "by": [
                 {
