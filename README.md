@@ -22,9 +22,17 @@ Then send us a pull request. Someone will look at your activity.
 
 You should then add a github web hook for your activity.
 That means the bots will build and do stuff for you.
+They build from master, but don't worry about different branches for stable and
+testing; the bots automatically see when you change the version number.
 The webhook address is:
 
-    http://WE_DON'T_HAVE_A_HOST_YET:5001/hook/GITHUB_USER/GITHUB_REPO/BUNDLE_ID
+    http://aslo-bot-master.sugarlabs.org/hook/GITHUB_USER/GITHUB_REPO/BUNDLE_ID
+
+eg:
+
+    http://aslo-bot-master.sugarlabs.org/hook/samdroid-apps/sugar-slides/me.samdroid.sugar.slides
+
+Use the webhook for `only push events`. That is the default option.
 
 # Getting ready for the bots
 
