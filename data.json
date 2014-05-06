@@ -183,12 +183,13 @@
                 "id": "Kura-kura terinspirasi Logo yang melukis gambar berwarna-warni dengan blok-blok pemrograman visual yang tergabung bersama", 
                 "ne": "\u090f\u0909\u091f\u093e \u091a\u093f\u0928\u094d\u0939-\u092a\u094d\u0930\u092d\u093e\u0935\u093f\u0924 \u0915\u091b\u0941\u0935\u093e \u091c\u0938\u0932\u0947 \u0938\u0901\u0917\u0948-\u091c\u094b\u0921\u093f\u0928\u0947 \u0926\u0943\u0936\u094d\u092f \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0919\u094d\u0917 \u0916\u0923\u094d\u0921\u0939\u0930\u0941\u0915\u093e \u0938\u093e\u0925\u092e\u093e \u0930\u0919\u094d\u0917\u0940\u091a\u0919\u094d\u0917\u0940 \u091a\u093f\u0924\u094d\u0930\u0939\u0930\u0941 \u092c\u0928\u093e\u0909\u0901\u0926\u091b\u0964", 
                 "nl": "Een Logo-ge\u00efnspireerd schildpad die kleurrijke plaatjes tekent met samenklik visueel programmeerblokken", 
+                "pap": "Un turtug\u00e1 inspir\u00e1 pa e logo ku ta traha dibuho kolorido ku bl\u00f2ki di programashon visual ku ta klek den otro", 
                 "pl": "\u017b\u00f3\u0142w zainspirowany Logo, kt\u00f3ry rysuje kolorowe obrazki dzi\u0119ki \u0142\u0105czeniu blok\u00f3w programowania graficznego", 
                 "pt": "Uma tartaruga inspirada em Logo que desenha pinturas coloridas com blocos de programa\u00e7\u00e3o visual", 
                 "quz": "Charapachaqa Logo nisqata qhawaspam ruwakurqan hinam sumaq siq'ikunata ruwaspa llimp'in kaqllataq tawqakunatapas ruwarillanmi", 
                 "zh-CN": "\u4e00\u4e2a\u53d7Logo\u542f\u53d1\u8fde\u63a5\u53ef\u89c6\u5316\u7f16\u7a0b\u5757\u5e76\u753b\u6709\u5f69\u8272\u56fe\u7247\u7684\u6d77\u9f9f"
             }, 
-            "github_current_tag": "v202", 
+            "github_current_tag": "v203", 
             "hasOldToolbars": false, 
             "icon": "http://i.imgur.com/IgKkheL.png", 
             "iconHash": "98d16005d748acbf72706e1a8e5d462a", 
@@ -209,11 +210,12 @@
                 "it": "Tartablocchi", 
                 "ne": "\u091f\u0930\u094d\u091f\u0932 \u092c\u094d\u0932\u0915", 
                 "nl": "SchildpadBlokken", 
+                "pap": "TurtuBl\u00f2ki", 
                 "pt": "BlocosTartaruga", 
                 "quz": "CharapaBlocks", 
                 "zh-CN": "\u6d77\u9f9f\u79ef\u6728"
             }, 
-            "version": 202
+            "version": 203
         }
     }
 }
