@@ -1,5 +1,14 @@
 {
     "activities": {
+        "me.samdroid.template.coffee": {
+            "by": [
+                {
+                    "email": "sam.parkinson3@gmail.com", 
+                    "name": "Sam", 
+                    "page": "https://www.github.com/samdroid-apps"
+                }
+            ]
+        },
         "me.samdroid.sugar.slides": {
             "by": [
                 {
