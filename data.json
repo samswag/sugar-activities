@@ -1,14 +1,5 @@
 {
     "activities": {
-        "me.samdroid.template.coffee": {
-            "by": [
-                {
-                    "email": "sam.parkinson3@gmail.com", 
-                    "name": "Sam", 
-                    "page": "https://www.github.com/samdroid-apps"
-                }
-            ]
-        },
         "me.samdroid.sugar.slides": {
             "by": [
                 {
@@ -51,6 +42,43 @@
             "xo_url_latest": "http://http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_latest.xo", 
             "xo_url_latest_timestamp": 1398466211.95304, 
             "xo_url_timestamp": 1398466211.952828
+        }, 
+        "me.samdroid.template.coffee": {
+            "by": [
+                {
+                    "email": "sam.parkinson3@gmail.com", 
+                    "name": "Sam", 
+                    "page": "https://www.github.com/samdroid-apps"
+                }
+            ], 
+            "github_url": "samdroid-apps/sugar-web-coffee-template", 
+            "hasOldToolbars": false, 
+            "icon": "http://i.imgur.com/2x0bqDd.png", 
+            "iconHash": "de211134596977a4ae7845a870f55757", 
+            "isGTK3": true, 
+            "isWeb": true, 
+            "minSugarVersion": "0.100", 
+            "releases": [
+                {
+                    "minSugarVersion": "0.100", 
+                    "screenshots": [], 
+                    "version": 2, 
+                    "whats_new": {
+                        "en_US": "<br/>Random new stuff"
+                    }, 
+                    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.template.coffee_stable_2.xo"
+                }
+            ], 
+            "title": {
+                "en_US": "COFFEE"
+            }, 
+            "version": 2, 
+            "whats_new": {
+                "en_US": "<br/>Random new stuff"
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.template.coffee_stable_2.xo", 
+            "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.template.coffee_latest.xo", 
+            "xo_url_latest_timestamp": 1400880973.169043
         }, 
         "org.laptop.Chat": {
             "description": {
