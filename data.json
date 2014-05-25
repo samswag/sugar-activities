@@ -5,9 +5,9 @@
                 {
                     "name": "Sam", 
                     "page": "https://www.github.com/samdroid-apps",
-                    "email": "sam.parkinson3@gmail.com",
+                    "email": "sam.parkinson3@gmail.com"
                 }
-            ], 
+            ]
         },
         "me.samdroid.sugar.slides": {
             "by": [
