@@ -3,12 +3,44 @@
         "me.samdroid.sugar.2048": {
             "by": [
                 {
+                    "email": "sam.parkinson3@gmail.com", 
                     "name": "Sam", 
-                    "page": "https://www.github.com/samdroid-apps",
-                    "email": "sam.parkinson3@gmail.com"
+                    "page": "https://www.github.com/samdroid-apps"
                 }
-            ]
-        },
+            ], 
+            "categories": [
+                "game", 
+                "maths"
+            ], 
+            "description": {
+                "en_US": "A fun maths puzzle that took the world by storm!"
+            }, 
+            "github_url": "samdroid-apps/2048", 
+            "hasOldToolbars": false, 
+            "icon": "http://i.imgur.com/rcTmcCV.png", 
+            "iconHash": "8e954d80e6f231fbd1476fa0aeb11bf3", 
+            "isGTK3": true, 
+            "isWeb": true, 
+            "minSugarVersion": "0.100", 
+            "releases": [
+                {
+                    "minSugarVersion": "0.100", 
+                    "screenshots": [], 
+                    "version": 1, 
+                    "whats_new": {}, 
+                    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.2048_stable_1.xo"
+                }
+            ], 
+            "title": {
+                "en_US": "2048"
+            }, 
+            "version": 1, 
+            "whats_new": {}, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.2048_stable_1.xo", 
+            "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.2048_latest.xo", 
+            "xo_url_latest_timestamp": 1400987485.126959, 
+            "xo_url_timestamp": 1400987485.12625
+        }, 
         "me.samdroid.sugar.slides": {
             "by": [
                 {
