@@ -8,16 +8,30 @@
                     "page": "https://www.github.com/samdroid-apps"
                 }
             ], 
+            "categories": [
+                "office", 
+                "creative"
+            ], 
             "description": {
                 "en_US": "Eaisly make beautiful presentations"
             }, 
             "github_current_tag": "v2", 
+            "github_url": "samdroid-apps/sugar-slides", 
             "hasOldToolbars": false, 
             "icon": "http://i.imgur.com/f1l9xH4.png", 
             "iconHash": "e27c7f96e55ef5a437b17e0b0831acba", 
             "isGTK3": true, 
             "isWeb": true, 
             "minSugarVersion": "0.100", 
+            "releases": [
+                {
+                    "minSugarVersion": "0.100", 
+                    "screenshots": [], 
+                    "version": 2, 
+                    "whats_new": {}, 
+                    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_stable_2.xo"
+                }
+            ], 
             "screenshots": {
                 "en": [
                     "http://i.imgur.com/aDcyYw7.png", 
@@ -38,9 +52,10 @@
                 "en_US": "Slides"
             }, 
             "version": 2, 
-            "xo_url": "http://http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_stable.xo", 
-            "xo_url_latest": "http://http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_latest.xo", 
-            "xo_url_latest_timestamp": 1398466211.95304, 
+            "whats_new": {}, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_stable_2.xo", 
+            "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_latest.xo", 
+            "xo_url_latest_timestamp": 1400981765.764555, 
             "xo_url_timestamp": 1398466211.952828
         }, 
         "me.samdroid.template.coffee": {
