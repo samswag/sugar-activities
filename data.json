@@ -290,6 +290,7 @@
             "isGTK3": false, 
             "isWeb": false, 
             "minSugarVersion": "0.86", 
+            "releases": [], 
             "title": {
                 "ayc": "TortuBlocks wakichata", 
                 "da": "Skildpadde-blokke", 
@@ -309,9 +310,9 @@
                 "quz": "CharapaBlocks", 
                 "zh-CN": "\u6d77\u9f9f\u79ef\u6728"
             }, 
-            "version": 205, 
+            "version": 206, 
             "whats_new": {
-                "en_US": "<br/>ENHANCEMENTS:<br/>* Use clamp style for start and action stacks<br/>* Warn user when running empty start stack<br/>* More \"turtle cards\"<br/>BUG FIXES:<br/>* Don't reset timer on clear (w/Alan Aguiar)<br/>* Catch exceptions in Facebook upload (#SL )"
+                "en_US": "<br/>ENHANCEMENTS:<br/>* Slight speed up when loading large projects<br/>* Added set_font block<br/>* Added ASCII Art example<br/>* Autosave in GNOME (Sugar version already autosaves)<br/>BUG FIX:<br/>* Set default action (YES) for save in GNOME (Andres Aguirre)"
             }
         }
     }
