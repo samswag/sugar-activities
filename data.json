@@ -1,5 +1,14 @@
 {
     "activities": {
+        "org.sugarlabs.FractionBounceActivity": {
+            "by": [
+                {
+                    "email": "walter@sugarlabs.org",
+                    "name": "Walter",
+                    "page": "https://www.github.com/walterbender"
+                }
+            ]
+        },
         "me.samdroid.sugar.2048": {
             "by": [
                 {
