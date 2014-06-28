@@ -14,9 +14,11 @@ First add this to the `activities` object in data.json:
                     "email": "YOUR_EMAIL used to reply to peoples comments",
                 }
             ], 
-    }
+    },
 
 Then send us a pull request. Someone will look at your activity.
+
+**NOTE:** It is a good idea to use [a json checker](http://jsonlint.com/) before you commit.
 
 # Hooking it up
 
@@ -40,3 +42,8 @@ Use the webhook for `only push events`. That is the default option.
 * Put your screenshots in `/screenshots/LANG/`. eg: `/screenshots/en/1.png`
 * Add summary and title to activity.info
 * Translate activity.info (if you can) using po files
+* Add the `tags` to your `activity.info`
+
+# See it live
+
+First do a push, and after one of the bots has compiled your activity, go to http://aslo.cf!
