@@ -1,5 +1,23 @@
 {
     "activities": {
+        "org.laptop.community.Spirolaterals": {
+            "by": [
+                {
+                    "email": "walter@sugarlabs.org",
+                    "name": "Walter",
+                    "page": "https://www.github.com/walterbender"
+                }
+            ]
+        },
+        "org.sugarlabs.GNUChessActivity": {
+            "by": [
+                {
+                    "email": "walter@sugarlabs.org",
+                    "name": "Walter",
+                    "page": "https://www.github.com/walterbender"
+                }
+            ]
+        },
         "org.sugarlabs.FractionBounceActivity": {
             "by": [
                 {
