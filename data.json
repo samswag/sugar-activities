@@ -1,5 +1,6 @@
 {
     "activities": {
+        "org.laptop.WebActivity": {},
         "me.samdroid.sugar.2048": {
             "by": [
                 {
