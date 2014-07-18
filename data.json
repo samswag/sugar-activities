@@ -309,7 +309,7 @@
                 "quz": "Charapachaqa Logo nisqata qhawaspam ruwakurqan hinam sumaq siq'ikunata ruwaspa llimp'in kaqllataq tawqakunatapas ruwarillanmi", 
                 "zh-CN": "\u4e00\u4e2a\u53d7Logo\u542f\u53d1\u8fde\u63a5\u53ef\u89c6\u5316\u7f16\u7a0b\u5757\u5e76\u753b\u6709\u5f69\u8272\u56fe\u7247\u7684\u6d77\u9f9f"
             }, 
-            "github_current_tag": "v205", 
+            "github_current_tag": "v207", 
             "github_url": "walterbender/turtleart", 
             "hasOldToolbars": false, 
             "icon": "http://i.imgur.com/IgKkheL.png", 
@@ -317,7 +317,17 @@
             "isGTK3": false, 
             "isWeb": false, 
             "minSugarVersion": "0.86", 
-            "releases": [], 
+            "releases": [
+                {
+                    "minSugarVersion": "0.86", 
+                    "screenshots": [], 
+                    "version": 207, 
+                    "whats_new": {
+                        "en_US": "<br/>ENHANCEMENT:<br/>* Added 'private' attribute to block class for plugins<br/>BUG FIXES:<br/>* Rescale constants when rescaling coordinates<br/>* Rescale mouse coordinates to match current scale"
+                    }, 
+                    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_207.xo"
+                }
+            ], 
             "title": {
                 "ayc": "TortuBlocks wakichata", 
                 "da": "Skildpadde-blokke", 
@@ -337,10 +347,14 @@
                 "quz": "CharapaBlocks", 
                 "zh-CN": "\u6d77\u9f9f\u79ef\u6728"
             }, 
-            "version": 206, 
+            "version": 207, 
             "whats_new": {
-                "en_US": "<br/>ENHANCEMENTS:<br/>* Slight speed up when loading large projects<br/>* Added set_font block<br/>* Added ASCII Art example<br/>* Autosave in GNOME (Sugar version already autosaves)<br/>BUG FIX:<br/>* Set default action (YES) for save in GNOME (Andres Aguirre)"
-            }
+                "en_US": "<br/>ENHANCEMENT:<br/>* Added 'private' attribute to block class for plugins<br/>BUG FIXES:<br/>* Rescale constants when rescaling coordinates<br/>* Rescale mouse coordinates to match current scale"
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_207.xo", 
+            "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_latest.xo", 
+            "xo_url_latest_timestamp": 1405667690.646526, 
+            "xo_url_timestamp": 1405667690.638699
         }, 
         "org.laptop.WebActivity": {
             "description": {
