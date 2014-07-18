@@ -87,7 +87,14 @@
             "releases": [
                 {
                     "minSugarVersion": "0.100", 
-                    "screenshots": [], 
+                    "screenshots": {
+                        "en": [
+                            "http://i.imgur.com/aDcyYw7.png", 
+                            "http://i.imgur.com/uPOd1nz.png", 
+                            "http://i.imgur.com/5Vqng1g.png", 
+                            "http://i.imgur.com/ipqsiiU.png"
+                        ]
+                    }, 
                     "version": 2, 
                     "whats_new": {}, 
                     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_stable_2.xo"
@@ -116,7 +123,7 @@
             "whats_new": {}, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_stable_2.xo", 
             "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_latest.xo", 
-            "xo_url_latest_timestamp": 1400981765.764555, 
+            "xo_url_latest_timestamp": 1405667447.320916, 
             "xo_url_timestamp": 1398466211.952828
         }, 
         "me.samdroid.template.coffee": {
