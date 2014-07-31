@@ -606,7 +606,32 @@
             "xo_url_latest_timestamp": 1404776531.29194, 
             "xo_url_timestamp": 1404113150.695623
         }, 
-        "org.sugarlabs.GNUChessActivity": {
+       "org.sugarlabs.StoryActivity": {
+           "by": [
+               {
+                    "email": "walter@sugarlabs.org", 
+                    "name": "Walter", 
+                    "page": "https://www.github.com/walterbender"
+               }
+            ],
+            "description": {
+                "en": "prompts learner to tell a story by displaying images at random",
+            },
+        },
+       "vu.lux.olpc.Speak": {
+           "by": [
+               {
+                    "email": "walter@sugarlabs.org", 
+                    "name": "Walter and the Sugar Labs Activity Team", 
+                    "page": "https://www.github.com/walterbender"
+               }
+            ],
+            "description": {
+                "en": "An animated face that speaks whatever you type",
+		"es": "Una cara animada que habla todo lo que se escribe",
+            },
+        },
+       "org.sugarlabs.GNUChessActivity": {
             "by": [
                 {
                     "email": "walter@sugarlabs.org", 
