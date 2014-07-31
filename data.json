@@ -615,8 +615,8 @@
                }
             ],
             "description": {
-                "en": "prompts learner to tell a story by displaying images at random",
-            },
+                "en": "prompts learner to tell a story by displaying images at random"
+            }
         },
        "vu.lux.olpc.Speak": {
            "by": [
@@ -628,8 +628,8 @@
             ],
             "description": {
                 "en": "An animated face that speaks whatever you type",
-		"es": "Una cara animada que habla todo lo que se escribe",
-            },
+		"es": "Una cara animada que habla todo lo que se escribe"
+            }
         },
        "org.sugarlabs.GNUChessActivity": {
             "by": [
