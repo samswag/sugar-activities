@@ -4,17 +4,16 @@ This contains all the data for ASLO activities
 
 # Adding yours
 
-First add this to the `activities` object in data.json:
+First create a new file for your activity.  It should be named `BUNDLE_ID.json` (for example: `com.example.activity.json`).  Then add the following contents:
 
-    "YOUR_BUNDLE_ID": {
-            "by": [
+    {
+        "by": [
                 {
                     "name": "YOUR_NAME", 
-                    "page": "YOUR_SITE",
-                    "email": "YOUR_EMAIL used to reply to peoples comments",
+                    "page": "YOUR_SITE"
                 }
-            ], 
-    },
+            ]
+    }
 
 Then send us a pull request. Someone will look at your activity.
 
