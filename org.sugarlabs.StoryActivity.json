@@ -1,0 +1,12 @@
+{
+    "by": [
+        {
+            "email": "walter@sugarlabs.org", 
+            "name": "Walter", 
+            "page": "https://www.github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "en": "prompts learner to tell a story by displaying images at random"
+    }
+}

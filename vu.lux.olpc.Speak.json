@@ -1,0 +1,13 @@
+{
+    "by": [
+        {
+            "email": "walter@sugarlabs.org", 
+            "name": "Walter and the Sugar Labs Activity Team", 
+            "page": "https://www.github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "en": "An animated face that speaks whatever you type", 
+        "es": "Una cara animada que habla todo lo que se escribe"
+    }
+}
