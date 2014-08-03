@@ -2,8 +2,12 @@
     "by": [
         {
             "email": "walter@sugarlabs.org", 
-            "name": "Walter and the Sugar Labs Activity Team", 
+            "name": "Walter", 
             "page": "https://www.github.com/walterbender"
+        },
+        {
+            "name": "Sugar Labs Activity Team", 
+            "page": "http://wiki.sugarlabs.org/go/Activity_Team"
         }
     ], 
     "description": {
