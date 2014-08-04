@@ -12,7 +12,7 @@
     "github_current_tag": "v13", 
     "github_url": "walterbender/story", 
     "hasOldToolbars": false, 
-    "icon": "http://i.imgur.com/JsWmNuY.png", 
+    "icon": "http://i.imgur.com/idGkIBb.png", 
     "iconHash": "87cafb7e36e297203e6e6a4f0dc95488", 
     "isGTK3": true, 
     "isWeb": false, 
@@ -55,6 +55,6 @@
     "xo_size": 286196, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.StoryActivity_stable_13.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.StoryActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1407021198.80334, 
+    "xo_url_latest_timestamp": 1407150213.219353, 
     "xo_url_timestamp": 1407021198.802894
 }
