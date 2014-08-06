@@ -6,6 +6,10 @@
             "page": "https://www.github.com/walterbender"
         }
     ], 
+    "categories": [
+        "programming", 
+        "art"
+    ], 
     "description": {
         "ayc": "Maya tortuga wakichatawa uka kunaymana rixitanaka wakichiri chimpupana utji uka u\u00f1ja\u00f1anaka wakichata chika", 
         "da": "En skildpasse inspireret af Logo, der tegner farverige billeder med visuelle, programm\u00e9rbare blokke som kan sammens\u00e6ttes.", 
@@ -29,7 +33,7 @@
     "github_current_tag": "v207", 
     "github_url": "walterbender/turtleart", 
     "hasOldToolbars": false, 
-    "icon": "http://i.imgur.com/IgKkheL.png", 
+    "icon": "http://i.imgur.com/22tQs7w.png", 
     "iconHash": "98d16005d748acbf72706e1a8e5d462a", 
     "isGTK3": false, 
     "isWeb": false, 
@@ -70,6 +74,6 @@
     }, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_207.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1405667690.646526, 
+    "xo_url_latest_timestamp": 1407364725.769259, 
     "xo_url_timestamp": 1405667690.638699
 }
