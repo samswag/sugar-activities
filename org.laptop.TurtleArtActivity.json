@@ -33,7 +33,7 @@
     "github_current_tag": "v207", 
     "github_url": "walterbender/turtleart", 
     "hasOldToolbars": false, 
-    "icon": "http://i.imgur.com/fHnJqlt.png", 
+    "icon": "http://i.imgur.com/hFxOr4p.png", 
     "iconHash": "98d16005d748acbf72706e1a8e5d462a", 
     "isGTK3": false, 
     "isWeb": false, 
@@ -42,11 +42,11 @@
         {
             "minSugarVersion": "0.86", 
             "screenshots": [], 
-            "version": 207, 
+            "version": 208, 
             "whats_new": {
-                "en_US": "<br/>ENHANCEMENT:<br/>* Added 'private' attribute to block class for plugins<br/>BUG FIXES:<br/>* Rescale constants when rescaling coordinates<br/>* Rescale mouse coordinates to match current scale"
+                "en_US": "<br/>ENHANCEMENT:<br/>* expand dock for oversized arguments in fill_screen block (et al.)"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_207.xo"
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_208.xo"
         }
     ], 
     "title": {
@@ -68,12 +68,13 @@
         "quz": "CharapaBlocks", 
         "zh-CN": "\u6d77\u9f9f\u79ef\u6728"
     }, 
-    "version": 207, 
+    "version": 208, 
     "whats_new": {
-        "en_US": "<br/>ENHANCEMENT:<br/>* Added 'private' attribute to block class for plugins<br/>BUG FIXES:<br/>* Rescale constants when rescaling coordinates<br/>* Rescale mouse coordinates to match current scale"
+        "en_US": "<br/>ENHANCEMENT:<br/>* expand dock for oversized arguments in fill_screen block (et al.)"
     }, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_207.xo", 
+    "xo_size": 6481956, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_208.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1408645557.799049, 
-    "xo_url_timestamp": 1405667690.638699
+    "xo_url_latest_timestamp": 1408645597.524469, 
+    "xo_url_timestamp": 1408645597.483049
 }
