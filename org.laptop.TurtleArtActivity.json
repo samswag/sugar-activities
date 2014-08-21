@@ -33,7 +33,7 @@
     "github_current_tag": "v207", 
     "github_url": "walterbender/turtleart", 
     "hasOldToolbars": false, 
-    "icon": "http://i.imgur.com/22tQs7w.png", 
+    "icon": "http://i.imgur.com/fHnJqlt.png", 
     "iconHash": "98d16005d748acbf72706e1a8e5d462a", 
     "isGTK3": false, 
     "isWeb": false, 
@@ -74,6 +74,6 @@
     }, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_207.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1407364725.769259, 
+    "xo_url_latest_timestamp": 1408645557.799049, 
     "xo_url_timestamp": 1405667690.638699
 }
