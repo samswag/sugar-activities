@@ -29,7 +29,7 @@
     "github_current_tag": "v78", 
     "github_url": "ignaciouy/Chat", 
     "hasOldToolbars": false, 
-    "icon": "http://i.imgur.com/4GvLSbi.png", 
+    "icon": "http://i.imgur.com/d8CbMwc.png", 
     "iconHash": "2d0e7784902938135d07399cd781a6be", 
     "isGTK3": false, 
     "isWeb": false, 
@@ -133,6 +133,6 @@
     "xo_size": 532860, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Chat_stable_78.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Chat_latest.xo", 
-    "xo_url_latest_timestamp": 1405682496.231588, 
+    "xo_url_latest_timestamp": 1409441148.37796, 
     "xo_url_timestamp": 1405682496.230957
 }
