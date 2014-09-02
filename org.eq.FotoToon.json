@@ -1,8 +1,81 @@
 {
     "by": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo", 
             "page": "https://www.github.com/godiard"
         }
-    ]
+    ], 
+    "description": {
+        "ayc": "\u00bfFoto wakichatampi yati\u00f1a wakicha\u00f1a? \u00a1Phisnawa! \u00a1Foto katuqatama ukata amuyumampi juma pachpa foto wakichatama wakichasma!", 
+        "da": "Har du lyst til at fort\u00e6lle en historie? Det er nemt! Brug dine billeder og din fantasi til at skabe din egen tegneserie!", 
+        "en": "Interested in telling a story? Easy! Use your pictures and your imagination to create your own comics!", 
+        "en-GB": "Interested in telling a story? Easy! Use your pictures and your imagination to create your own comics!", 
+        "en-US": "Interested in telling a story? Easy! Use your pictures and your imagination to create your own comics!", 
+        "en_US": "Interested in telling a story? Easy! Use your pictures and your imagination to create your own comics!", 
+        "es": "\u00bfInteresado en contar una historia? \u00a1F\u00e1cil! \u00a1Usa tus im\u00e1genes y tu imaginaci\u00f3n para crear tus propias historietas!", 
+        "fr": "Tu as envie de raconter une histoire ? Utilise tes images et ton imagination pour cr\u00e9er tes propres bandes dessin\u00e9es !", 
+        "hy": "\u0554\u0565\u0566 \u0570\u0565\u057f\u0561\u0584\u0580\u0584\u0580\u0578\u0582\u055e\u0574 \u0567 \u057a\u0561\u057f\u0574\u0565\u056c \u057a\u0561\u057f\u0574\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580: \u0540\u0565\u0577\u057f \u0567. \u0555\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u056b\u0580 \u0584\u0578 \u0576\u056f\u0561\u0580\u0576\u0565\u0580\u0576 \u0578\u0582 \u0565\u0580\u0587\u0561\u056f\u0561\u0575\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0584\u0578 \u057d\u0565\u0583\u0561\u056f\u0561\u0576 \u056f\u0561\u057f\u0561\u056f\u0561\u0576\u056f\u0561\u0580\u0576\u0565\u0580\u0568 \u057d\u057f\u0565\u0572\u056e\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580.", 
+        "ne": "\u0915\u0925\u093e \u092d\u0928\u094d\u0928\u0947 \u0930\u0942\u091a\u0940 \u091b? \u0938\u091c\u093f\u0932\u094b \u091b! \u0906\u092b\u0948\u0901\u0932\u0947 \u0915\u092e\u093f\u0915\u0939\u0930\u0942 \u0924\u092f\u093e\u0930 \u0917\u0930\u094d\u0928 \u0924\u092a\u093e\u0908\u0901\u0915\u093e \u092b\u094b\u091f\u093e\u0939\u0930\u0942 \u0930 \u0915\u0932\u094d\u092a\u0928\u093e\u0936\u0915\u094d\u0924\u093f\u0915\u094b \u092a\u094d\u0930\u092f\u094b\u0917 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d !", 
+        "nl": "Vertel je graag een verhaal? Makkelijk! Gebruik je afbeeldingen en je verbeelding om je eigen strips te maken!", 
+        "pap": "Interes\u00e1 pa konta un kuenta? F\u00e1sil! Usa bo potr\u00e8tnan i bo imaginashon pa krea bo mes komeks!", 
+        "pbs": "kimieng nata'aung nda meng? \u00a1nip ngul'ajau! \u00a1ki't pu xikji'ik mai\u00f1 kad-er se tij\u00ec kimieng se manatsjau tiji manamang!", 
+        "pl": "Zainteresowany opowiedzeniem historyjki? To proste! U\u017cyj swoich zdj\u0119\u0107 i wyobra\u017ani aby stworzy\u0107 nowe komiksy!", 
+        "pt": "Interessado em contar uma est\u00f3ria? F\u00e1cil! Utiliza as tuas imagens e a tua imagina\u00e7\u00e3o para criar as tuas pr\u00f3prias bandas desenhadas!", 
+        "zh-CN": "\u60f3\u8bb2\u4e00\u4e2a\u6545\u4e8b\u5417\uff1f\u7b80\u5355\uff01\u7528\u4f60\u7684\u7167\u7247\u548c\u4f60\u7684\u60f3\u8c61\u529b\u521b\u9020\u4f60\u81ea\u5df1\u7684\u6f2b\u753b\uff01"
+    }, 
+    "github_current_tag": "v20", 
+    "github_url": "godiard/fototoon-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3Mv\nU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIiBbCiAgPCFFTlRJVFkgZmlsbF9jb2xvciAiI0ZGRkZGRiI+\nCiAgPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMDEwMTAxIj4KXT4KPHN2ZwogICB4bWxucz0iaHR0\ncDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHZlcnNpb249IjEuMCIKICAgd2lkdGg9IjU1Igog\nICBoZWlnaHQ9IjU1IgogICBpZD0ic3ZnMjE3MyI+CiAgPGcKICAgICB0cmFuc2Zvcm09InRyYW5z\nbGF0ZSgtNC44OTY3NjcsLTIuNTU5MjQ0NSkiCiAgICAgaWQ9ImczOTc3IgogICAgIHN0eWxlPSJz\ndHJva2Utd2lkdGg6My41O3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25l\nIj4KICAgIDxnCiAgICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLjcyMjMzNTU0LDAsMCwwLjcyMjMz\nNTU0LC0xMC4wOTk1MTIsMjAuMTY4NDExKSIKICAgICAgIGlkPSJnMzE5MCIKICAgICAgIHN0eWxl\nPSJzdHJva2Utd2lkdGg6NC44NDUzOTM2NjtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNo\nYXJyYXk6bm9uZSI+CiAgICAgIDxnCiAgICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQzLjYw\nNDIyMywtNS4zNzMzNDAxKSIKICAgICAgICAgaWQ9InN0b2NrLXhvXzFfIgogICAgICAgICBzdHls\nZT0ic3Ryb2tlLXdpZHRoOjQuODQ1MzkzNjY7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFz\naGFycmF5Om5vbmU7ZGlzcGxheTpibG9jayI+CiAgICAgICAgPHBhdGgKICAgICAgICAgICBkPSJt\nIDMzLjIzMywzNS4xIDEwLjEwMiwxMC4xIGMgMC43NTIsMC43NSAxLjIxNywxLjc4MyAxLjIxNywy\nLjkzMiAwLDIuMjg3IC0xLjg1NSw0LjE0MyAtNC4xNDYsNC4xNDMgLTEuMTQ1LDAgLTIuMTc4LC0w\nLjQ2MyAtMi45MzIsLTEuMjExIGwgLTEwLjEwMiwtMTAuMTAzIC0xMC4xLDEwLjEgYyAtMC43NSww\nLjc1IC0xLjc4NywxLjIxMSAtMi45MzQsMS4yMTEgLTIuMjg0LDAgLTQuMTQzLC0xLjg1NCAtNC4x\nNDMsLTQuMTQxIDAsLTEuMTQ2IDAuNDY1LC0yLjE4NCAxLjIxMiwtMi45MzQgTCAyMS41MTEsMzUu\nMDk1IDExLjQwOSwyNC45OTUgYyAtMC43NDcsLTAuNzQ4IC0xLjIxMiwtMS43ODUgLTEuMjEyLC0y\nLjkzIDAsLTIuMjg5IDEuODU0LC00LjE0NiA0LjE0NiwtNC4xNDYgMS4xNDMsMCAyLjE4LDAuNDY1\nIDIuOTMsMS4yMTQgTCAyNy4zNzIsMjkuMjM1IDM3LjQ3NCwxOS4xMzIgYyAwLjc1NCwtMC43NDkg\nMS43ODcsLTEuMjE0IDIuOTM0LC0xLjIxNCAyLjI4OSwwIDQuMTQ2LDEuODU2IDQuMTQ2LDQuMTQ1\nIDAsMS4xNDYgLTAuNDY3LDIuMTggLTEuMjE3LDIuOTMyIEwgMzMuMjMzLDM1LjEgeiIKICAgICAg\nICAgICBpZD0icGF0aDMxNTYiCiAgICAgICAgICAgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0\ncm9rZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6NC44NDUzOTM2NjtzdHJva2UtbWl0ZXJs\naW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZSIgLz4KICAgICAgICA8Y2lyY2xlCiAgICAgICAg\nICAgY3g9IjI3LjM3MSIKICAgICAgICAgICBjeT0iMTAuODQ5IgogICAgICAgICAgIHI9IjguMTIx\nOTk5NyIKICAgICAgICAgICBpZD0iY2lyY2xlMzE1OCIKICAgICAgICAgICBzdHlsZT0iZmlsbDom\nZmlsbF9jb2xvcjs7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDo0Ljg0NTM5MzY2\nO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lIiAvPgogICAgICA8L2c+\nCiAgICA8L2c+CiAgICA8cGF0aAogICAgICAgZD0ibSAyMi43MTg3NSwzLjQwNjI1IGMgLTMuNzE0\nNzQ2LDAgLTcuMTAzMDg4LDAuOTA3ODY3NiAtOS42ODc1LDIuNDY4NzUgLTIuNTg0NDEyLDEuNTYw\nODgyNCAtNC40Njg3NSwzLjkyNzIxIC00LjQ2ODc1LDYuNzgxMjUgMCwyLjg1NDA0IDEuODg0MzM4\nLDUuMjUxNjE4IDQuNDY4NzUsNi44MTI1IDIuMzc2OTMsMS40MzU1NzEgNS40Nzg1MjMsMi4yMTM5\nMTQgOC44NDM3NSwyLjM0Mzc1IDAuNzA2MjM2LDAuODE3ODYxIDEuNjA2NzA1LDEuNTU1NDM5IDIu\nODQzNzUsMi4wMzEyNSAxLjYxNTg2LDAuNjIxNTE3IDYuOTY5NTYxLDAuNDUyMDg4IDYuOTY5NTYx\nLDAuNDUyMDg4IDAsMCAtMS4yODI1NjEsLTEuNzc0NjI2IC0xLjUzMjA2MSwtMy43OTU4MzggMS4z\nOTA4MiwtMC41Nzk2OCAyLjc4MjQwNiwtMS4yODk3OSAzLjk2ODc1LC0yLjM3NSAxLjM5MzAzMywt\nMS4yNzQyNzkgMi40ODcyMDksLTMuMDYyNzI0IDIuNzUsLTUuMjUgbCAwLjAzMTI1LC0wLjA5Mzc1\nIDAsLTAuMTI1IGMgMCwtMi44NTQwNDAxIC0xLjkxNTU4OCwtNS4yMjAzNjc3IC00LjUsLTYuNzgx\nMjUgLTIuNTg0NDEyLC0xLjU2MDg4MjMgLTUuOTcyNzU0LC0yLjQ2ODc1IC05LjY4NzUsLTIuNDY4\nNzUgeiBtIDAsMy41IGMgMy4xNDM1MzksMCA1Ljk2NDk3MSwwLjgxNTE2ODMgNy44NzUsMS45Njg3\nNSAxLjg2NDEzMiwxLjEyNTg2MiAyLjczOTgwNSwyLjQyNjk3OCAyLjc4MTI1LDMuNjg3NSAtMC4x\nNzU1OTIsMS4yNTkyNTcgLTAuNzA3MzcsMi4xNTc5MzIgLTEuNTkzNzUsMi45Njg3NSAtMC45MDE5\nMzQsMC44MjUwNDUgLTIuMTgxNzE5LDEuNDkwOTEgLTMuNTMxMjUsMiAtMC4yOTgwOTksMC4xMDI5\nMzUgLTEuODUyMjM4LDAuNjkxMzU4IC0xLjg1MjIzOCwwLjY5MTM1OCAwLDAgMC4xMzc5MTIsMS43\nNjc0NzcgMS4zNDYyMSwzLjgwMjY1OSAtMi43NzE1MTgsLTAuODYyMjI1IC00LjA1ODIzNywtMi4w\nODI1NTcgLTUuMDI1MjIyLC0zLjYxOTAxNyAtMy4xNDM1MzksMCAtNS45NjQ5NzEsLTAuNzgzOTE4\nIC03Ljg3NSwtMS45Mzc1IC0xLjkxMDAyOSwtMS4xNTM1ODIgLTIuNzgxMjUsLTIuNTI0NDA4IC0y\nLjc4MTI1LC0zLjgxMjUgMCwtMS4yODgwOTIgMC44NzEyMjEsLTIuNjI3NjY4IDIuNzgxMjUsLTMu\nNzgxMjUgMS45MTAwMjksLTEuMTUzNTgxNiA0LjczMTQ2MSwtMS45Njg3NSA3Ljg3NSwtMS45Njg3\nNSB6IgogICAgICAgaWQ9InBhdGgzMjA2IgogICAgICAgc3R5bGU9ImZvbnQtc2l6ZTptZWRpdW07\nZm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7\nZm9udC1zdHJldGNoOm5vcm1hbDt0ZXh0LWluZGVudDowO3RleHQtYWxpZ246c3RhcnQ7dGV4dC1k\nZWNvcmF0aW9uOm5vbmU7bGluZS1oZWlnaHQ6bm9ybWFsO2xldHRlci1zcGFjaW5nOm5vcm1hbDt3\nb3JkLXNwYWNpbmc6bm9ybWFsO3RleHQtdHJhbnNmb3JtOm5vbmU7ZGlyZWN0aW9uOmx0cjtibG9j\nay1wcm9ncmVzc2lvbjp0Yjt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNob3I6c3RhcnQ7YmFz\nZWxpbmUtc2hpZnQ6YmFzZWxpbmU7Y29sb3I6JnN0cm9rZV9jb2xvcjs7ZmlsbDomc3Ryb2tlX2Nv\nbG9yOztmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9uZTtzdHJva2Ut\nd2lkdGg6My41O21hcmtlcjpub25lO3Zpc2liaWxpdHk6dmlzaWJsZTtkaXNwbGF5OmlubGluZTtv\ndmVyZmxvdzp2aXNpYmxlO2VuYWJsZS1iYWNrZ3JvdW5kOmFjY3VtdWxhdGU7Zm9udC1mYW1pbHk6\nU2FuczstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOlNhbnMiIC8+CiAgICA8cGF0aAogICAg\nICAgZD0ibSAyMi43MTg3NSw2LjkwNjI1IGMgMy4xNDM1MzksMCA1Ljk2NDk3MSwwLjgxNTE2ODMg\nNy44NzUsMS45Njg3NSAxLjg2NDEzMiwxLjEyNTg2MiAyLjczOTgwNSwyLjQyNjk3OCAyLjc4MTI1\nLDMuNjg3NSAtMC4xNzU1OTIsMS4yNTkyNTcgLTAuNzA3MzcsMi4xNTc5MzIgLTEuNTkzNzUsMi45\nNjg3NSAtMC45MDE5MzQsMC44MjUwNDUgLTIuMTgxNzE5LDEuNDkwOTEgLTMuNTMxMjUsMiAtMC4y\nOTgwOTksMC4xMDI5MzUgLTEuODUyMjM4LDAuNjkxMzU4IC0xLjg1MjIzOCwwLjY5MTM1OCAwLDAg\nMC4xMzc5MTIsMS43Njc0NzcgMS4zNDYyMSwzLjgwMjY1OSAtMi43NzE1MTgsLTAuODYyMjI1IC00\nLjA1ODIzNywtMi4wODI1NTcgLTUuMDI1MjIyLC0zLjYxOTAxNyAtMy4xNDM1MzksMCAtNS45NjQ5\nNzEsLTAuNzgzOTE4IC03Ljg3NSwtMS45Mzc1IC0xLjkxMDAyOSwtMS4xNTM1ODIgLTIuNzgxMjUs\nLTIuNTI0NDA4IC0yLjc4MTI1LC0zLjgxMjUgMCwtMS4yODgwOTIgMC44NzEyMjEsLTIuNjI3NjY4\nIDIuNzgxMjUsLTMuNzgxMjUgMS45MTAwMjksLTEuMTUzNTgxNiA0LjczMTQ2MSwtMS45Njg3NSA3\nLjg3NSwtMS45Njg3NSB6IgogICAgICAgaWQ9InBhdGg0MDAxIgogICAgICAgc3R5bGU9ImZvbnQt\nc2l6ZTptZWRpdW07Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdl\naWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDt0ZXh0LWluZGVudDowO3RleHQtYWxpZ246\nc3RhcnQ7dGV4dC1kZWNvcmF0aW9uOm5vbmU7bGluZS1oZWlnaHQ6bm9ybWFsO2xldHRlci1zcGFj\naW5nOm5vcm1hbDt3b3JkLXNwYWNpbmc6bm9ybWFsO3RleHQtdHJhbnNmb3JtOm5vbmU7ZGlyZWN0\naW9uOmx0cjtibG9jay1wcm9ncmVzc2lvbjp0Yjt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNo\nb3I6c3RhcnQ7YmFzZWxpbmUtc2hpZnQ6YmFzZWxpbmU7Y29sb3I6JnN0cm9rZV9jb2xvcjs7Zmls\nbDomZmlsbF9jb2xvcjs7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5v\nbmU7c3Ryb2tlLXdpZHRoOjMuNTttYXJrZXI6bm9uZTt2aXNpYmlsaXR5OnZpc2libGU7ZGlzcGxh\neTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZTtlbmFibGUtYmFja2dyb3VuZDphY2N1bXVsYXRlO2Zv\nbnQtZmFtaWx5OlNhbnM7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjpTYW5zIiAvPgogIDwv\nZz4KPC9zdmc+Cg==\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 21, 
+            "whats_new": {}, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_stable_21.xo"
+        }
+    ], 
+    "title": {
+        "ayc": "Foto katuqata wakicha\u00f1a", 
+        "bn": "FotoToon", 
+        "da": "FotoTegneseriefigur", 
+        "de": "Bildergeschichten", 
+        "el": "\u03a6\u03c9\u03c4\u03bf\u039a\u03cc\u03bc\u03b9\u03ba", 
+        "en": "FotoToon", 
+        "en-GB": "FotoToon", 
+        "en-US": "FotoToon", 
+        "en_US": "FotoToon", 
+        "es": "FotoToon", 
+        "fr": "FotoToon", 
+        "hi": "\u092b\u093c\u094b\u091f\u094b\u091f\u0942\u0928", 
+        "hus": "Foto Toon", 
+        "hy": "\u0556\u0578\u057f\u0578\u054f\u0578\u0582\u0576", 
+        "it": "FotoCartoni", 
+        "mi": "PikitiaPakiwaituhi", 
+        "nah": "FotoToon", 
+        "ne": "\u092b\u091f\u094b \u091f\u0941\u0928", 
+        "nl": "FotoToon", 
+        "pap": "FotoToon", 
+        "pbs": "FotoToon", 
+        "pl": "FotoKomiks", 
+        "pt": "Foto Desenhada", 
+        "quz": "WankiToon", 
+        "sr": "\u0424\u043e\u0442\u043e\u0422\u0443\u043d", 
+        "sw": "picha Halisi", 
+        "ta": "FotoToon", 
+        "th": "FotoToon", 
+        "zh-CN": "\u7167\u7247\u5361\u901a", 
+        "zh-TW": "\u76f8\u7247\u5857\u9d09"
+    }, 
+    "version": 21, 
+    "whats_new": {}, 
+    "xo_size": 381636, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_stable_21.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_latest.xo", 
+    "xo_url_latest_timestamp": 1409657256.505928, 
+    "xo_url_timestamp": 1409657256.505404
 }
