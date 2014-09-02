@@ -1,8 +1,37 @@
 {
     "by": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo", 
             "page": "https://www.github.com/godiard"
         }
-    ]
+    ], 
+    "description": {
+        "en_US": "Want to share your work in easy way? Journal Share could help you."
+    }, 
+    "github_current_tag": "v4", 
+    "github_url": "godiard/journalshare-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9k\nYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcv\nbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRh\neC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5z\nPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAw\nIDAgNTUgNTUiCiAgIGhlaWdodD0iNTVweCIKICAgaWQ9IkxheWVyXzEiCiAgIHZlcnNpb249IjEu\nMSIKICAgdmlld0JveD0iMCAwIDU1IDU1IgogICB3aWR0aD0iNTVweCIKICAgeD0iMHB4IgogICB4\nbWw6c3BhY2U9InByZXNlcnZlIgogICB5PSIwcHgiPgo8ZyBkaXNwbGF5PSJibG9jayIKICAgICBp\nZD0iYWN0aXZpdHktam91cm5hbCIKICAgICBzdHlsZT0ic3Ryb2tlOiMwMDAwMDAiPgo8cGF0aAog\nICAgICAgZD0iTTQ1Ljg2Niw0NC42NjkgICBjMCwyLjUxMS0xLjUyOCw0LjMzMS00LjMzMiw0LjMz\nMUgxMi4wNzdWNmgyOS40NThjMi4xNSwwLDQuMzMyLDIuMTU0LDQuMzMyLDQuMzNMNDUuODY2LDQ0\nLjY2OUw0NS44NjYsNDQuNjY5eiIKICAgICAgIGZpbGw9IiZmaWxsX2NvbG9yOyIKICAgICAgIHN0\ncm9rZT0iJnN0cm9rZV9jb2xvcjsiCiAgICAgICBzdHJva2UtbGluZWNhcD0icm91bmQiCiAgICAg\nICBzdHJva2UtbGluZWpvaW49InJvdW5kIgogICAgICAgc3Ryb2tlLXdpZHRoPSIzLjUiCiAgICAg\nICBpZD0icGF0aDMwNTgiLz4KPGxpbmUgZmlsbD0ibm9uZSIKICAgICAgIHN0cm9rZT0iJnN0cm9r\nZV9jb2xvcjsiCiAgICAgICBzdHJva2UtbGluZWNhcD0icm91bmQiCiAgICAgICBzdHJva2UtbGlu\nZWpvaW49InJvdW5kIgogICAgICAgc3Ryb2tlLXdpZHRoPSIzLjUiCiAgICAgICB4MT0iMjEuMzQx\nIgogICAgICAgeDI9IjIxLjM0MSIKICAgICAgIHkxPSI2LjEyMSIKICAgICAgIHkyPSI0OC44ODEi\nLz4KPHBhdGggZD0iTTcuMzg0LDE0LjQ2NCAgIGMwLDAsMi4wODQsMC42OTUsNC4xNywwLjY5NWMy\nLjA4NiwwLDQuMTczLTAuNjk1LDQuMTczLTAuNjk1IgogICAgICAgZmlsbD0ibm9uZSIKICAgICAg\nIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiCiAgICAgICBzdHJva2UtbGluZWNhcD0icm91bmQiCiAg\nICAgICBzdHJva2UtbGluZWpvaW49InJvdW5kIgogICAgICAgc3Ryb2tlLXdpZHRoPSIzLjUiIC8+\nCjxwYXRoIGQ9Ik03LjM4NCwyOC4wMjEgICBjMCwwLDEuOTEyLDAuNjk1LDQuMzQ1LDAuNjk1czMu\nOTk5LTAuNjk1LDMuOTk5LTAuNjk1IgogICAgICAgZmlsbD0ibm9uZSIKICAgICAgIHN0cm9rZT0i\nJnN0cm9rZV9jb2xvcjsiCiAgICAgICBzdHJva2UtbGluZWNhcD0icm91bmQiCiAgICAgICBzdHJv\na2UtbGluZWpvaW49InJvdW5kIgogICAgICAgc3Ryb2tlLXdpZHRoPSIzLjUiIC8+CjxwYXRoIGQ9\nIk03LjM4NCw0MS4yMzIgICBjMCwwLDEuNzM2LDAuNjk1LDQuNTE4LDAuNjk1YzIuNzgxLDAsMy44\nMjUtMC42OTUsMy44MjUtMC42OTUiCiAgICAgICBmaWxsPSJub25lIgogICAgICAgc3Ryb2tlPSIm\nc3Ryb2tlX2NvbG9yOyIKICAgICAgIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICAgICAgIHN0cm9r\nZS1saW5lam9pbj0icm91bmQiCiAgICAgICBzdHJva2Utd2lkdGg9IjMuNSIvPjwvZz4KPGcgdHJh\nbnNmb3JtPSJtYXRyaXgoMC41NjkyMjg5NiwwLDAsMC41NDEwNTY5OCw0Ny4yODUyNTgsMjMuODA5\nMzYxKSIKICAgICBzdHlsZT0iZGlzcGxheTpibG9jayIKICAgICBkaXNwbGF5PSJibG9jayIKICAg\nICBpZD0iYWN0aXZpdHktYnJvd3NlIj4KPGNpcmNsZSBkPSJtIDQ3LjI3OCwyNy41IGMgMCwxMC45\nOTIxMjMgLTguOTEwODc3LDE5LjkwMyAtMTkuOTAzLDE5LjkwMyAtMTAuOTkyMTIzLDAgLTE5Ljkw\nMjk5OTksLTguOTEwODc3IC0xOS45MDI5OTk5LC0xOS45MDMgMCwtMTAuOTkyMTIzIDguOTEwODc2\nOSwtMTkuOTAyOTk5OSAxOS45MDI5OTk5LC0xOS45MDI5OTk5IDEwLjk5MjEyMywwIDE5LjkwMyw4\nLjkxMDg3NjkgMTkuOTAzLDE5LjkwMjk5OTkgeiIKICAgICAgIHN0eWxlPSJmaWxsOiZmaWxsX2Nv\nbG9yOztzdHJva2U6JnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjMuNTtkaXNwbGF5OmlubGlu\nZSIKICAgICAgIGN4PSIyNy4zNzUiCiAgICAgICBjeT0iMjcuNSIKICAgICAgIGRpc3BsYXk9Imlu\nbGluZSIKICAgICAgIHI9IjE5LjkwMyIKICAgICAgIGlkPSJjaXJjbGUzMTU4IgogICAgICAgdHJh\nbnNmb3JtPSJ0cmFuc2xhdGUoLTM4LjU5NjQ5MSw2LjQzMjc0ODUpIiAvPgo8ZyBzdHlsZT0iZGlz\ncGxheTppbmxpbmU7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS1vcGFjaXR5OjEiCiAgICAg\nICBkaXNwbGF5PSJpbmxpbmUiCiAgICAgICBpZD0iZzMxNjAiCiAgICAgICB0cmFuc2Zvcm09InRy\nYW5zbGF0ZSgtMzguNTk2NDkxLDYuNDMyNzQ4NSkiPgo8cGF0aCBzdHlsZT0iZmlsbDomZmlsbF9j\nb2xvcjs7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDozLjUwMDAwMDAwMDAwMDAw\nMDAwO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1\ncmU9IjAiCiAgICAgICAgIGQ9Im0gMjcuMzc2LDcuNTk4IGMgMCwwIC0xMS4yMDUsOC4zOTQgLTEx\nLjIwNSwxOS45NzYgMCwxMS41ODMgMTEuMjA1LDE5LjgyOSAxMS4yMDUsMTkuODI5Ii8+CjxwYXRo\nIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOztzdHJva2U6JnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdp\nZHRoOjMuNTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3Vy\ndmF0dXJlPSIwIgogICAgICAgICBkPSJtIDI3LjM3Niw3LjU5OCBjIDAsMCAxMS4wNjYsOS4xNDEg\nMTEuMDY2LDE5Ljk3NiAwLDEwLjgzOSAtMTEuMDY2LDE5LjgyOSAtMTEuMDY2LDE5LjgyOSIgLz4K\nPGxpbmUgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0cm9rZTomc3Ryb2tlX2NvbG9yOztzdHJv\na2Utd2lkdGg6My41O3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICAgIHgxPSIyNy4zNzU5OTkiCiAg\nICAgICAgIHgyPSIyNy4zNzU5OTkiCiAgICAgICAgIHkxPSI3LjU5OCIKICAgICAgICAgeTI9IjQ3\nLjQwMiIgLz4KPGxpbmUgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0cm9rZTomc3Ryb2tlX2Nv\nbG9yOztzdHJva2Utd2lkdGg6My41O3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICAgIHgxPSIyNy4z\nNzU5OTkiCiAgICAgICAgIHgyPSIyNy4zNzU5OTkiCiAgICAgICAgIHkxPSI3LjU5OCIKICAgICAg\nICAgeTI9IjQ3LjQwMiIgLz4KPGxpbmUgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0cm9rZTom\nc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6My41O3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICAg\nIHgxPSIyNy4zNzU5OTkiCiAgICAgICAgIHgyPSIyNy4zNzU5OTkiCiAgICAgICAgIHkxPSI3LjU5\nOCIKICAgICAgICAgeTI9IjQ3LjQwMiIvPgo8bGluZSBzdHlsZT0iZmlsbDomZmlsbF9jb2xvcjs7\nc3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDozLjU7c3Ryb2tlLW9wYWNpdHk6MSIK\nICAgICAgICAgeDE9IjcuNDcyMDAwMSIKICAgICAgICAgeDI9IjQ3LjI3OCIKICAgICAgICAgeTE9\nIjI3LjUiCiAgICAgICAgIHkyPSIyNy41IiAvPgo8L2c+CjwvZz4KPC9zdmc+Cg==\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 5, 
+            "whats_new": {}, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.JournalShare_stable_5.xo"
+        }
+    ], 
+    "title": {
+        "en_US": "Journal Share"
+    }, 
+    "version": 5, 
+    "whats_new": {}, 
+    "xo_size": 199140, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.JournalShare_stable_5.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.JournalShare_latest.xo", 
+    "xo_url_latest_timestamp": 1409657242.376183, 
+    "xo_url_timestamp": 1409657242.375849
 }
