@@ -1,8 +1,99 @@
 {
     "by": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo", 
             "page": "https://www.github.com/godiard"
         }
-    ]
+    ], 
+    "description": {
+        "ayc": "\u00bfQullqi suma yati\u00f1ampi apnaqa\u00f1a muntati? \u00a1Qullqi suma apnaqa\u00f1ataki wakichasi\u00f1a yatiqma ukata utankirinakama qullqinch\u00e4wi suma ch'amanchma, qullqima suma t'uqiyma ukata sapa miyu chiqaparu irtma!", 
+        "da": "Vil du h\u00e5ndtere dine penge klogt? L\u00e6r det grundl\u00e6ggende om \u00f8konomisk planl\u00e6gning og f\u00f8lg din families \u00f8konomi. Lav dine egne budgetter og l\u00e6r hvordan du f\u00e5r hver \u00f8re til at t\u00e6lle!", 
+        "en": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
+        "en-GB": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
+        "en-US": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
+        "en_US": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
+        "es": "\u00bfDeseas administrar sabiamente el dinero? \u00a1Aprende lo b\u00e1sico de planificaci\u00f3n financiera y el seguimiento de las finanzas de tu familia, haz tu propio presupuesto y aprende a aprovechar cada centavo!", 
+        "fr": "Vous voulez g\u00e9rer votre argent plus intelligemment ?  Apprenez les\nbases de la gestion financi\u00e8re et suivez le budget de votre famille,\nfaites votre propre budget et apprenez \u00e0 faire que chaque centime\ncompte !", 
+        "hy": "\u0551\u0561\u0576\u056f\u0561\u0576\u0578\u0582\u055e\u0574 \u0565\u057d \u056d\u0565\u056c\u0561\u0574\u057f\u0578\u0580\u0565\u0576 \u0572\u0565\u056f\u0561\u057e\u0561\u0580\u0565\u056c \u0563\u0578\u0582\u0574\u0561\u0580\u0568. \u054d\u0578\u057e\u0578\u0580\u056b\u0580 \u0586\u056b\u0576\u0561\u0576\u057d\u0561\u056f\u0561\u0576 \u056e\u0580\u0561\u0563\u0580\u0574\u0561\u0576 \u0570\u056b\u0574\u0578\u0582\u0576\u0584\u0576\u0565\u0580\u0568 \u0587 \u0570\u0565\u057f\u0587\u056b\u0580 \u0584\u0578 \u0568\u0576\u057f\u0561\u0576\u056b\u0584\u056b \u0586\u056b\u0576\u0561\u0576\u057d\u0568, \u057d\u057f\u0565\u0572\u056e\u056b\u0580 \u0584\u0578 \u057d\u0565\u0583\u0561\u056f\u0561\u0576 \u0562\u0575\u0578\u0582\u057b\u0565\u0576 \u0587 \u057d\u0578\u057e\u0578\u0580\u056b\u0580 \u056f\u0561\u057f\u0561\u0580\u0565\u056c \u0575\u0578\u0582\u0580\u0561\u0584\u0561\u0576\u0579\u0575\u0578\u0582\u0580 \u0563\u0580\u0578\u0577\u056b \u0570\u0561\u0577\u057e\u0561\u0580\u056f\u0568.", 
+        "it": "Vuoi amministrare saggiamente i tuoi soldi? Impare le regole base della pianificazione finanziaria e traccia i soldi della tua famiglia, crea la tua propria disponibilit\u00e0 e impara a far fruttare ogni tuo soldino!", 
+        "ne": "\u0915\u0947 \u0924\u092a\u093e\u0908\u0901 \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u093e\u092a\u0942\u0930\u094d\u0935\u0915 \u092a\u0948\u0938\u093e \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e\u092a\u0928 \u0917\u0930\u094d\u0928 \u091a\u093e\u0939\u0928\u0941\u0939\u0941\u0928\u094d\u091b? \u0906\u0927\u093e\u0930\u092d\u0942\u0924 \u0935\u093f\u0924\u094d\u0924\u0940\u092f \u092f\u094b\u091c\u0928\u093e \u0905\u0927\u094d\u092f\u092f\u0928 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d \u0930 \u0924\u092a\u093e\u0908\u0901\u0915\u094b \u092a\u0930\u093f\u0935\u093e\u0930\u0915\u094b \u0906\u092e\u094d\u0926\u093e\u0928\u0940 \u091f\u094d\u0930\u094d\u092f\u093e\u0915 \u0930\u093e\u0916\u094d\u0928, \u0906\u092b\u094d\u0928\u094b \u092c\u091c\u0947\u091f \u0924\u092f\u093e\u0930 \u0917\u0930\u094d\u0928 \u0930 \u0925\u094b\u0930\u0948 \u092a\u0948\u0938\u093e\u0915\u094b \u092a\u0928\u093f \u0909\u092a\u092f\u094b\u0917 \u0917\u0930\u094d\u0928 \u0938\u093f\u0915\u094d\u0928\u0941\u0939\u094b\u0938\u094d\u0964", 
+        "nl": "Wil jij je geld wijs beheren? Leer de basis van financi\u00eble planning en volgen van de gezinsfinanci\u00ebn, maak je eigen budget en leer hoe iedere penny telt!", 
+        "pap": "Bo ke maneh\u00e1 plaka di manera sab\u00ed? Si\u00f1a planifikashon finansiero b\u00e1siko i sigui bo famia su finansa, traha bo mes presupuesto i si\u00f1a kon pone kada s\u00e8n konta.", 
+        "pbs": "Kimieng natung majau re ki\u00f1kiejen' ?\u00a1Tasaut kiju'u re li'iajaun' ma natung re tamei\u00f1' manaku'uts natung rand-ejem re tanjiat', vichjaut rabe'en viju'ut manatung ka nda ngul'ue\u00ec tamei\u00f1!", 
+        "pl": "Chcesz nauczy\u0107 si\u0119 m\u0105drze zarz\u0105dza\u0107 pieni\u0119dzmi? Naucz si\u0119 podstaw planowania finansowego, \u015bled\u017a finanse swojej rodziny, stw\u00f3rz w\u0142asny bud\u017cet i spraw, \u017ceby ka\u017cdy grosz si\u0119 liczy\u0142!", 
+        "pt": "Queres gerir sabiamente o teu dinheiro? Aprende as bases do planeamento financeiro e acompanha as finan\u00e7as da tua fam\u00edlia, faz os teus pr\u00f3prios or\u00e7amentos e aprende a aproveitar cada c\u00eantimo.", 
+        "zh-CN": "\u8981\u660e\u667a\u5730\u7ba1\u7406\u8d44\u91d1\u5417\uff1f\u4e86\u89e3\u8d22\u52a1\u89c4\u5212\u7684\u57fa\u7840\u77e5\u8bc6\u5e76\u8ddf\u8e2a\u4f60\u5bb6\u4eba\u7684\u8d22\u52a1\uff0c\u5236\u4f5c\u81ea\u5df1\u7684\u9884\u7b97\u5e76\u5b66\u4e60\u5982\u4f55\u8bb0\u5f55\u6bcf\u4e00\u5206\u94b1\uff01"
+    }, 
+    "github_current_tag": "v11", 
+    "github_url": "godiard/finance-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBB\nZG9iZSBJbGx1c3RyYXRvciAxNC4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9u\nOiA2LjAwIEJ1aWxkIDQzMzYzKSAgLS0+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9E\nVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9z\ndmcxMS5kdGQiWw0KICAgICA8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMDAwMDAiPg0KICAgICA8\nIUVOVElUWSBmaWxsX2NvbG9yICIjRkZGRkZGIj4NCiBdPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlk\nPSJGaW5hbmNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5r\nPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9\nIjU1cHgiIGhlaWdodD0iNTVweCIgdmlld0JveD0iMCAwIDU1IDU1IiBlbmFibGUtYmFja2dyb3Vu\nZD0ibmV3IDAgMCA1NSA1NSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBpZD0iUGFwZXIw\nNCIgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lk\ndGg9IjMuNSIgZD0iTTUuODMzLDMxLjc1YzAsMCw5Ljk0OCwxMS41LDE1LjY2NywxOA0KCWMxMC4y\nODEtNy43MTksMTkuNzQ4LTE3LjgyOCwxOS43NDgtMTcuODI4Ii8+DQo8cGF0aCBpZD0iUGFwZXIw\nMyIgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lk\ndGg9IjMuNSIgZD0iTTUuMzMzLDE5bDEuOTE3LDUuODc1bDAuOTE2LDguNTQybDIsMC4yNQ0KCWMw\nLDAsMS4wNCwzLjkyMSwyLjU0Miw4LjM3NUMzMC43NSwzNy41NDIsNDAuMzMzLDMyLDQwLjMzMywz\nMiIvPg0KPHBhdGggaWQ9IlBhcGVyMDJfMV8iIGZpbGw9IiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSIm\nc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIzLjUiIGQ9Ik00Ni41NDcsMTcuOTk0TDQ1LjE5\nNSw3Ljc4Mg0KCWMwLDAtMjEuMzI0LDYuMjk5LTM5LjI2Miw0LjM3NWwyLjIzMywyMS4yNmMwLDAs\nMTYuNDk4LDAuMTUyLDMwLjc1Ny0zLjMxOSIvPg0KPHBvbHlsaW5lIGlkPSJQYXBlcjAxIiBmaWxs\nPSJub25lIiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgcG9pbnRz\nPSIzMi44MzMsMTEgMzYuMzA5LDYuNzU2IDM5LjE2Nyw5LjgzMyAiLz4NCjxwYXRoIGlkPSJQcmVz\naWRlbnQiIGZpbGw9IiZzdHJva2VfY29sb3I7IiBzdHJva2U9Im5vbmUiIGQ9Ik0zMC44NzUsMTku\nNjg4YzAsMS4zODQtMC42NjIsMi42MTQtMS42ODgsMy4zOTFjMC45MzgsMS40ODQsMy45MzgsMi40\nMjEsMy45MzgsMi40MjENCglzLTIuMDYzLDIuODEzLTUuOTM4LDMuMTg4Yy0zLjg3NSwwLjM3NS01\nLjkzOC0yLjEyNS01LjkzOC0yLjEyNVMyNCwyNS41LDI0Ljk3MSwyMy42MDRjLTEuNTI1LTAuNjQ2\nLTIuNTk2LTIuMTU2LTIuNTk2LTMuOTE3DQoJYzAtMi4zNDcsMS45MDMtNC4yNSw0LjI1LTQuMjVD\nMjguOTczLDE1LjQzOCwzMC44NzUsMTcuMzQxLDMwLjg3NSwxOS42ODh6Ii8+DQo8Y2lyY2xlIGlk\nPSJDb2luIiBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9r\nZS13aWR0aD0iMy41IiBjeD0iNDQuMzU1IiBjeT0iMjUuNSIgcj0iNy41Ii8+DQo8L3N2Zz4NCg==\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 11, 
+            "whats_new": {
+                "en_US": "<br/>* Fix Keep error."
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_stable_11.xo"
+        }
+    ], 
+    "title": {
+        "ar": "\u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f", 
+        "ayc": "Qullqinch\u00e4winaka", 
+        "bn": "\u0985\u09b0\u09cd\u09a5-\u09b8\u0982\u09b8\u09cd\u09a5\u09be\u09a8", 
+        "ca": "Finances", 
+        "cs": "Finance", 
+        "da": "Finans", 
+        "de": "Finanzen", 
+        "el": "\u03a4\u03b1 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ac \u03bc\u03bf\u03c5", 
+        "en": "Finance", 
+        "en-GB": "Finance", 
+        "en-US": "Finance", 
+        "en_US": "Finance", 
+        "es": "Finanzas", 
+        "fa-AF": "\u0645\u0627\u0644\u06cc", 
+        "fr": "Finance", 
+        "hi": "\u0935\u093f\u0924\u094d\u0924", 
+        "ht": "Finans", 
+        "hus": "Ataj jalbixtalab", 
+        "hy": "\u0556\u056b\u0576\u0561\u0576\u057d\u0561\u057e\u0578\u0580\u0578\u0582\u0574", 
+        "it": "Finanza", 
+        "km": "\u17a0\u17b7\u179a\u1789\u17d2\u1789\u179c\u178f\u17d2\u1790\u17bb", 
+        "mi": "P\u016btea", 
+        "ms": "Kewangan", 
+        "ne": "\u0905\u0930\u094d\u0925\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e", 
+        "nl": "Financi\u00ebn", 
+        "pap": "Finansa", 
+        "pbs": "Tamei\u00f1'", 
+        "pl": "Finanse", 
+        "ps": "\u0645\u0627\u0644\u064a", 
+        "pt": "Finan\u00e7as", 
+        "pt-BR": "Finan\u00e7a", 
+        "quz": "Qullqi-yupana", 
+        "si": "\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba", 
+        "sl": "Finance", 
+        "sq": "Financ\u00eb", 
+        "sr": "\u0424\u0438\u043d\u0430\u043d\u0441\u0438\u0458\u0435", 
+        "sv": "Finans", 
+        "sw": "fedha", 
+        "ta": "\u0ba8\u0bbf\u0ba4\u0bbf", 
+        "th": "\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19", 
+        "vi": "T\u00e0i ch\u00ednh", 
+        "zh-CN": "\u8d22\u52a1\u7ba1\u7406", 
+        "zh-TW": "\u8ca1\u52d9\u7ba1\u7406"
+    }, 
+    "version": 11, 
+    "whats_new": {
+        "en_US": "<br/>* Fix Keep error."
+    }, 
+    "xo_size": 506396, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_stable_11.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_latest.xo", 
+    "xo_url_latest_timestamp": 1409657993.020952, 
+    "xo_url_timestamp": 1409657993.020322
 }
