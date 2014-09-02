@@ -1,8 +1,41 @@
 {
     "by": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo", 
             "page": "https://www.github.com/godiard"
         }
-    ]
+    ], 
+    "description": {
+        "en_US": "Having trouble using your computer or an activity? Want to learn more? Just click here!"
+    }, 
+    "github_current_tag": "v16", 
+    "github_url": "godiard/help-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMDAiPgoJPCFFTlRJVFkgZmlsbF9j\nb2xvciAiI2VlZSI+Cl0+PHN2ZyBoZWlnaHQ9IjU1cHgiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lk\ndGg9IjU1cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9\nImh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogPGc+CiAgPHBhdGggc3Ryb2tlPSImc3Ry\nb2tlX2NvbG9yOyIgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0\ncm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMy41IiBkPSJNIDUwIDI3LjYyNSBD\nIDUwIDM5Ljk2ODEgMzkuODQzMSA1MC4xMjUgMjcuNSA1MC4xMjUgQyAxNS4xNTY5IDUwLjEyNSA1\nIDM5Ljk2ODEgNSAyNy42MjUgQyA1IDE1LjI4MTkgMTUuMTU2OSA1LjEyNSAyNy41IDUuMTI1IEMg\nMzkuODQzMSA1LjEyNSA1MCAxNS4yODE5IDUwIDI3LjYyNSBaICIgLz4KICA8cGF0aCBkPSJNIDIz\nLjk1NiAyNy4xNjcgQyAyMy45NTYgMjUuNTQ2IDI1Ljc1NiAyNS4yNzcgMjcuNjAxIDI0Ljc4MSBD\nIDI5LjQwMSAyNC4yODYgMzEuMjAxIDIzLjU2NiAzMS4yMDEgMjAuOTU2IEMgMzEuMjAxIDE4Ljk3\nNiAyOS4zNTYgMTcuNTM2IDI3LjQ2NyAxNy41MzYgQyAyMy42ODcgMTcuNTM2IDIzLjEwMiAyMS45\nOTEgMjAuMjIxIDIxLjk5MSBDIDE4LjYwMSAyMS45OTEgMTcuNDc2IDIwLjczMSAxNy40NzYgMTgu\nNzUxIEMgMTcuNDc2IDE0LjAyNSAyMy40MTYgMTEuMzI2IDI3LjQ2NyAxMS4zMjYgQyAzMy4yNzMg\nMTEuMzI2IDM4LjIyMyAxNC45MjYgMzguMjIzIDIwLjk1NyBDIDM4LjIyMyAyNS45NTIgMzUuMDcz\nIDI4Ljg3OCAzMC40MzggMzAuMDQ4IEwgMzAuNDM4IDMxLjY2NyBDIDMwLjQzOCAzMy40NjggMjku\nMDg3IDM0Ljc3MiAyNy4xOTcgMzQuNzcyIEMgMjUuMTcyIDM0Ljc3MiAyMy45NTcgMzMuNDY3IDIz\nLjk1NyAzMS42NjcgTCAyMy45NTcgMjcuMTY3IFogTSAyMy42ODYgNDAuOTM3IEMgMjMuNjg2IDM5\nLjAwMiAyNS4yNjEgMzcuNDI3IDI3LjE5NiAzNy40MjcgQyAyOS4xMzIgMzcuNDI3IDMwLjcwNiAz\nOS4wMDIgMzAuNzA2IDQwLjkzNyBDIDMwLjcwNiA0Mi44NzMgMjkuMTMyIDQ0LjQ0OSAyNy4xOTYg\nNDQuNDQ5IEMgMjUuMjYxIDQ0LjQ0OCAyMy42ODYgNDIuODcyIDIzLjY4NiA0MC45MzcgWiAiIGZp\nbGw9IiZzdHJva2VfY29sb3I7IiBzdHJva2U9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIg\nc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzLjUiIC8+CiA8L2c+Cjwvc3Zn\nPgo=\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 17.2, 
+            "whats_new": {
+                "en_US": null
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_17.2.xo"
+        }
+    ], 
+    "title": {
+        "en_US": "Help"
+    }, 
+    "version": 17.2, 
+    "whats_new": {
+        "en_US": null
+    }, 
+    "xo_size": 17845732, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_17.2.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_latest.xo", 
+    "xo_url_latest_timestamp": 1409655724.863693, 
+    "xo_url_timestamp": 1409655724.845654
 }
