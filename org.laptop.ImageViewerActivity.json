@@ -1,8 +1,91 @@
 {
     "by": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo", 
             "page": "https://www.github.com/godiard"
         }
-    ]
+    ], 
+    "description": {
+        "en_US": "An easy way and fast way to see your images! You can also change the way your image looks with zoom, rotate, size change and so on."
+    }, 
+    "github_current_tag": "v59", 
+    "github_url": "godiard/imageviewer-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3Mv\nU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIiBbCiAgPCFFTlRJVFkgZmlsbF9jb2xvciAiI0ZGRkZGRiI+\nCiAgPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMDEwMTAxIj4KXT4KPHN2ZwogICB4bWxuczpkYz0i\naHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3Jl\nYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5\nOS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8y\nMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB2ZXJzaW9u\nPSIxLjEiCiAgIHdpZHRoPSI1MCIKICAgaGVpZ2h0PSI1MCIKICAgaWQ9InN2ZzMxNDQiPgogIDxk\nZWZzCiAgICAgaWQ9ImRlZnMzMTY2IiAvPgogIDxyZWN0IHg9IjMiIHk9IjE0IiB3aWR0aD0iNDQi\nIGhlaWdodD0iMzIiIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOyIvPgogIDxnCiAgICAgdHJhbnNm\nb3JtPSJtYXRyaXgoMC45Mjc0OTYzOCwwLDAsMC45Mjc0OTYzOCwtNzkuMDc5ODA5LC0xNjIuMTEy\nODkpIgogICAgIGlkPSJnMzI1NSIgc3R5bGU9ImZpbGw6JnN0cm9rZV9jb2xvcjsiPgogICAgPHBh\ndGgKICAgICAgIGQ9Im0gMTAyLjY2MywyMDUuNjk0IGMgLTIuMDcsLTAuMDM0IC0zLjcxNiwtMS42\nODggLTMuNjg1LC0zLjY5OCAwLjAzMiwtMi4xMDQgMS43MzMsLTMuNzYxIDMuODIxLC0zLjcyNCAy\nLjAyOSwwLjAzNSAzLjY4NywxLjcyMSAzLjY4MSwzLjczOSAtMC4wMDUsMi4wOTkgLTEuNjg1LDMu\nNzIgLTMuODE3LDMuNjgzIHoiCiAgICAgICBpZD0icGF0aDMyMDkiIC8+CiAgICA8cGF0aAogICAg\nICAgZD0iTSAxMzUuOTQ4LDIyNS43MjYgSCA4OC40ODUgdiAtMzYuODM0IGggNDcuNDYyIHYgMzYu\nODM0IHogbSAtNDQuODExLC0yLjY1MSBoIDQyLjE2IHYgLTMxLjUzMyBoIC00Mi4xNiB2IDMxLjUz\nMyB6IgogICAgICAgaWQ9InBhdGgzMjExIiAvPgogICAgPHBhdGgKICAgICAgIGQ9Ik0gMTMxLjI3\nMiwyMjEuMDUxIEggOTMuMTYxIHYgLTI3LjQ4NCBoIDM4LjExMSB2IDI3LjQ4NCB6IE0gOTQuNDYx\nLDIxOS43NSBoIDM1LjUxMSBWIDE5NC44NjcgSCA5NC40NjEgdiAyNC44ODMgeiIKICAgICAgIGlk\nPSJwYXRoMzIxMyIgLz4KICAgIDxjaXJjbGUKICAgICAgIGN4PSIxMTIuMjE3IgogICAgICAgY3k9\nIjE4MC4xMzQ5OSIKICAgICAgIHI9IjIuMTE0MDAwMSIKICAgICAgIGlkPSJjaXJjbGUzMjE1IiAv\nPgogICAgPHBhdGgKICAgICAgIGQ9Im0gMTAxLjMxNSwxOTAuNDM5IGMgLTAuMjU2LDAgLTAuNTEy\nLC0wLjA5OCAtMC43MDcsLTAuMjkzIC0wLjM5MSwtMC4zOTEgLTAuMzkxLC0xLjAyMyAwLC0xLjQx\nNCBsIDYuNjIzLC02LjYyMyBjIDAuMzkxLC0wLjM5MSAxLjAyMywtMC4zOTEgMS40MTQsMCAwLjM5\nMSwwLjM5MSAwLjM5MSwxLjAyMyAwLDEuNDE0IGwgLTYuNjIzLDYuNjIzIGMgLTAuMTk1LDAuMTk1\nIC0wLjQ1MSwwLjI5MyAtMC43MDcsMC4yOTMgeiIKICAgICAgIGlkPSJwYXRoMzIxNyIgLz4KICAg\nIDxwYXRoCiAgICAgICBkPSJtIDEyMi45MTgsMTkwLjQzOSBjIC0wLjI1NiwwIC0wLjUxMiwtMC4w\nOTggLTAuNzA3LC0wLjI5MyBsIC02LjYyNCwtNi42MjMgYyAtMC4zOTEsLTAuMzkgLTAuMzkxLC0x\nLjAyMyAwLC0xLjQxNCAwLjM5MSwtMC4zOTEgMS4wMjMsLTAuMzkxIDEuNDE0LDAgbCA2LjYyNCw2\nLjYyMyBjIDAuMzkxLDAuMzkxIDAuMzkxLDEuMDIzIDAsMS40MTQgLTAuMTk1LDAuMTk1IC0wLjQ1\nMSwwLjI5MyAtMC43MDcsMC4yOTMgeiIKICAgICAgIGlkPSJwYXRoMzIxOSIgLz4KICAgIDxwb2x5\nZ29uCiAgICAgICBwb2ludHM9IjkzLjgxMSwyMjAuNCA5My44MTEsMjEzLjMzNCAxMDkuMTE0LDIx\nNi42ODEgMTMwLjU2NCwyMTYuNjgxIDEzMC4zNDQsMjIwLjQgIgogICAgICAgaWQ9InBvbHlnb24z\nMjIxIiAvPgogICAgPHBvbHlnb24KICAgICAgIHBvaW50cz0iMTIzLjU3MiwyMTIuNjU0IDEyMy41\nNzIsMjE2LjY4MSAxMjEuNjE1LDIxNi42ODEgMTIxLjYxNSwyMTIuNjUyIDExNy43MiwyMTIuNjUy\nIDEyMi40OTksMTk5LjEzNSAxMjcuMzIzLDIxMi42NTQgIgogICAgICAgaWQ9InBvbHlnb24zMjIz\nIiAvPgogICAgPHBvbHlnb24KICAgICAgIHBvaW50cz0iMTEzLjQ4MiwyMTQuNiAxMTMuNDgyLDIx\nNy4zMTkgMTEyLjE2LDIxNy4zMTkgMTEyLjE2LDIxNC41OTkgMTA5LjUzLDIxNC41OTkgMTEyLjc1\nOCwyMDUuNDY5IDExNi4wMTUsMjE0LjYgIgogICAgICAgaWQ9InBvbHlnb24zMjI1Ii8+CiAgPC9n\nPgo8L3N2Zz4K\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 59, 
+            "whats_new": {
+                "en_US": "<br/>* Touch gestures implementation<br/>* port to gtk3"
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_59.xo"
+        }
+    ], 
+    "title": {
+        "ar": "\u0639\u0627\u0631\u0636 \u0627\u0644\u0635\u0648\u0631", 
+        "ayc": "U\u00f1jasiwi unjaya\u00f1ataki", 
+        "aym": "U\u00f1jasiwi unjaya\u00f1ataki", 
+        "bn": "\u099b\u09ac\u09bf \u09aa\u09cd\u09b0\u09a6\u09b0\u09cd\u09b6\u0995", 
+        "bn-IN": "\u099a\u09bf\u09a4\u09cd\u09b0 \u09aa\u09cd\u09b0\u09a6\u09b0\u09cd\u09b6\u0995", 
+        "ca": "Visor d'imatges", 
+        "cs": "Prohl\u00ed\u017ee\u010d obr\u00e1zk\u016f", 
+        "da": "Billedefremviser", 
+        "de": "Bildbetrachter", 
+        "el": "\u03a0\u03c1\u03bf\u03b2\u03bf\u03bb\u03ad\u03b1\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03c9\u03bd", 
+        "en": "Image Viewer", 
+        "en-GB": "Image Viewer", 
+        "en-US": "Image Viewer", 
+        "en_US": "Image Viewer", 
+        "es": "Visor de imagenes", 
+        "fa-AF": "\u062a\u0645\u0627\u0634\u0627\u06af\u0631 \u062a\u0635\u0648\u06cc\u0631", 
+        "fr": "Visualiseur d'image", 
+        "hi": "\u091b\u0935\u093f \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0915", 
+        "hu": "K\u00e9pn\u00e9zet", 
+        "hus": "M\u00e9t'nib t'iplab", 
+        "hy": "\u054a\u0561\u057f\u056f\u0565\u0580\u0576\u0565\u0580\u056b \u0564\u056b\u057f\u0561\u056f", 
+        "id": "Penampil Gambar", 
+        "it": "Visualizzatore di immagini", 
+        "ja": "\u753b\u50cf\u30d3\u30e5\u30fc\u30ef", 
+        "km": "\u17a2\u17d2\u1793\u1780\u1794\u1784\u17d2\u17a0\u17b6\u1789\u179a\u17bc\u1794\u1797\u17b6\u1796", 
+        "ko": "\uc774\ubbf8\uc9c0 \ubdf0\uc5b4", 
+        "mg": "Fijerena Sary", 
+        "mi": "Kaitiro Atahanga", 
+        "mn": "\u0417\u0443\u0440\u0430\u0433 \u04ae\u0437\u044d\u0445", 
+        "nb": "Bildeviser", 
+        "ne": "\u0924\u0938\u094d\u0935\u0940\u0930 \u092d\u094d\u092f\u0941\u0905\u0930", 
+        "nl": "Afbeeldingsweergave", 
+        "pap": "Visualisad\u00f3 di im\u00e1gen", 
+        "pbs": "Ndanu xikji'ik", 
+        "pl": "Obrazki", 
+        "ps": "\u0627\u0646\u0681\u0648\u0631 \u0644\u064a\u062f\u0648\u0646\u06cd", 
+        "pt": "Ver Imagem", 
+        "pt-BR": "Visualizador de Imagens", 
+        "quz": "Wankikuna rikuchiq", 
+        "ru": "\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u043a", 
+        "si": "\u0db4\u0dd2\u0db1\u0dca\u0dad\u0dd6\u0dbb \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dcf", 
+        "sl": "Pregledovalnik slik", 
+        "sq": "Shikues Figure", 
+        "sv": "Bildvisare", 
+        "ta": "\u0baa\u0b9f\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8", 
+        "te": "\u0c2a\u0c4d\u0c30\u0c24\u0c3f\u0c30\u0c42\u0c2a  \u0c26\u0c30\u0c4d\u0c36\u0c3f\u0c28\u0c3f", 
+        "th": "\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e14\u0e39\u0e23\u0e39\u0e1b\u0e20\u0e32\u0e1e", 
+        "tr": "Resim G\u00f6r\u00fcnt\u00fcleyici", 
+        "vi": "B\u1ed9 Xem \u1ea2nh", 
+        "zh-CN": "\u56fe\u7247\u67e5\u770b\u5668", 
+        "zh-TW": "\u700f\u89bd\u5716\u7247"
+    }, 
+    "version": 59, 
+    "whats_new": {
+        "en_US": "<br/>* Touch gestures implementation<br/>* port to gtk3"
+    }, 
+    "xo_size": 285048, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_59.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_latest.xo", 
+    "xo_url_latest_timestamp": 1409726683.240454, 
+    "xo_url_timestamp": 1409726683.239949
 }
