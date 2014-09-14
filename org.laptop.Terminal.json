@@ -1,8 +1,101 @@
 {
     "by": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo", 
             "page": "https://www.github.com/godiard"
         }
-    ]
+    ], 
+    "description": {
+        "en_US": "Here you have complete control over your computer. You are in charge!!"
+    }, 
+    "github_current_tag": "v42", 
+    "github_url": "godiard/terminal-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1NSA1\nNSIgaGVpZ2h0PSI1NXB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lkdGg9\nIjU1cHgiIHg9IjBweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIg\neT0iMHB4Ij48ZyBkaXNwbGF5PSJibG9jayIgaWQ9ImFjdGl2aXR5LXRlcm1pbmFsIj4KCQoJCTxy\nZWN0IGZpbGw9IiZmaWxsX2NvbG9yOyIgaGVpZ2h0PSIzMi40NDIiIHN0cm9rZT0iJnN0cm9rZV9j\nb2xvcjsiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzLjUiIHdpZHRoPSI0\nMy40NTciIHg9IjUuNjQ2IiB5PSI5LjQwNCIvPgoJPGc+CiAgICAgICAgPHBhdGggZD0iTTExLDE2\nIGw3LDUgbC03LDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13\naWR0aD0iMi4yNSIvPgoJCTxwYXRoIGQ9Ik0yNy42NDYsMjcuODEzdjEuMzkyaC03LjUwMXYtMS4z\nOTJIMjcuNjQ2eiIgZmlsbD0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsi\nIHN0cm9rZS13aWR0aD0iMC41Ii8+Cgk8L2c+CjwvZz48L3N2Zz4=\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 42, 
+            "whats_new": {
+                "en_US": "<br/>*New translations<br/>*Erasing an unusual file OLPC#11218"
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Terminal_stable_42.xo"
+        }
+    ], 
+    "title": {
+        "af": "Terminaal", 
+        "ar": "\u0627\u0644\u0637\u0631\u0641\u064a\u0629", 
+        "ayc": "Mayacha\u00f1a", 
+        "aym": "Mayacha\u00f1a", 
+        "bg": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u043b", 
+        "bn": "\u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2", 
+        "bn-IN": "\u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2", 
+        "cs": "Termin\u00e1l", 
+        "da": "Terminal", 
+        "de": "Terminal", 
+        "dz": "\u0f4a\u0f62\u0f0b\u0f58\u0f72\u0f0b\u0f53\u0f71\u0f63\u0f0d", 
+        "el": "\u03a4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc", 
+        "en": "Terminal", 
+        "en-GB": "Terminal", 
+        "en-US": "Terminal", 
+        "en_US": "Terminal", 
+        "es": "Terminal", 
+        "fa-AF": "\u067e\u0627\u064a\u0627\u0646\u06cc", 
+        "fil": "Terminal", 
+        "fr": "Terminal", 
+        "hi": "\u091f\u0930\u094d\u092e\u093f\u0928\u0932", 
+        "ht": "T\u00e8minal", 
+        "hu": "Termin\u00e1l", 
+        "hus": "Wilk'ixk\u00e1w", 
+        "hy": "\u054e\u0565\u0580\u057b\u0576\u0561\u056f\u0561\u0575\u0561\u0576", 
+        "id": "Terminal", 
+        "it": "Terminale", 
+        "ja": "\u30bf\u30fc\u30df\u30ca\u30eb", 
+        "km": "\u178f\u17c6\u178e\u178f", 
+        "ko": "\ud130\ubbf8\ub110", 
+        "mg": "Famaranana", 
+        "mi": "K\u0101peka", 
+        "mn": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u043b", 
+        "mr": "\u091f\u0930\u094d\u092e\u093f\u0928\u0932", 
+        "nah": "Kampa tlami", 
+        "nb": "Konsoll", 
+        "ne": "\u091f\u0930\u094d\u092e\u093f\u0928\u0932", 
+        "nl": "Terminal", 
+        "pap": "Terminal", 
+        "pbs": "Se ma vutjung", 
+        "pl": "Terminal", 
+        "ps": "\u067c\u0631\u0645\u06cc\u0646\u0644", 
+        "pt": "Terminal", 
+        "pt-BR": "Terminal", 
+        "quz": "Terminal nisqa", 
+        "ru": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u043b", 
+        "rw": "Umusoozo", 
+        "si": "\u0da7\u0dbb\u0dca\u0db8\u0dd2\u0db1\u0dbd\u0dba", 
+        "sk": "Termin\u00e1l", 
+        "sl": "Terminal", 
+        "sq": "Terminali", 
+        "sv": "Terminal", 
+        "sw": "Terminal", 
+        "ta": "\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1", 
+        "te": "\u0c1f\u0c46\u0c30\u0c4d\u0c2e\u0c3f\u0c28\u0c32\u0c4d", 
+        "th": "\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e40\u0e17\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e19\u0e31\u0e25", 
+        "tr": "ana", 
+        "ur": "\u0679\u0631\u0645\u064a\u0646\u0644", 
+        "vi": "Thi\u1ebft b\u1ecb cu\u1ed1i", 
+        "zh-CN": "\u7ec8\u7aef", 
+        "zh-TW": "\u7d42\u7aef\u6a5f"
+    }, 
+    "version": 42, 
+    "whats_new": {
+        "en_US": "<br/>*New translations<br/>*Erasing an unusual file OLPC#11218"
+    }, 
+    "xo_size": 224720, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Terminal_stable_42.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Terminal_latest.xo", 
+    "xo_url_latest_timestamp": 1410671740.055082, 
+    "xo_url_timestamp": 1410671740.054618
 }
