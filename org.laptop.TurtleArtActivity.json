@@ -42,11 +42,11 @@
         {
             "minSugarVersion": "0.86", 
             "screenshots": [], 
-            "version": 208, 
+            "version": 209, 
             "whats_new": {
-                "en_US": "<br/>ENHANCEMENT:<br/>* expand dock for oversized arguments in fill_screen block (et al.)"
+                "en_US": "<br/>ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_208.xo"
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_209.xo"
         }
     ], 
     "title": {
@@ -68,13 +68,13 @@
         "quz": "CharapaBlocks", 
         "zh-CN": "\u6d77\u9f9f\u79ef\u6728"
     }, 
-    "version": 208, 
+    "version": 209, 
     "whats_new": {
-        "en_US": "<br/>ENHANCEMENT:<br/>* expand dock for oversized arguments in fill_screen block (et al.)"
+        "en_US": "<br/>ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)"
     }, 
-    "xo_size": 719620, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_208.xo", 
+    "xo_size": 6513788, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_209.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1410938471.193848, 
-    "xo_url_timestamp": 1409441168.985868
+    "xo_url_latest_timestamp": 1411186321.198987, 
+    "xo_url_timestamp": 1411186321.164652
 }
