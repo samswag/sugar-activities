@@ -19,19 +19,19 @@
         {
             "minSugarVersion": "0.96", 
             "screenshots": [], 
-            "version": 8, 
+            "version": 8.8, 
             "whats_new": {}, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.xo"
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo"
         }
     ], 
     "title": {
         "en_US": "Music Keyboard"
     }, 
-    "version": 8, 
+    "version": 8.8, 
     "whats_new": {}, 
-    "xo_size": 224720, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.xo", 
+    "xo_size": 7060260, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_latest.xo", 
-    "xo_url_latest_timestamp": 1411186089.886867, 
-    "xo_url_timestamp": 1410671689.705172
+    "xo_url_latest_timestamp": 1412895375.964913, 
+    "xo_url_timestamp": 1412895375.872177
 }
