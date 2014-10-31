@@ -24,6 +24,7 @@
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.JournalShare_stable_5.xo"
         }
     ], 
+    "socialhelp_category": "journal-share", 
     "title": {
         "en_US": "Journal Share"
     }, 

@@ -40,6 +40,7 @@
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.GNUChessActivity_stable_15.xo"
         }
     ], 
+    "socialhelp_category": "simplegnuchess", 
     "title": {
         "ayc": "Ajedrez anata\u00f1a", 
         "da": "SimpleGNUChess", 

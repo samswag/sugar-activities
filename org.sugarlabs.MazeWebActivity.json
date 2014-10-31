@@ -21,6 +21,7 @@
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MazeWebActivity_stable_2.xo"
         }
     ], 
+    "socialhelp_category": "maze-web", 
     "title": {
         "en_US": "Maze Web"
     }, 

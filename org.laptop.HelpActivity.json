@@ -26,6 +26,7 @@
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_17.2.xo"
         }
     ], 
+    "socialhelp_category": "help", 
     "title": {
         "en_US": "Help"
     }, 

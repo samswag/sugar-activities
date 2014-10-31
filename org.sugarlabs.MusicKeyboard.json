@@ -24,6 +24,7 @@
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo"
         }
     ], 
+    "socialhelp_category": "music-keyboard", 
     "title": {
         "en_US": "Music Keyboard"
     }, 
