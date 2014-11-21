@@ -6,7 +6,7 @@
         }
     ], 
     "description": {
-        "en_US": "Having trouble using your computer or an activity? Want to learn more? Just click here!"
+        "en-US": "Having trouble using your computer or an activity? Want to learn more? Just click here!"
     }, 
     "github_current_tag": "v16", 
     "github_url": "godiard/help-activity", 
@@ -21,22 +21,22 @@
             "screenshots": [], 
             "version": 17.2, 
             "whats_new": {
-                "en_US": null
+                "en-US": null
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_17.2.xo"
         }
     ], 
     "socialhelp_category": "help", 
     "title": {
-        "en_US": "Help"
+        "en-US": "Help"
     }, 
     "version": 17.2, 
     "whats_new": {
-        "en_US": null
+        "en-US": null
     }, 
     "xo_size": 17845732, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_17.2.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1409655724.863693, 
+    "xo_url_latest_timestamp": 1416572705.257254, 
     "xo_url_timestamp": 1409655724.845654
 }
