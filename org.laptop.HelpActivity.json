@@ -19,24 +19,24 @@
         {
             "minSugarVersion": "0.96", 
             "screenshots": [], 
-            "version": 17.2, 
+            "version": 18, 
             "whats_new": {
                 "en-US": null
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_17.2.xo"
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_18.xo"
         }
     ], 
     "socialhelp_category": "help", 
     "title": {
         "en-US": "Help"
     }, 
-    "version": 17.2, 
+    "version": 18, 
     "whats_new": {
         "en-US": null
     }, 
-    "xo_size": 17845732, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_17.2.xo", 
+    "xo_size": 17847440, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_18.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1416582378.816286, 
-    "xo_url_timestamp": 1409655724.845654
+    "xo_url_latest_timestamp": 1416633391.189484, 
+    "xo_url_timestamp": 1416633390.967562
 }
