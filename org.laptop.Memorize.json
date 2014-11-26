@@ -22,7 +22,7 @@
         "pt": "Aqui podes jogar jogos que desafiam a tua mem\u00f3ria! Mas, mais importante, podes criar o teu pr\u00f3prio jogo para testar a mem\u00f3ria de outros!", 
         "zh-CN": "\u5728\u8fd9\u91cc\uff0c\u4f60\u53ef\u4ee5\u901a\u8fc7\u73a9\u6311\u6218\u4f60\u8bb0\u5fc6\u7684\u6e38\u620f\uff01\u4f46\u662f\uff0c\u66f4\u91cd\u8981\u7684\u662f\uff0c\u4f60\u53ef\u4ee5\u521b\u5efa\u81ea\u5df1\u7684\u6e38\u620f\u6765\u6d4b\u8bd5\u522b\u4eba\u7684\u8bb0\u5fc6\uff01"
     }, 
-    "github_current_tag": "v45", 
+    "github_current_tag": "v49", 
     "github_url": "godiard/memorize-activity", 
     "hasOldToolbars": false, 
     "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1NSA1\nNSIgaGVpZ2h0PSI1NXB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lkdGg9\nIjU1cHgiIHg9IjBweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIg\neT0iMHB4Ij48ZyBkaXNwbGF5PSJibG9jayIgaWQ9ImFjdGl2aXR5LW1lbW9yaXplIj4KCTxyZWN0\nIGRpc3BsYXk9ImlubGluZSIgZmlsbD0iJnN0cm9rZV9jb2xvcjsiIGhlaWdodD0iMTAiIHN0cm9r\nZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMy41IiB3aWR0aD0iMTAiIHg9IjcuMjkx\nIiB5PSI3LjgzMyIvPgoJPHJlY3QgZGlzcGxheT0iaW5saW5lIiBmaWxsPSImZmlsbF9jb2xvcjsi\nIGhlaWdodD0iMTAiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMy41IiB3\naWR0aD0iMTAiIHg9IjIyLjYyNSIgeT0iNy44MzMiLz4KCTxyZWN0IGRpc3BsYXk9ImlubGluZSIg\nZmlsbD0iJnN0cm9rZV9jb2xvcjsiIGhlaWdodD0iMTAiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsi\nIHN0cm9rZS13aWR0aD0iMy41IiB3aWR0aD0iMTAiIHg9IjM3LjM3NSIgeT0iNy44MzMiLz4KCTxy\nZWN0IGRpc3BsYXk9ImlubGluZSIgZmlsbD0iJnN0cm9rZV9jb2xvcjsiIGhlaWdodD0iMTAiIHN0\ncm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMy41IiB3aWR0aD0iMTAiIHg9Ijcu\nMjkxIiB5PSIyMi43NSIvPgoJPHJlY3QgZGlzcGxheT0iaW5saW5lIiBmaWxsPSImc3Ryb2tlX2Nv\nbG9yOyIgaGVpZ2h0PSIxMCIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIz\nLjUiIHdpZHRoPSIxMCIgeD0iMjIuNjI1IiB5PSIyMi43NSIvPgoJPHJlY3QgZGlzcGxheT0iaW5s\naW5lIiBmaWxsPSImZmlsbF9jb2xvcjsiIGhlaWdodD0iMTAiIHN0cm9rZT0iJnN0cm9rZV9jb2xv\ncjsiIHN0cm9rZS13aWR0aD0iMy41IiB3aWR0aD0iMTAiIHg9IjM3LjM3NSIgeT0iMjIuNzUiLz4K\nCTxyZWN0IGRpc3BsYXk9ImlubGluZSIgZmlsbD0iJmZpbGxfY29sb3I7IiBoZWlnaHQ9IjEwIiBz\ndHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgd2lkdGg9IjEwIiB4PSI3\nLjI5MSIgeT0iMzcuNjI1Ii8+Cgk8cmVjdCBkaXNwbGF5PSJpbmxpbmUiIGZpbGw9IiZmaWxsX2Nv\nbG9yOyIgaGVpZ2h0PSIxMCIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIz\nLjUiIHdpZHRoPSIxMCIgeD0iMjIuNjI1IiB5PSIzNy42MjUiLz4KCTxyZWN0IGRpc3BsYXk9Imlu\nbGluZSIgZmlsbD0iJmZpbGxfY29sb3I7IiBoZWlnaHQ9IjEwIiBzdHJva2U9IiZzdHJva2VfY29s\nb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgd2lkdGg9IjEwIiB4PSIzNy4zNzUiIHk9IjM3LjYyNSIv\nPgo8L2c+PC9zdmc+Cg==\n", 
@@ -33,11 +33,11 @@
         {
             "minSugarVersion": "0.96", 
             "screenshots": [], 
-            "version": 48, 
+            "version": 49, 
             "whats_new": {
                 "en-US": "<br/>* Skip full flipping animation if second speaking card is correct<br/>* Typo in Memorize #1233<br/>* Can't play a shared memorize game #1503<br/>* Pass parent to ObjectChooser"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_stable_48.xo"
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_stable_49.xo"
         }
     ], 
     "socialhelp_category": "memorize", 
@@ -94,13 +94,13 @@
         "zh-CN": "\u8bb0\u5fc6\u529b", 
         "zh-TW": "\u8a18\u61b6\u904a\u6232"
     }, 
-    "version": 48, 
+    "version": 49, 
     "whats_new": {
         "en-US": "<br/>* Skip full flipping animation if second speaking card is correct<br/>* Typo in Memorize #1233<br/>* Can't play a shared memorize game #1503<br/>* Pass parent to ObjectChooser"
     }, 
-    "xo_size": 1382716, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_stable_48.xo", 
+    "xo_size": 1382696, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_stable_49.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_latest.xo", 
-    "xo_url_latest_timestamp": 1417028144.955536, 
-    "xo_url_timestamp": 1409657298.444685
+    "xo_url_latest_timestamp": 1417028294.322045, 
+    "xo_url_timestamp": 1417028294.319263
 }
