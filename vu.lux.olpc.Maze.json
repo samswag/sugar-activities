@@ -6,7 +6,7 @@
         }
     ], 
     "description": {
-        "en_US": "Good at finding your way out of hard situations? Let's see! Try to make your way through an increasingly difficult path, or you can also play with a friend!"
+        "en-US": "Good at finding your way out of hard situations? Let's see! Try to make your way through an increasingly difficult path, or you can also play with a friend!"
     }, 
     "github_current_tag": "v26", 
     "github_url": "godiard/maze-activity", 
@@ -21,7 +21,7 @@
             "screenshots": [], 
             "version": 26, 
             "whats_new": {
-                "en_US": "<br/>*New translations"
+                "en-US": "<br/>*New translations"
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Maze_stable_26.xo"
         }
@@ -38,7 +38,6 @@
         "en": "Maze", 
         "en-GB": "Maze", 
         "en-US": "Maze", 
-        "en_US": "Maze", 
         "es": "Laberinto", 
         "fi": "Sokkelo", 
         "fr": "Labyrinthe", 
@@ -70,11 +69,11 @@
     }, 
     "version": 26, 
     "whats_new": {
-        "en_US": "<br/>*New translations"
+        "en-US": "<br/>*New translations"
     }, 
     "xo_size": 346436, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Maze_stable_26.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Maze_latest.xo", 
-    "xo_url_latest_timestamp": 1410671757.487542, 
+    "xo_url_latest_timestamp": 1417611343.461174, 
     "xo_url_timestamp": 1409657227.750951
 }
