@@ -11,7 +11,6 @@
         "en": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
         "en-GB": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
         "en-US": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
-        "en_US": "Want to wisely manage money? Learn financial planning basics and track your family's finance, make your own budget and learn how to make every penny count!", 
         "es": "\u00bfDeseas administrar sabiamente el dinero? \u00a1Aprende lo b\u00e1sico de planificaci\u00f3n financiera y el seguimiento de las finanzas de tu familia, haz tu propio presupuesto y aprende a aprovechar cada centavo!", 
         "fr": "Vous voulez g\u00e9rer votre argent plus intelligemment ?  Apprenez les\nbases de la gestion financi\u00e8re et suivez le budget de votre famille,\nfaites votre propre budget et apprenez \u00e0 faire que chaque centime\ncompte !", 
         "hy": "\u0551\u0561\u0576\u056f\u0561\u0576\u0578\u0582\u055e\u0574 \u0565\u057d \u056d\u0565\u056c\u0561\u0574\u057f\u0578\u0580\u0565\u0576 \u0572\u0565\u056f\u0561\u057e\u0561\u0580\u0565\u056c \u0563\u0578\u0582\u0574\u0561\u0580\u0568. \u054d\u0578\u057e\u0578\u0580\u056b\u0580 \u0586\u056b\u0576\u0561\u0576\u057d\u0561\u056f\u0561\u0576 \u056e\u0580\u0561\u0563\u0580\u0574\u0561\u0576 \u0570\u056b\u0574\u0578\u0582\u0576\u0584\u0576\u0565\u0580\u0568 \u0587 \u0570\u0565\u057f\u0587\u056b\u0580 \u0584\u0578 \u0568\u0576\u057f\u0561\u0576\u056b\u0584\u056b \u0586\u056b\u0576\u0561\u0576\u057d\u0568, \u057d\u057f\u0565\u0572\u056e\u056b\u0580 \u0584\u0578 \u057d\u0565\u0583\u0561\u056f\u0561\u0576 \u0562\u0575\u0578\u0582\u057b\u0565\u0576 \u0587 \u057d\u0578\u057e\u0578\u0580\u056b\u0580 \u056f\u0561\u057f\u0561\u0580\u0565\u056c \u0575\u0578\u0582\u0580\u0561\u0584\u0561\u0576\u0579\u0575\u0578\u0582\u0580 \u0563\u0580\u0578\u0577\u056b \u0570\u0561\u0577\u057e\u0561\u0580\u056f\u0568.", 
@@ -37,7 +36,7 @@
             "screenshots": [], 
             "version": 11, 
             "whats_new": {
-                "en_US": "<br/>* Fix Keep error."
+                "en-US": "<br/>* Fix Keep error."
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_stable_11.xo"
         }
@@ -55,7 +54,6 @@
         "en": "Finance", 
         "en-GB": "Finance", 
         "en-US": "Finance", 
-        "en_US": "Finance", 
         "es": "Finanzas", 
         "fa-AF": "\u0645\u0627\u0644\u06cc", 
         "fr": "Finance", 
@@ -90,11 +88,11 @@
     }, 
     "version": 11, 
     "whats_new": {
-        "en_US": "<br/>* Fix Keep error."
+        "en-US": "<br/>* Fix Keep error."
     }, 
     "xo_size": 506396, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_stable_11.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_latest.xo", 
-    "xo_url_latest_timestamp": 1409726743.846309, 
+    "xo_url_latest_timestamp": 1417818307.325594, 
     "xo_url_timestamp": 1409657993.020322
 }
