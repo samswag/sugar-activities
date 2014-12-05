@@ -13,7 +13,6 @@
         "en": "Write provides a space to put your words. Write a story, poem, report, anything! Try changing the look, and size of your text; even insert an image!", 
         "en-GB": "Write provides a space to put your words. Write a story, poem, report, anything! Try changing the look, and size of your text; even insert an image!", 
         "en-US": "Write provides a space to put your words. Write a story, poem, report, anything! Try changing the look, and size of your text; even insert an image!", 
-        "en_US": "Write provides a space to put your words. Write a story, poem, report, anything! Try changing the look, and size of your text; even insert an image!", 
         "es": "Escribir ofrece un espacio para poner tus palabras. \u00a1Escribe un cuento, poema, informe, cualquier cosa! \u00a1Prueba a cambiar el aspecto y el tama\u00f1o de tu texto, e incluso insertar una imagen!", 
         "fr": "Ecrire est un espace pour mettre tes mots. Ecrire une histoire, un po\u00e8me, un rapport, n'importe quoi ! Essayes de changer l'apparence et la taille de ton texte; m\u00eame mettre une image !", 
         "hi": "\u0930\u093e\u0907\u091f \u0906\u092a\u0915\u0947 \u0936\u092c\u094d\u0926\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948. \u0915\u0939\u093e\u0928\u0940, \u0915\u0935\u093f\u0924\u093e, \u0930\u093f\u092a\u094b\u0930\u094d\u091f, \u0915\u0941\u091b \u092d\u0940 \u0932\u093f\u0916\u0947\u0902! \u091f\u0947\u0915\u094d\u0938\u094d\u091f \u0915\u093e \u0930\u0942\u092a \u0914\u0930 \u0906\u0915\u093e\u0930 \u092c\u0926\u0932\u0928\u0947 \u0915\u0940 \u0915\u094b\u0936\u093f\u0936 \u0915\u0930\u0947\u0902, \u092f\u0939\u093e\u0902 \u0924\u0915 \u200b\u200b\u0915\u093f \u092b\u094b\u091f\u094b \u092d\u0940 \u0932\u0917\u093e\u090f\u0901.", 
@@ -41,11 +40,11 @@
         {
             "minSugarVersion": "0.96", 
             "screenshots": [], 
-            "version": 95, 
+            "version": 96, 
             "whats_new": {
-                "en_US": "<br/>* Revert export button"
+                "en-US": "<br/>* Revert export button"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.AbiWordActivity_stable_95.xo"
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.AbiWordActivity_stable_96.xo"
         }
     ], 
     "socialhelp_category": "write", 
@@ -66,7 +65,6 @@
         "en": "Write", 
         "en-GB": "Write", 
         "en-US": "Write", 
-        "en_US": "Write", 
         "es": "Escribir", 
         "fa": "\u0646\u0648\u0634\u062a\u0646", 
         "fa-AF": "\u0646\u0648\u0634\u062a\u0646", 
@@ -120,13 +118,13 @@
         "zh-CN": "\u5199\u4f5c", 
         "zh-TW": "\u5beb\u4f5c"
     }, 
-    "version": 95, 
+    "version": 96, 
     "whats_new": {
-        "en_US": "<br/>* Revert export button"
+        "en-US": "<br/>* Revert export button"
     }, 
-    "xo_size": 468180, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.AbiWordActivity_stable_95.xo", 
+    "xo_size": 468232, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.AbiWordActivity_stable_96.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.AbiWordActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1409726648.054087, 
-    "xo_url_timestamp": 1409726648.053462
+    "xo_url_latest_timestamp": 1417818270.380128, 
+    "xo_url_timestamp": 1417818270.358615
 }
