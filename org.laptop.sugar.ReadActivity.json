@@ -5,6 +5,13 @@
             "page": "https://www.github.com/godiard"
         }
     ], 
+    "categories": [
+        "language", 
+        "documents", 
+        "media", 
+        "tools", 
+        "system"
+    ], 
     "description": {
         "ar": "\u0625\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0627 \u0627\u0644\u0646\u0634\u0627\u0637 \u062d\u064a\u0646 \u062a\u0631\u063a\u0628 \u0628\u0627\u0644\u0642\u0631\u0627\u0621\u0647. \u0641\u0644\u0627 \u0634\u064a\u0626 \u0641\u0649 \u0627\u0644\u0639\u0627\u0644\u0645 \u062a\u0641\u0639\u0644\u0647 \u0644\u062a\u0643\u0648\u064a\u0646 \u0641\u0650\u0643\u0631\u0643 \u0648\u0634\u062e\u0635\u064a\u062a\u0643 \u064a\u0636\u0627\u0647\u0649 \u0642\u0631\u0627\u0621\u0647 \u0643\u062a\u0627\u0628 \u062c\u064a\u062f \u0641\u0649 \u0627\u0644\u0635\u0650\u063a\u064e\u0631.", 
         "ayc": "\u00a1Ak\u00efri wakich\u00e4wi katma niya ulla\u00f1ataki wakichasisna! Computadora juma tuqiru u\u00f1katayasma kamisa maya ulla\u00f1a pankarusa katxarkasma ukhama.", 
@@ -13,7 +20,6 @@
         "en": "Use this activity when you are ready to read! Remember to flip your computer around to feel like you are really holding a book!", 
         "en-GB": "Use this activity when you are ready to read! Remember to flip your computer around to feel like you are really holding a book!", 
         "en-US": "Use this activity when you are ready to read! Remember to flip your computer around to feel like you are really holding a book!", 
-        "en_US": "Use this activity when you are ready to read! Remember to flip your computer around to feel like you are really holding a book!", 
         "es": "\u00a1Usa esta actividad cuando est\u00e9s listo para leer! Recuerda girar tu computadora para sentirte como si estuvieras realmente sostiene un libro.", 
         "fr": "Utilisez cette activit\u00e9 quand vous \u00eates pr\u00eats \u00e0 lire !  Souvenez-vous de\nbasculer votre ordinateur de c\u00f4t\u00e9 pour avoir l'impression de tenir un livre !", 
         "hy": "\u0555\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u056b\u0580 \u0561\u0575\u057d \u0563\u0578\u0580\u056e\u0578\u0582\u0576\u0565\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568, \u0565\u0580\u0562 \u057a\u0561\u057f\u0580\u0561\u057d\u057f \u056c\u056b\u0576\u0565\u057d \u0568\u0576\u0569\u0565\u0580\u0581\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580. \u0540\u056b\u0577\u056b\u0580, \u057a\u057f\u057f\u0565\u056c \u0570\u0561\u0574\u0561\u056f\u0561\u0580\u0563\u056b\u0579\u0568, \u0578\u0580\u057a\u0565\u057d\u0566\u056b \u0566\u0563\u0561\u057d \u0569\u0565 \u0571\u0565\u057c\u0584\u0565\u0580\u0578\u0582\u0574\u0564 \u056b\u057d\u056f\u0561\u056f\u0561\u0576 \u0563\u056b\u0580\u0584 \u0567.", 
@@ -38,14 +44,28 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
-            "screenshots": [], 
-            "version": 113, 
-            "whats_new": {
-                "en_US": "<br/>* Add footnotes and intra-document links support in EPUB"
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/gIaABnt.png"
+                ]
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_stable_113.xo"
+            "version": 114, 
+            "whats_new": {
+                "en-US": "<br/>* Add footnotes and intra-document links support in EPUB"
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_stable_114.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/gIaABnt.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "99bd03f6f3b8460f2162289ee0a64170": "http://i.imgur.com/gIaABnt.png"
+        }
+    }, 
     "socialhelp_category": "read", 
     "title": {
         "af": "Lees", 
@@ -65,7 +85,6 @@
         "en": "Read", 
         "en-GB": "Read", 
         "en-US": "Read", 
-        "en_US": "Read", 
         "es": "Leer", 
         "fa": "\u062e\u0648\u0627\u0646\u062f\u0646", 
         "fa-AF": "\u062e\u0648\u0627\u0646\u062f\u0646", 
@@ -117,13 +136,13 @@
         "zh-CN": "\u9605\u8bfb", 
         "zh-TW": "\u95b1\u8b80"
     }, 
-    "version": 113, 
+    "version": 114, 
     "whats_new": {
-        "en_US": "<br/>* Add footnotes and intra-document links support in EPUB"
+        "en-US": "<br/>* Add footnotes and intra-document links support in EPUB"
     }, 
-    "xo_size": 450668, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_stable_113.xo", 
+    "xo_size": 1039040, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_stable_114.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1409726600.874571, 
-    "xo_url_timestamp": 1409726600.873973
+    "xo_url_latest_timestamp": 1417818209.500735, 
+    "xo_url_timestamp": 1417818209.483304
 }
