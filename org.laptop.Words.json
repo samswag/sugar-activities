@@ -6,7 +6,7 @@
         }
     ], 
     "description": {
-        "en_US": "Decode the world and help the world decode you. Use this translator for access and learn about many different languages!"
+        "en-US": "Decode the world and help the world decode you. Use this translator for access and learn about many different languages!"
     }, 
     "github_current_tag": "v20", 
     "github_url": "godiard/words-activity", 
@@ -21,7 +21,7 @@
             "screenshots": [], 
             "version": 21, 
             "whats_new": {
-                "en_US": "<br/>* Es translations"
+                "en-US": "<br/>* Es translations"
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Words_stable_21.xo"
         }
@@ -36,7 +36,6 @@
         "en": "Words", 
         "en-GB": "Words", 
         "en-US": "Words", 
-        "en_US": "Words", 
         "es": "Palabras", 
         "fr": "Mots", 
         "he": "\u05de\u05d9\u05dc\u05d9\u05dd", 
@@ -70,11 +69,11 @@
     }, 
     "version": 21, 
     "whats_new": {
-        "en_US": "<br/>* Es translations"
+        "en-US": "<br/>* Es translations"
     }, 
     "xo_size": 42825484, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Words_stable_21.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Words_latest.xo", 
-    "xo_url_latest_timestamp": 1409726545.054465, 
+    "xo_url_latest_timestamp": 1417818171.444975, 
     "xo_url_timestamp": 1409726545.010508
 }
