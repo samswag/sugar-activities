@@ -14,7 +14,6 @@
         "en": "Picasso? Van Gogh? You can be any of them! Just let the artist inside you free. Transform images in your mind to beautiful paintings.", 
         "en-GB": "Picasso? Van Gogh? You can be any of them! Just let the artist inside you free. Transform images in your mind to beautiful paintings.", 
         "en-US": "Picasso? Van Gogh? You can be any of them! Just let the artist inside you free. Transform images in your mind to beautiful paintings.", 
-        "en_US": "Picasso? Van Gogh? You can be any of them! Just let the artist inside you free. Transform images in your mind to beautiful paintings.", 
         "es": "\u00bfPicaso? \u00bfVan Gogh? !Puedes ser uno de ellos! Deja salir el artista que llevas dentro. Transforma im\u00e1genes en tu mente en hermosas pinturas.", 
         "fr": "Picasso? Van Gogh? Tu peux \u00eatre l'un ou l'autre ! Il te suffit de lib\u00e9rer l'artiste qui dort en toi. Transforme les images que tu as dans ta t\u00eate en de belles peintures.", 
         "hi": "\u092a\u093f\u0915\u093e\u0938\u094b? \u0935\u093e\u0928 \u0917\u093e\u0917? \u0906\u092a \u092d\u0940 \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 \u090f\u0915 \u0939\u094b \u0938\u0915\u0924\u0947 \u0939\u0948\u0902! \u0915\u0947\u0935\u0932 \u0905\u092a\u0928\u0947 \u0905\u0902\u0926\u0930 \u0915\u0947 \u0915\u0932\u093e\u0915\u093e\u0930 \u0915\u094b \u092e\u0941\u0915\u094d\u0924 \u0915\u0930\u094b. \u0905\u092a\u0928\u0947 \u092e\u0928 \u0915\u0940 \u091b\u0935\u093f\u092f\u094b\u0902 \u0915\u094b \u0938\u0941\u0902\u0926\u0930 \u092a\u0947\u0902\u091f\u093f\u0902\u0917 \u092e\u0947\u0902 \u0930\u0942\u092a\u093e\u0902\u0924\u0930 \u0915\u0930\u094b.", 
@@ -43,7 +42,7 @@
             "screenshots": [], 
             "version": 63, 
             "whats_new": {
-                "en_US": "<br/>* Text entries are not working #942"
+                "en-US": "<br/>* Text entries are not working #942"
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Oficina_stable_63.xo"
         }
@@ -66,7 +65,6 @@
         "en": "Paint", 
         "en-GB": "Paint", 
         "en-US": "Paint", 
-        "en_US": "Paint", 
         "es": "Pintar", 
         "fa": "\u0646\u0642\u0627\u0634\u06cc", 
         "fa-AF": "\u0631\u0633\u0627\u0645\u06cc", 
@@ -121,11 +119,11 @@
     }, 
     "version": 63, 
     "whats_new": {
-        "en_US": "<br/>* Text entries are not working #942"
+        "en-US": "<br/>* Text entries are not working #942"
     }, 
     "xo_size": 601924, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Oficina_stable_63.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Oficina_latest.xo", 
-    "xo_url_latest_timestamp": 1409726563.468944, 
+    "xo_url_latest_timestamp": 1417816789.073042, 
     "xo_url_timestamp": 1409726563.46815
 }
