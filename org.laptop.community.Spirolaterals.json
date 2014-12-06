@@ -6,8 +6,12 @@
             "page": "https://www.github.com/walterbender"
         }
     ], 
+    "categories": [
+        "programming", 
+        "game"
+    ], 
     "description": {
-        "en_US": "turtle pattern programming challenge"
+        "en-US": "Turtle pattern programming challenge"
     }, 
     "github_url": "walterbender/spirolaterals", 
     "hasOldToolbars": false, 
@@ -19,24 +23,41 @@
     "releases": [
         {
             "minSugarVersion": "0.86", 
-            "screenshots": [], 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/kC2baSw.png", 
+                    "http://i.imgur.com/AVldtIt.png"
+                ]
+            }, 
             "version": 24.3, 
             "whats_new": {
-                "en_US": null
+                "en-US": null
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Spirolaterals_stable_24.3.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/kC2baSw.png", 
+            "http://i.imgur.com/AVldtIt.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "6a32a5081065d0cfef00466f3a0973f7": "http://i.imgur.com/kC2baSw.png", 
+            "fefd9e87fd85b768b9890fd5af42e059": "http://i.imgur.com/AVldtIt.png"
+        }
+    }, 
     "socialhelp_category": "spirolaterals", 
     "title": {
-        "en_US": "Spirolaterals"
+        "en-US": "Spirolaterals"
     }, 
     "version": 24.3, 
     "whats_new": {
-        "en_US": null
+        "en-US": null
     }, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Spirolaterals_stable_24.3.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Spirolaterals_latest.xo", 
-    "xo_url_latest_timestamp": 1409448073.99476, 
+    "xo_url_latest_timestamp": 1417833861.57041, 
     "xo_url_timestamp": 1404115277.097035
 }
