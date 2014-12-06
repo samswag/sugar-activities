@@ -5,8 +5,11 @@
             "page": "https://www.github.com/godiard"
         }
     ], 
+    "categories": [
+        "music"
+    ], 
     "description": {
-        "en_US": "Play music with this piano keyboard."
+        "en-US": "Play music with this piano keyboard."
     }, 
     "github_current_tag": "v3", 
     "github_url": "godiard/music-keyboard-activity", 
@@ -18,21 +21,35 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
-            "screenshots": [], 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/sl4l8wh.png"
+                ]
+            }, 
             "version": 8.8, 
             "whats_new": {}, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/sl4l8wh.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "104910eed615ee8af95c268a37afa737": "http://i.imgur.com/sl4l8wh.png"
+        }
+    }, 
     "socialhelp_category": "music-keyboard", 
     "title": {
-        "en_US": "Music Keyboard"
+        "en-US": "Music Keyboard"
     }, 
     "version": 8.8, 
     "whats_new": {}, 
     "xo_size": 7060260, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_latest.xo", 
-    "xo_url_latest_timestamp": 1412895375.964913, 
+    "xo_url_latest_timestamp": 1417838332.315651, 
     "xo_url_timestamp": 1412895375.872177
 }
