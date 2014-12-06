@@ -5,6 +5,9 @@
             "page": "https://www.github.com/godiard"
         }
     ], 
+    "categories": [
+        "system"
+    ], 
     "description": {
         "en-US": "Having trouble using your computer or an activity? Want to learn more? Just click here!"
     }, 
@@ -18,7 +21,11 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
-            "screenshots": [], 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/NMaJuTh.png"
+                ]
+            }, 
             "version": 18, 
             "whats_new": {
                 "en-US": null
@@ -26,6 +33,16 @@
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_18.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/NMaJuTh.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "b663b8f967adc124798de2d9257669ba": "http://i.imgur.com/NMaJuTh.png"
+        }
+    }, 
     "socialhelp_category": "help", 
     "title": {
         "en-US": "Help"
@@ -37,6 +54,6 @@
     "xo_size": 17847440, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_18.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1417817257.311304, 
+    "xo_url_latest_timestamp": 1417838523.438127, 
     "xo_url_timestamp": 1416633390.967562
 }
