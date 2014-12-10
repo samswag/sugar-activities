@@ -5,6 +5,11 @@
             "page": "https://www.github.com/godiard"
         }
     ], 
+    "categories": [
+        "media", 
+        "language", 
+        "art"
+    ], 
     "description": {
         "ayc": "\u00bfFoto wakichatampi yati\u00f1a wakicha\u00f1a? \u00a1Phisnawa! \u00a1Foto katuqatama ukata amuyumampi juma pachpa foto wakichatama wakichasma!", 
         "da": "Har du lyst til at fort\u00e6lle en historie? Det er nemt! Brug dine billeder og din fantasi til at skabe din egen tegneserie!", 
@@ -29,12 +34,32 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
-            "screenshots": [], 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/zglp9Ci.png", 
+                    "http://i.imgur.com/OL4WaJ6.jpg", 
+                    "http://i.imgur.com/jsHwHaW.png"
+                ]
+            }, 
             "version": 21, 
             "whats_new": {}, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_stable_21.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/zglp9Ci.png", 
+            "http://i.imgur.com/OL4WaJ6.jpg", 
+            "http://i.imgur.com/jsHwHaW.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "3ad99571dd605b983ff7365dcfe185f3": "http://i.imgur.com/zglp9Ci.png", 
+            "65a1e991285c39e018e138da4f2ad06f": "http://i.imgur.com/jsHwHaW.png", 
+            "b4734e47883f463d91a76543d051f0e2": "http://i.imgur.com/OL4WaJ6.jpg"
+        }
+    }, 
     "socialhelp_category": "fototoon", 
     "title": {
         "ayc": "Foto katuqata wakicha\u00f1a", 
@@ -69,6 +94,6 @@
     "xo_size": 381636, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_stable_21.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_latest.xo", 
-    "xo_url_latest_timestamp": 1417818247.814262, 
+    "xo_url_latest_timestamp": 1418213073.967181, 
     "xo_url_timestamp": 1409657256.505404
 }
