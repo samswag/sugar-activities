@@ -25,8 +25,8 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/oN9eDF9.png", 
-                    "http://i.imgur.com/HIBshjC.png"
+                    "http://i.imgur.com/MGoxewt.png", 
+                    "http://i.imgur.com/RCzzWga.png"
                 ]
             }, 
             "version": 24.3, 
@@ -38,14 +38,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/oN9eDF9.png", 
-            "http://i.imgur.com/HIBshjC.png"
+            "http://i.imgur.com/MGoxewt.png", 
+            "http://i.imgur.com/RCzzWga.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "6a32a5081065d0cfef00466f3a0973f7": "http://i.imgur.com/oN9eDF9.png", 
-            "fefd9e87fd85b768b9890fd5af42e059": "http://i.imgur.com/HIBshjC.png"
+            "6a32a5081065d0cfef00466f3a0973f7": "http://i.imgur.com/MGoxewt.png", 
+            "fefd9e87fd85b768b9890fd5af42e059": "http://i.imgur.com/RCzzWga.png"
         }
     }, 
     "socialhelp_category": "spirolaterals", 
@@ -58,6 +58,6 @@
     }, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Spirolaterals_stable_24.3.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Spirolaterals_latest.xo", 
-    "xo_url_latest_timestamp": 1418217789.625964, 
+    "xo_url_latest_timestamp": 1418217844.611033, 
     "xo_url_timestamp": 1404115277.097035
 }
