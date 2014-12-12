@@ -36,9 +36,9 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/9SuFs7H.png", 
-                    "http://i.imgur.com/JPgmZMQ.jpg", 
-                    "http://i.imgur.com/WlbhVdW.png"
+                    "http://i.imgur.com/ztjVQrY.png", 
+                    "http://i.imgur.com/Pw0HTIS.jpg", 
+                    "http://i.imgur.com/kMixzGH.png"
                 ]
             }, 
             "version": 21, 
@@ -48,16 +48,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/9SuFs7H.png", 
-            "http://i.imgur.com/JPgmZMQ.jpg", 
-            "http://i.imgur.com/WlbhVdW.png"
+            "http://i.imgur.com/ztjVQrY.png", 
+            "http://i.imgur.com/Pw0HTIS.jpg", 
+            "http://i.imgur.com/kMixzGH.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "3ad99571dd605b983ff7365dcfe185f3": "http://i.imgur.com/9SuFs7H.png", 
-            "65a1e991285c39e018e138da4f2ad06f": "http://i.imgur.com/WlbhVdW.png", 
-            "b4734e47883f463d91a76543d051f0e2": "http://i.imgur.com/JPgmZMQ.jpg"
+            "3ad99571dd605b983ff7365dcfe185f3": "http://i.imgur.com/ztjVQrY.png", 
+            "65a1e991285c39e018e138da4f2ad06f": "http://i.imgur.com/kMixzGH.png", 
+            "b4734e47883f463d91a76543d051f0e2": "http://i.imgur.com/Pw0HTIS.jpg"
         }
     }, 
     "socialhelp_category": "fototoon", 
@@ -94,6 +94,6 @@
     "xo_size": 381636, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_stable_21.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.eq.FotoToon_latest.xo", 
-    "xo_url_latest_timestamp": 1418402649.067499, 
+    "xo_url_latest_timestamp": 1418404002.226071, 
     "xo_url_timestamp": 1409657256.505404
 }
