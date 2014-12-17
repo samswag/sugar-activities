@@ -7,7 +7,7 @@
         }
     ], 
     "description": {
-        "en_US": "prompts learner to tell a story by displaying images at random"
+        "en-US": "prompts learner to tell a story by displaying images at random"
     }, 
     "github_current_tag": "v13", 
     "github_url": "walterbender/story", 
@@ -20,14 +20,31 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
-            "screenshots": [], 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/ILWn3UO.png", 
+                    "http://i.imgur.com/ID1DiMn.png"
+                ]
+            }, 
             "version": 13, 
             "whats_new": {
-                "en_US": "<br/>ENHANCEMENT:<br/>* Add \"linear\" mode: images displayed in sequence<br/>* Add text entry<br/>* Add text-to-speech<br/>* Add export to PDF<br/>* Add support for screen rotation<br/>* Add gesture support for navigating images<br/>* Add autoplay<br/>BUG_FIX:<br/>* Add missing PATH for setting up collaboration chattube"
+                "en-US": "<br/>ENHANCEMENT:<br/>* Add \"linear\" mode: images displayed in sequence<br/>* Add text entry<br/>* Add text-to-speech<br/>* Add export to PDF<br/>* Add support for screen rotation<br/>* Add gesture support for navigating images<br/>* Add autoplay<br/>BUG_FIX:<br/>* Add missing PATH for setting up collaboration chattube"
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.StoryActivity_stable_13.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/ILWn3UO.png", 
+            "http://i.imgur.com/ID1DiMn.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "c61954d2f35ed67caf4776b9a487cfeb": "http://i.imgur.com/ILWn3UO.png", 
+            "fbc173c36cb120ce31ee03258e1c66c1": "http://i.imgur.com/ID1DiMn.png"
+        }
+    }, 
     "socialhelp_category": "story", 
     "title": {
         "ayc": "Yatiya\u00f1a", 
@@ -37,7 +54,6 @@
         "en": "Story", 
         "en-GB": "Story", 
         "en-US": "Story", 
-        "en_US": "Story", 
         "es": "Relatar", 
         "fr": "Histoire", 
         "hus": "t'ilmaxtalab", 
@@ -51,11 +67,11 @@
     }, 
     "version": 13, 
     "whats_new": {
-        "en_US": "<br/>ENHANCEMENT:<br/>* Add \"linear\" mode: images displayed in sequence<br/>* Add text entry<br/>* Add text-to-speech<br/>* Add export to PDF<br/>* Add support for screen rotation<br/>* Add gesture support for navigating images<br/>* Add autoplay<br/>BUG_FIX:<br/>* Add missing PATH for setting up collaboration chattube"
+        "en-US": "<br/>ENHANCEMENT:<br/>* Add \"linear\" mode: images displayed in sequence<br/>* Add text entry<br/>* Add text-to-speech<br/>* Add export to PDF<br/>* Add support for screen rotation<br/>* Add gesture support for navigating images<br/>* Add autoplay<br/>BUG_FIX:<br/>* Add missing PATH for setting up collaboration chattube"
     }, 
     "xo_size": 286196, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.StoryActivity_stable_13.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.StoryActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1409447979.882421, 
+    "xo_url_latest_timestamp": 1418789164.964546, 
     "xo_url_timestamp": 1407021198.802894
 }
