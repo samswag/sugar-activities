@@ -48,8 +48,8 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/u1UDMug.png", 
-                    "http://i.imgur.com/HqY1VVK.png"
+                    "http://i.imgur.com/YUzbxzM.png", 
+                    "http://i.imgur.com/QO3EQ5M.png"
                 ]
             }, 
             "version": 48, 
@@ -61,14 +61,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/u1UDMug.png", 
-            "http://i.imgur.com/HqY1VVK.png"
+            "http://i.imgur.com/YUzbxzM.png", 
+            "http://i.imgur.com/QO3EQ5M.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "c61954d2f35ed67caf4776b9a487cfeb": "http://i.imgur.com/u1UDMug.png", 
-            "fbc173c36cb120ce31ee03258e1c66c1": "http://i.imgur.com/HqY1VVK.png"
+            "2683a8ac2d0bf652d47ff5039c8b1ca1": "http://i.imgur.com/YUzbxzM.png", 
+            "9d5ee97a870cdf58dcefb9585d3ed44a": "http://i.imgur.com/QO3EQ5M.png"
         }
     }, 
     "socialhelp_category": "speak", 
@@ -118,6 +118,6 @@
     "xo_size": 4265440, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Speak_stable_48.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Speak_latest.xo", 
-    "xo_url_latest_timestamp": 1418386230.124346, 
+    "xo_url_latest_timestamp": 1418830765.487064, 
     "xo_url_timestamp": 1407021317.949853
 }
