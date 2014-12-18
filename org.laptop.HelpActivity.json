@@ -23,7 +23,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/th2ensN.png"
+                    "http://i.imgur.com/Wqp3U0V.png"
                 ]
             }, 
             "version": 18, 
@@ -35,12 +35,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/th2ensN.png"
+            "http://i.imgur.com/Wqp3U0V.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "b663b8f967adc124798de2d9257669ba": "http://i.imgur.com/th2ensN.png"
+            "b663b8f967adc124798de2d9257669ba": "http://i.imgur.com/Wqp3U0V.png"
         }
     }, 
     "socialhelp_category": "help", 
@@ -54,6 +54,6 @@
     "xo_size": 17847440, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_18.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1418737273.673787, 
+    "xo_url_latest_timestamp": 1418911422.689322, 
     "xo_url_timestamp": 1416633390.967562
 }
