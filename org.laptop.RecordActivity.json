@@ -13,7 +13,6 @@
         "en": "Unleash the visual artist inside you! Take pictures, make movies and use them to recreate your world. The only limit is your imagination.", 
         "en-GB": "Unleash the visual artist inside you! Take pictures, make movies and use them to recreate your world. The only limit is your imagination.", 
         "en-US": "Unleash the visual artist inside you! Take pictures, make movies and use them to recreate your world. The only limit is your imagination.", 
-        "en_US": "Unleash the visual artist inside you! Take pictures, make movies and use them to recreate your world. The only limit is your imagination.", 
         "es": "\u00a1Da rienda suelta al artista visual dentro de ti! Toma fotos, haz pel\u00edculas y util\u00edzalas para recrear tu mundo. El \u00fanico l\u00edmite es tu imaginaci\u00f3n.", 
         "fr": "Lib\u00e8re l'artiste visuel qui sommeille en toi ! Prends des photos, r\u00e9alise des films et utilise-les pour recr\u00e9er ton univers. La seule limite, c'est celle de ton imagination.", 
         "hy": "\u0531\u0580\u0571\u0561\u056f\u056b\u0580 \u0576\u0565\u0580\u057d\u056b\u0564 \u0581\u0578\u0582\u0581\u0561\u0564\u0580\u0561\u056f\u0561\u0576 \u0561\u0580\u057e\u0565\u057d\u057f\u0561\u0563\u0565\u057f\u056b\u0576. \u053c\u0578\u0582\u057d\u0561\u0576\u056f\u0561\u0580\u056b\u0580, \u057a\u0561\u057f\u0580\u0561\u057d\u057f\u056b\u0580 \u0586\u056b\u056c\u0574\u0565\u0580 \u0587 \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u056b\u0580 \u0564\u0580\u0561\u0576\u0584 \u0584\u0578 \u0561\u0577\u056d\u0561\u0580\u0570\u0568 \u057e\u0565\u0580\u057d\u057f\u0565\u0572\u056e\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580: \u0544\u056b\u0561\u056f \u057d\u0561\u0570\u0574\u0561\u0576\u0561\u0583\u0561\u056f\u0578\u0582\u0574\u0568 \u0584\u0578 \u0565\u0580\u0587\u0561\u056f\u0561\u0575\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576 \u0567:", 
@@ -40,7 +39,7 @@
             "screenshots": [], 
             "version": 99, 
             "whats_new": {
-                "en_US": "<br/>* eliminate combo boxes for more friendly to touch UI<br/>* Switch to Daniel Drake's branch<br/>Restore the v60 rewrite to use a single pipeline, tweaking at runtime<br/>when necessary. This improves responsivity of the application, and results<br/>in the activity behaving reliably again.<br/>* This version requires gstreamer-0.10.20<br/>68..75<br/>* Range was preserved for possible sucrose-0.82 branch updates"
+                "en-US": "<br/>* eliminate combo boxes for more friendly to touch UI<br/>* Switch to Daniel Drake's branch<br/>Restore the v60 rewrite to use a single pipeline, tweaking at runtime<br/>when necessary. This improves responsivity of the application, and results<br/>in the activity behaving reliably again.<br/>* This version requires gstreamer-0.10.20<br/>68..75<br/>* Range was preserved for possible sucrose-0.82 branch updates"
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.RecordActivity_stable_99.xo"
         }
@@ -63,7 +62,6 @@
         "en": "Record", 
         "en-GB": "Record", 
         "en-US": "Record", 
-        "en_US": "Record", 
         "es": "Grabar", 
         "fa": "\u0636\u0628\u0637", 
         "fa-AF": "\u0636\u0628\u0637", 
@@ -113,11 +111,11 @@
     }, 
     "version": 99, 
     "whats_new": {
-        "en_US": "<br/>* eliminate combo boxes for more friendly to touch UI<br/>* Switch to Daniel Drake's branch<br/>Restore the v60 rewrite to use a single pipeline, tweaking at runtime<br/>when necessary. This improves responsivity of the application, and results<br/>in the activity behaving reliably again.<br/>* This version requires gstreamer-0.10.20<br/>68..75<br/>* Range was preserved for possible sucrose-0.82 branch updates"
+        "en-US": "<br/>* eliminate combo boxes for more friendly to touch UI<br/>* Switch to Daniel Drake's branch<br/>Restore the v60 rewrite to use a single pipeline, tweaking at runtime<br/>when necessary. This improves responsivity of the application, and results<br/>in the activity behaving reliably again.<br/>* This version requires gstreamer-0.10.20<br/>68..75<br/>* Range was preserved for possible sucrose-0.82 branch updates"
     }, 
     "xo_size": 482236, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.RecordActivity_stable_99.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.RecordActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1410671886.381907, 
+    "xo_url_latest_timestamp": 1419888892.993765, 
     "xo_url_timestamp": 1409654655.887697
 }
