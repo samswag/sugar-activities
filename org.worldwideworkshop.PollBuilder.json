@@ -18,7 +18,7 @@
             "screenshots": [], 
             "version": 30, 
             "whats_new": {
-                "en_US": "<br/>* Support new activity.info exec parameter (alsroot)<br/>* Init gthreads before using abiword<br/>* Remove constant sizes from poll list<br/>* Do not untoogle current answer after voting<br/>* Do not share values between various polls<br/>* Use text wrapping instead of changing font size<br/>* Adapt to non-XO screen resolution<br/>* Translation udpates"
+                "en-US": "<br/>* Support new activity.info exec parameter (alsroot)<br/>* Init gthreads before using abiword<br/>* Remove constant sizes from poll list<br/>* Do not untoogle current answer after voting<br/>* Do not share values between various polls<br/>* Use text wrapping instead of changing font size<br/>* Adapt to non-XO screen resolution<br/>* Translation udpates"
             }, 
             "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.worldwideworkshop.PollBuilder_stable_30.xo"
         }
@@ -35,7 +35,6 @@
         "en": "Poll", 
         "en-GB": "Poll", 
         "en-US": "Poll", 
-        "en_US": "Poll", 
         "es": "Encuesta", 
         "fa-AF": "\u0631\u0627\u06cc \u062f\u0627\u062f\u0646", 
         "fr": "Sondage", 
@@ -68,11 +67,11 @@
     }, 
     "version": 30, 
     "whats_new": {
-        "en_US": "<br/>* Support new activity.info exec parameter (alsroot)<br/>* Init gthreads before using abiword<br/>* Remove constant sizes from poll list<br/>* Do not untoogle current answer after voting<br/>* Do not share values between various polls<br/>* Use text wrapping instead of changing font size<br/>* Adapt to non-XO screen resolution<br/>* Translation udpates"
+        "en-US": "<br/>* Support new activity.info exec parameter (alsroot)<br/>* Init gthreads before using abiword<br/>* Remove constant sizes from poll list<br/>* Do not untoogle current answer after voting<br/>* Do not share values between various polls<br/>* Use text wrapping instead of changing font size<br/>* Adapt to non-XO screen resolution<br/>* Translation udpates"
     }, 
     "xo_size": 439584, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.worldwideworkshop.PollBuilder_stable_30.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.worldwideworkshop.PollBuilder_latest.xo", 
-    "xo_url_latest_timestamp": 1411186341.980095, 
+    "xo_url_latest_timestamp": 1419888926.216613, 
     "xo_url_timestamp": 1411186341.978988
 }
