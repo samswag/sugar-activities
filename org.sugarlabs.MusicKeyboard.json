@@ -23,7 +23,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/sl4l8wh.png"
+                    "http://i.imgur.com/BbvZ72T.png"
                 ]
             }, 
             "version": 8.8, 
@@ -33,12 +33,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/sl4l8wh.png"
+            "http://i.imgur.com/BbvZ72T.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "104910eed615ee8af95c268a37afa737": "http://i.imgur.com/sl4l8wh.png"
+            "104910eed615ee8af95c268a37afa737": "http://i.imgur.com/BbvZ72T.png"
         }
     }, 
     "socialhelp_category": "music-keyboard", 
@@ -50,6 +50,6 @@
     "xo_size": 7060260, 
     "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_latest.xo", 
-    "xo_url_latest_timestamp": 1417838332.315651, 
+    "xo_url_latest_timestamp": 1419889316.437797, 
     "xo_url_timestamp": 1412895375.872177
 }
