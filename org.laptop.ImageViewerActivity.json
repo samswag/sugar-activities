@@ -19,11 +19,11 @@
         {
             "minSugarVersion": "0.96", 
             "screenshots": [], 
-            "version": 59, 
+            "version": 60, 
             "whats_new": {
                 "en-US": "<br/>* Touch gestures implementation<br/>* port to gtk3"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_59.xo"
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_60.xo"
         }
     ], 
     "socialhelp_category": "image-viewer", 
@@ -79,13 +79,13 @@
         "zh-CN": "\u56fe\u7247\u67e5\u770b\u5668", 
         "zh-TW": "\u700f\u89bd\u5716\u7247"
     }, 
-    "version": 59, 
+    "version": 60, 
     "whats_new": {
         "en-US": "<br/>* Touch gestures implementation<br/>* port to gtk3"
     }, 
-    "xo_size": 285048, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_59.xo", 
+    "xo_size": 285112, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_60.xo", 
     "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1417818228.546204, 
-    "xo_url_timestamp": 1409726683.239949
+    "xo_url_latest_timestamp": 1419888907.941581, 
+    "xo_url_timestamp": 1419888907.940892
 }
