@@ -1,8 +1,33 @@
 {
     "by": [
-            {
-                "name": "Sam", 
-                "page": "https://github.com/samdroid-apps"
-            }
-        ]
+        {
+            "name": "Sam", 
+            "page": "https://github.com/samdroid-apps"
+        }
+    ], 
+    "github_url": "SAMdroid-apps/bibliography-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+CjxzdmcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTUg\nNTUiIGhlaWdodD0iNTVweCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNTUgNTUiIHdpZHRo\nPSI1NXB4IiB4PSIwcHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3Lncz\nLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsi\nIHk9IjBweCI+CiAgPGcgZGlzcGxheT0iYmxvY2siIGlkPSJhY3Rpdml0eS1oZWxsb3dvcmxkIj4K\nICAgIDxwYXRoIGQ9Ik05LjI2Myw0OC4zOTZjMC42ODIsMS4xNTIsNi4wMjcsMC4wNTksOC4yNDYt\nMS40NjMgICBjMi4xMDItMS40MzIsMy4yMDctMi41OTYsNC4zMzYtMi41OTZjMS4xMzMsMCwxMi41\nNCwwLjkyLDIwLjkzNS01LjcxNWM3LjIyNS01LjcwNyw5Ljc3My0xMy43ODgsNC41Mi0yMS40Mzcg\nICBjLTUuMjUyLTcuNjQ0LTEzLjgzMi05LjA4LTIwLjg3OC04LjU2QzE2LjgwNiw5LjM0Miw0LjIy\nNCwxNi45MSw0LjY3NywyOC4zMTNjMC4yNjQsNi43MTEsMy4zNTcsOS4xNDMsNC45MjIsMTAuNzAz\nICAgYzEuNTYyLDEuNTY2LDQuNTQ1LDEuNTY2LDIuOTkyLDUuNTg4QzExLjk4MSw0Ni4xODMsOC43\nNTMsNDcuNTIyLDkuMjYzLDQ4LjM5NnoiIGRpc3BsYXk9ImlubGluZSIgZmlsbD0iJmZpbGxfY29s\nb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIvPgogIDwvZz4K\nICA8Y2lyY2xlIGN4PSIyNy4zNzUiIGN5PSIyNy41IiByPSIxOS45MDMiCiAgICAgdHJhbnNmb3Jt\nPSJtYXRyaXgoMC42LDAsMCwwLjYsMTAuOTUsMTEpIgogICAgIGlkPSJjaXJjbGU0IiBmaWxsPSIm\nZmlsbF9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMy41IiBk\naXNwbGF5PSJpbmxpbmUiIC8+CiAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMC42LDAsMCwwLjYsMTAu\nOTUsMTEpIiBpZD0iZzYiIHN0eWxlPSJkaXNwbGF5OmlubGluZSI+CiAgICA8cGF0aCBkPSJtIDI3\nLjM3Niw3LjU5OCBjIDAsMCAtMTEuMjA1LDguMzk0IC0xMS4yMDUsMTkuOTc2IDAsMTEuNTgzIDEx\nLjIwNSwxOS44MjkgMTEuMjA1LDE5LjgyOSIKICAgICAgIGlkPSJwYXRoOCIgZmlsbD0iJmZpbGxf\nY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgLz4KICAg\nIDxwYXRoIGQ9Im0gMjcuMzc2LDcuNTk4IGMgMCwwIDExLjA2Niw5LjE0MSAxMS4wNjYsMTkuOTc2\nIDAsMTAuODM5IC0xMS4wNjYsMTkuODI5IC0xMS4wNjYsMTkuODI5IgogICAgICAgaWQ9InBhdGgx\nMCIgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lk\ndGg9IjMuNSIgLz4KICAgIDxsaW5lIHgxPSIyNy4zNzU5OTkiIHgyPSIyNy4zNzU5OTkiIHkxPSI3\nLjU5OCIgeTI9IjQ3LjQwMiIKICAgICAgIGlkPSJsaW5lMTIiIGZpbGw9IiZmaWxsX2NvbG9yOyIg\nc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIzLjUiIC8+CiAgICA8bGluZSB4\nMT0iMjcuMzc1OTk5IiB4Mj0iMjcuMzc1OTk5IiB5MT0iNy41OTgiIHkyPSI0Ny40MDIiCiAgICAg\nICBpZD0ibGluZTE0IiBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsi\nIHN0cm9rZS13aWR0aD0iMy41IiAvPgogICAgPGxpbmUgeDE9IjI3LjM3NTk5OSIgeDI9IjI3LjM3\nNTk5OSIgeTE9IjcuNTk4IiB5Mj0iNDcuNDAyIgogICAgICAgaWQ9ImxpbmUxNiIgZmlsbD0iJmZp\nbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgLz4K\nICAgIDxsaW5lIHgxPSI3LjQ3MjAwMDEiIHgyPSI0Ny4yNzgiIHkxPSIyNy41IiB5Mj0iMjcuNSIK\nICAgICAgIGlkPSJsaW5lMTgiIGZpbGw9IiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSImc3Ryb2tlX2Nv\nbG9yOyIgc3Ryb2tlLXdpZHRoPSIzLjUiIC8+CiAgPC9nPgo8L3N2Zz4K\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 1, 
+            "whats_new": {}, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.BibliographyActivity_stable_1.xo"
+        }
+    ], 
+    "title": {
+        "en-US": "Bibliography"
+    }, 
+    "version": 1, 
+    "whats_new": {}, 
+    "xo_size": 36060, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.BibliographyActivity_stable_1.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.BibliographyActivity_latest.xo", 
+    "xo_url_latest_timestamp": 1419889078.540411, 
+    "xo_url_timestamp": 1419889078.540217
 }
