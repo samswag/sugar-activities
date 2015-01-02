@@ -1,8 +1,116 @@
 {
     "by": [
-           {
-                "name": "Gonzalo", 
-                "page": "https://github.com/godiard"
-            }
-        ]
+        {
+            "name": "Gonzalo", 
+            "page": "https://github.com/godiard"
+        }
+    ], 
+    "description": {
+        "ayc": "Aka lur\u00e4wixa maya computadora taypina maya maski kawkipiri jani walt'\u00e4wita mistu\u00f1ataki wakichatawa.", 
+        "da": "Dette er en aktivitet, der er beregnet til de som gerne vil fejls\u00f8ge et komplekst program p\u00e5 denne computer.", 
+        "de": "Dies ist eine Aktivit\u00e4t f\u00fcr jeden, der Fehler in einem komplizierten Computerprogramm zu beheben versucht.", 
+        "en": "This is an activity designed for anyone who wants to troubleshoot a complicated program on the computer.", 
+        "en-GB": "This is an activity designed for anyone who wants to troubleshoot a complicated program on the computer.", 
+        "en-US": "This is an activity designed for anyone who wants to troubleshoot a complicated program on the computer.", 
+        "es": "Esta es una actividad dise\u00f1ada para cualquiera que quiera solucionar un problema en alg\u00fan programa en la computadora.", 
+        "fr": "Cette activit\u00e9 est con\u00e7ue afin de permettre \u00e0 chacun de r\u00e9tablir le fonctionnement de programmes informatiques complexes.", 
+        "hi": "\u092f\u0939 \u0915\u094d\u0930\u093f\u092f\u093e \u0909\u0928 \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u092c\u0928\u093e\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u091c\u094b \u090f\u0915 \u091c\u091f\u093f\u0932 \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u0915\u094b \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u092a\u0930 \u0920\u0940\u0915 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u0924\u093e \u0939\u0948", 
+        "hy": "\u0531\u0575\u057d \u0563\u0578\u0580\u056e\u0578\u0582\u0576\u0565\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u056f\u0561\u0566\u0574\u057e\u0561\u056e \u0567 \u0562\u0578\u056c\u0578\u0580 \u0576\u0580\u0561\u0576\u0581 \u0570\u0561\u0574\u0561\u0580, \u0578\u057e\u0584\u0565\u0580 \u0581\u0561\u0576\u056f\u0561\u0576\u0578\u0582\u0574 \u0565\u0576 \u0578\u0582\u0572\u0572\u0565\u056c \u0562\u0561\u0580\u0564 \u056e\u0580\u0561\u0563\u0580\u0565\u0580\u056b \u0561\u0576\u057d\u0561\u0580\u0584\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580\u0568 \u0570\u0561\u0574\u0561\u056f\u0561\u0580\u0563\u0579\u0578\u0582\u0574:", 
+        "id": "Ini adalah aktivitas yang dirancang bagi siapapun yang ingin menelusuri masalah program yang rumit pada komputer.", 
+        "it": "Questa \u00e8 una attivit\u00e0 pensata per chiunque voglia risolvere qualche intricato problema di un programma del computer.", 
+        "ne": "\u092f\u094b \u0915\u092e\u094d\u092a\u094d\u092f\u0941\u091f\u0930\u092e\u093e \u091c\u091f\u093f\u0932 \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u0915\u094b \u091f\u094d\u0930\u092c\u0932\u0938\u0941\u091f \u0917\u0930\u094d\u0928 \u091a\u093e\u0939\u0928\u0947 \u091c\u094b \u0938\u0941\u0915\u0948\u0915\u093e \u0932\u093e\u0917\u093f \u0924\u092f\u093e\u0930 \u092a\u093e\u0930\u093f\u090f\u0915\u094b \u090f\u0909\u091f\u093e \u0915\u094d\u0930\u093f\u092f\u093e\u0915\u0932\u093e\u092a \u0939\u094b\u0964", 
+        "nl": "Dit is een activiteit bedoeld voor ieder die fouten wil opsporen in een complex programma op de computer.", 
+        "pap": "Esaki ta un aktividat dise\u00f1\u00e1 pa tur ku ke solushon\u00e1 un programa komplik\u00e1 riba k\u00f2mpiuter", 
+        "pbs": "nanji nda ngul'ajau ndutsjau manague'n su'ua se vumag natsjau nda ni\u00f1j\u00e1 se lumei kad-a nak'ujuly nde'ets kily'e", 
+        "pl": "Ta aktywno\u015b\u0107 jest zaprojektowana dla tych, kt\u00f3rzy chc\u0105 rozwi\u0105za\u0107 problemy skomplikowanych program\u00f3w komputerowych.", 
+        "pt": "Esta \u00e9 uma atividade desenhada para quem quer solucionar um problema complicado no computador.", 
+        "quz": "Kay ruwanaqa, computadorapi ima sasachay rikuriqta allichanapaqmi.", 
+        "zh-CN": "\u8fd9\u662f\u4e3a\u60f3\u8981\u5728\u8ba1\u7b97\u673a\u4e0a\u5bf9\u4e00\u4e2a\u590d\u6742\u7a0b\u5e8f\u8fdb\u884c\u6545\u969c\u6392\u9519\u800c\u8bbe\u8ba1\u7684\u4e00\u4e2a\u6d3b\u52a8\u3002"
+    }, 
+    "github_current_tag": "v37", 
+    "github_url": "godiard/log-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiM2NjY2NjYiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI2ZmZmZmZiI+Cl0+PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1NSA1\nNSIgaGVpZ2h0PSI1NXB4IiBpZD0iTGF5ZXJfMSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAg\nNTUgNTUiIHdpZHRoPSI1NXB4IiB4PSIwcHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJo\ndHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3Jn\nLzE5OTkveGxpbmsiIHk9IjBweCI+PGcgZGlzcGxheT0iYmxvY2siIGlkPSJhY3Rpdml0eS1sb2ci\nPgoJPGcgZGlzcGxheT0iaW5saW5lIj4KCQkKCQkJPHJlY3QgZmlsbD0iJmZpbGxfY29sb3I7IiBo\nZWlnaHQ9IjMyLjQ0MiIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLWxpbmVjYXA9InJv\ndW5kIiBzdHJva2Utd2lkdGg9IjMuNSIgd2lkdGg9IjQzLjQ1OCIgeD0iNS42NDYiIHk9IjkuNDA0\nIi8+CgkJPGNpcmNsZSBjeD0iMTIuOTI2IiBjeT0iMTYuODY3IiBmaWxsPSImc3Ryb2tlX2NvbG9y\nOyIgcj0iMS45MzEiLz4KCQk8Y2lyY2xlIGN4PSIxMi45MjYiIGN5PSIyNS42NDUiIGZpbGw9IiZz\ndHJva2VfY29sb3I7IiByPSIxLjkzMSIvPgoJCTxjaXJjbGUgY3g9IjEyLjkyNiIgY3k9IjM0LjQy\nNCIgZmlsbD0iJnN0cm9rZV9jb2xvcjsiIHI9IjEuOTMxIi8+CgkJPGxpbmUgZmlsbD0ibm9uZSIg\nc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHgxPSIxNy45MjYiIHgy\nPSIzMy45MjYiIHkxPSIxNi44NjciIHkyPSIxNi44NjciLz4KCQk8bGluZSBmaWxsPSJub25lIiBz\ndHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgeDE9IjE3LjkyNiIgeDI9\nIjMzLjkyNiIgeTE9IjI1LjYyNSIgeTI9IjI1LjYyNSIvPgoJCTxsaW5lIGZpbGw9Im5vbmUiIHN0\ncm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMy41IiB4MT0iMTcuOTI2IiB4Mj0i\nMzMuOTI2IiB5MT0iMzQuNDI0IiB5Mj0iMzQuNDI0Ii8+Cgk8L2c+CjwvZz48L3N2Zz4=\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": [], 
+            "version": 37, 
+            "whats_new": {
+                "en-US": "<br/>* Utilize new toolbars design"
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Log_stable_37.xo"
+        }
+    ], 
+    "title": {
+        "am": "\u1218\u1218\u12dd\u1308\u1262\u12eb", 
+        "ar": "\u0633\u062c\u0644", 
+        "ayc": "Katuqata", 
+        "aym": "Katuqata", 
+        "bg": "\u0416\u0443\u0440\u043d\u0430\u043b", 
+        "bn": "\u09b2\u0997", 
+        "bn-IN": "\u09b2\u0997", 
+        "ca": "Registre", 
+        "cs": "P\u0159ihl\u00e1sit", 
+        "da": "Log", 
+        "de": "Logbuch", 
+        "el": "\u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae", 
+        "en": "Log", 
+        "en-GB": "Log", 
+        "en-US": "Log", 
+        "es": "Registro", 
+        "fa-AF": "\u062b\u0628\u062a \u06a9\u0631\u062f\u0646 \u0648\u0642\u0627\u06cc\u0639", 
+        "fr": "Log", 
+        "hi": "\u0932\u0949\u0917", 
+        "ht": "Jounal", 
+        "hus": "Dhuchlab", 
+        "hy": "\u0544\u0561\u057f\u0575\u0561\u0576", 
+        "id": "Log", 
+        "it": "Log", 
+        "ja": "\u30ed\u30b0", 
+        "km": "\u1785\u17bc\u179b", 
+        "ko": "\ub85c\uadf8", 
+        "mg": "Hiditra", 
+        "mi": "Rangitaki", 
+        "mn": "\u0411\u04af\u0440\u0442\u0433\u044d\u043b", 
+        "mr": "\u0932\u0949\u0917", 
+        "nb": "Logg", 
+        "ne": "\u0932\u0917", 
+        "nl": "Logboek", 
+        "pap": "Registro", 
+        "pbs": "Matsjau", 
+        "pl": "Wpis", 
+        "ps": "\u062e\u0628\u0631\u0627\u0644", 
+        "pt": "Registo", 
+        "pt-BR": "Hist\u00f3rico (log)", 
+        "quz": "Khipu yuyarina", 
+        "ru": "\u0416\u0443\u0440\u043d\u0430\u043b", 
+        "rw": "Kwinjira cyangwa Kuva ahantu muri mudasobwa", 
+        "si": "\u0dbd\u0ddc\u0d9c\u0dba", 
+        "sk": "Log", 
+        "sl": "Dnevnik", 
+        "sq": "Sh\u00ebnimet", 
+        "sv": "Loggbok", 
+        "sw": "Batli", 
+        "ta": "\u0baa\u0ba4\u0bbf\u0bb5\u0bc1", 
+        "te": "\u0c32\u0c3e\u0c17\u0c4d", 
+        "th": "\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01", 
+        "tr": "kaydediniz.", 
+        "ur": "\u0644\u0627\u06af", 
+        "vi": "B\u1ea3n ghi", 
+        "zh-CN": "\u7cfb\u7edf\u65e5\u5fd7", 
+        "zh-TW": "\u7cfb\u7d71\u65e5\u8a8c"
+    }, 
+    "version": 37, 
+    "whats_new": {
+        "en-US": "<br/>* Utilize new toolbars design"
+    }, 
+    "xo_size": 346088, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Log_stable_37.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Log_latest.xo", 
+    "xo_url_latest_timestamp": 1420187430.448487, 
+    "xo_url_timestamp": 1420187430.447695
 }
