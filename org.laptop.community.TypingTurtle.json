@@ -1,8 +1,112 @@
 {
     "by": [
-           {
-                "name": "Gonzalo", 
-                "page": "https://github.com/godiard"
-            }
+        {
+            "name": "Gonzalo", 
+            "page": "https://github.com/godiard"
+        }
+    ], 
+    "categories": [
+        "language", 
+        "system", 
+        "game"
+    ], 
+    "description": {
+        "ayc": "\u00bfQillqk\u00e4wina yanapt'a muntati? \u00a1Akana amparama suma u\u00f1ja\u00f1a tuqita yatiq\u00e4ta ukhamata wali k'ata qillqiri mistu\u00f1ataki!", 
+        "da": "Har du brug for hj\u00e6lp med at taste? Her vil du l\u00e6re den bedste m\u00e5de at placere dine h\u00e6nder, for at blive hurtigere til at taste!", 
+        "en": "Need some help typing? Here you will learn the best way to hold your hands in order for you to become a faster typist!", 
+        "en-GB": "Need some help typing? Here you will learn the best way to hold your hands in order for you to become a faster typist!", 
+        "en-US": "Need some help typing? Here you will learn the best way to hold your hands in order for you to become a faster typist!", 
+        "es": "\u00bfNecesitas ayuda escribiendo? \u00a1Aqu\u00ed podr\u00e1s aprender la mejor manera de mantener tus manos para que te conviertas en un mecan\u00f3grafo m\u00e1s r\u00e1pido!", 
+        "fr": "Besoin d'aide pour taper au clavier ?  Ici vous apprendrez la meilleure\nfa\u00e7on de tenir vos mains pour taper encore plus vite !", 
+        "hy": "\u0555\u0563\u0576\u0578\u0582\u0569\u0575\u0561\u0576 \u056f\u0561\u0580\u056b\u055e\u0584 \u0578\u0582\u0576\u0565\u057d \u057f\u057a\u0561\u0563\u0580\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580. \u0531\u0575\u057d\u057f\u0565\u0572 \u056f\u057d\u0578\u057e\u0578\u0580\u0565\u057d \u0571\u0565\u057c\u0584\u0565\u0580\u0564 \u056f\u0561\u0576\u0578\u0576\u0561\u057e\u0578\u0580 \u057a\u0561\u0570\u0565\u056c\u0578\u0582 \u056c\u0561\u057e\u0561\u0563\u0578\u0582\u0575\u0576 \u0565\u0572\u0561\u0576\u0561\u056f\u0568` \u0561\u057e\u0565\u056c\u056b \u0561\u0580\u0561\u0563 \u057f\u057a\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580:", 
+        "it": "Hai bisogno di qualche aiuto in dattilografia? Qui apprenderai il miglior modo di tenere le tue mani in modo da diventare un dattilografo provetto!", 
+        "nah": "\u00bftitlajkuilojtok tijneki palewilli \u00a1nikan welis tijyeekosTlen kenijki titlalijtos momax kiampa nelia timajmamijmatis", 
+        "nl": "Hulp nodig met typen? Hier leer je de beste manier om je handen te houden om de snelste typist te worden!", 
+        "pbs": "\u00bfKimieng nabaik ki'its'? \u00a1Kunji lania'at kiju'u majau mad-ets kily'e ma naju'u natajau nad-ets manei re kily'e!", 
+        "pl": "Potrzebujesz pomocy w szybkim pisaniu? Tu mo\u017cesz nauczy\u0107 si\u0119 jak trzyma\u0107 r\u0119ce nad klawiatur\u0105 tak, by nauczy\u0107 si\u0119 pisa\u0107 szybko!", 
+        "zh-CN": "\u6253\u5b57\u9700\u8981\u4e00\u4e9b\u5e2e\u52a9\u5417\uff1f\u8fd9\u91cc\u662f\u8ba9\u4f60\u6210\u4e3a\u4e00\u4e2a\u66f4\u5feb\u7684\u6253\u5b57\u9ad8\u624b\u7684\u6700\u4f73\u9014\u5f84\uff01"
+    }, 
+    "github_current_tag": "v30", 
+    "github_url": "godiard/typing-turtle-activity", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBB\nZG9iZSBJbGx1c3RyYXRvciAxNC4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9u\nOiA2LjAwIEJ1aWxkIDQzMzYzKSAgLS0+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9E\nVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9z\ndmcxMS5kdGQiWw0KICAgICA8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMDAwMDAiPg0KICAgICA8\nIUVOVElUWSBmaWxsX2NvbG9yICIjRkZGRkZGIj4NCiBdPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlk\nPSJUdXJ0bGVUeXBlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhs\naW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lk\ndGg9IjU1cHgiIGhlaWdodD0iNTVweCIgdmlld0JveD0iMCAwIDU1IDU1IiBlbmFibGUtYmFja2dy\nb3VuZD0ibmV3IDAgMCA1NSA1NSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBpZD0iS2V5\nIiBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0\naD0iMy41IiBkPSJNNDAuMzM0LDQuNTc3QzUxLjA0NCw0LjU3Nyw1MSwxNS41MzgsNTEsMTUuNTM4\nDQoJcy0wLjA0NCwxMi45NzMsMCwyMy45MzFjMC4wNDQsMTAuOTU0LTEwLjY2NiwxMC45NTQtMTAu\nNjY2LDEwLjk1NHMtMTUuMjg0LDAtMjUuMzc0LDBDNCw1MC40MjMsNCwzOS40NjksNCwzOS40NjkN\nCglzMC0xNC4xMjUsMC0yNC41MDJDNCw0LjU4OSwxNC42NjksNC41ODMsMTQuNjY5LDQuNTgzTDQw\nLjMzNCw0LjU3N0w0MC4zMzQsNC41Nzd6Ii8+DQo8cGF0aCBpZD0iU2hlbGwiIGZpbGw9IiZzdHJv\na2VfY29sb3I7IiBzdHJva2U9Im5vbmUiIGQ9Ik00MC4yMjUsMzQuOTM0YzAuOTU5LDEuNDE2LTE1\nLjc0LDEuNDA3LTE0LjgsMGMxLjU5Ny0yLjQwNCw0LjMyNS0zLjkyNyw3LjQxOS0zLjkyNw0KCUMz\nNS45MTQsMzEuMDA5LDM4LjYyNSwzMi41NjMsNDAuMjI1LDM0LjkzNHoiLz4NCjxwYXRoIGlkPSJU\ndXJ0bGUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0i\nMS41IiBkPSJNMzMuMTAyLDM3Ljk0MWMtNS42MjksMC03LjQzNy0wLjUxOS03LjQzNy0wLjUxOQ0K\nCXMtMC4xNDYsMi43NTMsMC44NjcsMi45MDVjMS4wMDUsMC4xNTQsMi41MTItMS43MTcsMi41MTIt\nMS43MTdoNi45NDJjMCwwLDEuMjQ0LDEuODY5LDIuMjQ0LDEuODY5YzAuOTk4LDAsMS4wNDktMS45\nNywxLjA0OS0xLjk3DQoJczYuNTMzLDEuOTE3LDYuNTMzLTAuOTQ4YzAtMi44NjctNC40MTQtMS45\nODktNC41NzQtMC4zODdDNDEuMjM0LDM3LjE3OCwzOC43MywzNy45NDEsMzMuMTAyLDM3Ljk0MXoi\nLz4NCjxsaW5lIGlkPSJUMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ry\nb2tlLXdpZHRoPSIzIiB4MT0iMTIuNDM4IiB5MT0iMjUuMDM3IiB4Mj0iMjYuNDc5IiB5Mj0iMjUu\nMDM3Ii8+DQo8bGluZSBpZD0iVDEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsi\nIHN0cm9rZS13aWR0aD0iMyIgeDE9IjE5LjU3OCIgeTE9IjI1LjAzNyIgeDI9IjE5LjU3OCIgeTI9\nIjQxLjEiLz4NCjwvc3ZnPg0K\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/fnT7LmM.png", 
+                    "http://i.imgur.com/yoe7vmd.png", 
+                    "http://i.imgur.com/eyABdza.png"
+                ]
+            }, 
+            "version": 31, 
+            "whats_new": {
+                "en-US": "<br/>* Updated Mongolian translations."
+            }, 
+            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.TypingTurtle_stable_31.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/fnT7LmM.png", 
+            "http://i.imgur.com/yoe7vmd.png", 
+            "http://i.imgur.com/eyABdza.png"
         ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "272537250f931bf4656bdd4eb544972b": "http://i.imgur.com/fnT7LmM.png", 
+            "a76a52fefb0c4739e6c97c68163fdf62": "http://i.imgur.com/yoe7vmd.png", 
+            "a84859c901b513c0e27100e9bbc066fe": "http://i.imgur.com/eyABdza.png"
+        }
+    }, 
+    "title": {
+        "ayc": "Qillqiri tortuga", 
+        "bn": "\u099f\u09be\u0987\u09aa\u09bf\u0982 \u099f\u09be\u09b0\u09cd\u099f\u09c7\u09b2", 
+        "ca": "Typing Turtle", 
+        "da": "Indtastende skildpadde", 
+        "de": "Typing Turtle", 
+        "el": "\u03a7\u03b5\u03bb\u03c9\u03bd\u03bf\u03b4\u03b1\u03ba\u03c4\u03c5\u03bb\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2", 
+        "en": "Typing Turtle", 
+        "en-GB": "Typing Turtle", 
+        "en-US": "Typing Turtle", 
+        "es": "La tortuga escritora", 
+        "fa-AF": "\u0631\u0648 \u0646\u0648\u0634\u062a \u0633\u0646\u06af \u067e\u0634\u062a", 
+        "fr": "Tortue dactylo", 
+        "hi": "\u091f\u093e\u0907\u092a\u093f\u0902\u0917 \u091f\u0930\u094d\u091f\u0932", 
+        "ht": "Typing Turtle", 
+        "hus": "An pet xi dhuchum", 
+        "hy": "\u054f\u057a\u0578\u0572 \u056f\u0580\u056b\u0561", 
+        "it": "Tartaruga Dattilografa", 
+        "mi": "Pato Honu", 
+        "mn": "\u0411\u0438\u0447\u044d\u044d\u0447 \u044f\u0441\u0442 \u043c\u044d\u043b\u0445\u0438\u0439", 
+        "ms": "Anq2a1  <a href=\"http://teuooxfhfiod.com/\">teuooxfhfiod</a>, [url=http://odxgeybagpho.com/]odxgeybagpho[/url], [link=http://sjwgvdrwamiw.com/]sjwgvdrwamiw[/link], http://isbnvghxfofv.com/", 
+        "nah": "Koxwaltlajkuilojketl", 
+        "ne": "\u091f\u093e\u0907\u092a\u093f\u0919\u094d \u091f\u0930\u094d\u091f\u0932", 
+        "nl": "Typende schildpad", 
+        "pap": "Turtuga Taipd\u00f3", 
+        "pbs": "Ne kumu' kad-ets kily'e", 
+        "pl": "\u017b\u00f3\u0142w Pisarz", 
+        "ps": "\u0634\u0645\u0634\u062a\u06cd \u067c\u0627\u06cc\u067e \u06a9\u0648\u0644", 
+        "pt": "Tartaruga Teclante", 
+        "si": "Turtle \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0d9a\u0dbb\u0dab\u0dba", 
+        "sq": "Breshka sh\u00ebnuese", 
+        "ta": "\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b99\u0bcd \u0b86\u0bae\u0bc8", 
+        "th": "Typing Turtle", 
+        "vi": "R\u00f9a \u0110\u00e1nh M\u00e1y", 
+        "zh-CN": "\u6253\u5b57\u5c0f\u4e4c\u9f9f"
+    }, 
+    "version": 31, 
+    "whats_new": {
+        "en-US": "<br/>* Updated Mongolian translations."
+    }, 
+    "xo_size": 1558076, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.TypingTurtle_stable_31.xo", 
+    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.TypingTurtle_latest.xo", 
+    "xo_url_latest_timestamp": 1420255343.293694, 
+    "xo_url_timestamp": 1420255343.291752
 }
