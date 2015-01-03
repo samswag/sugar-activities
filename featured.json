@@ -5,5 +5,12 @@
     "id": "org.sugarlabs.BibliographyActivity",
     "bg": "linear-gradient(white 2px, transparent 2px), linear-gradient(90deg, white 2px, transparent 2px), linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px)",
     "bg_size": "100px 100px, 100px 100px, 20px 20px, 20px 20px"
+  },
+  "es-ES": {
+    "title": "Tortublocks",
+    "description": "Una tortuga inspirada en Logo que hace dibujos coloridos junto con bloques complementarios de programación visual",
+    "id": "org.laptop.TurtleArtActivity",
+    "bg": "radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #A00 10px, rgba(96, 16, 48, 0) 11px) 0px 10px, radial-gradient(at 100% 100%, rgba(96, 16, 48, 0) 9px, #A00 10px, rgba(96, 16, 48, 0) 11px), #78E600;",
+    "bg_size": "20px 20px"
   }
 }
