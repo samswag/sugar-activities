@@ -10,7 +10,7 @@
     "title": "Tortublocks",
     "description": "Una tortuga inspirada en Logo que hace dibujos coloridos junto con bloques complementarios de programación visual",
     "id": "org.laptop.TurtleArtActivity",
-    "bg": "radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #A00 10px, rgba(96, 16, 48, 0) 11px) 0px 10px, radial-gradient(at 100% 100%, rgba(96, 16, 48, 0) 9px, #A00 10px, rgba(96, 16, 48, 0) 11px), #78E600;",
-    "bg_size": "20px 20px"
+    "bg": "#78E600",
+    "bg_size": ""
   }
 }
