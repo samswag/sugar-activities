@@ -18,33 +18,19 @@
     "isGTK3": true, 
     "isWeb": false, 
     "minSugarVersion": "0.96", 
-    "releases": [
-        {
-            "minSugarVersion": "0.96", 
-            "screenshots": {
-                "en": [
-                    "http://i.imgur.com/dnidQkK.png", 
-                    "http://i.imgur.com/fFTJ5w7.png", 
-                    "http://i.imgur.com/QLhTpzN.png"
-                ]
-            }, 
-            "version": 2, 
-            "whats_new": {}, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.BibliographyActivity_stable_2.xo"
-        }
-    ], 
+    "releases": [], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/aGmOV9L.png", 
-            "http://i.imgur.com/hexEq8O.png", 
-            "http://i.imgur.com/yJHiQ7e.png"
+            "http://i.imgur.com/jtgYlGu.png", 
+            "http://i.imgur.com/9HE1EfE.png", 
+            "http://i.imgur.com/c0yU8Sy.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "6ad3c4a3e72db8102507749a9294c229": "http://i.imgur.com/hexEq8O.png", 
-            "8d1d8709a8278ac1ec8be08a1e4482e9": "http://i.imgur.com/yJHiQ7e.png", 
-            "d9a86c3d3a2210821c362ead53477f02": "http://i.imgur.com/aGmOV9L.png"
+            "6ad3c4a3e72db8102507749a9294c229": "http://i.imgur.com/9HE1EfE.png", 
+            "8d1d8709a8278ac1ec8be08a1e4482e9": "http://i.imgur.com/c0yU8Sy.png", 
+            "d9a86c3d3a2210821c362ead53477f02": "http://i.imgur.com/jtgYlGu.png"
         }
     }, 
     "title": {
@@ -53,8 +39,8 @@
     "version": 2, 
     "whats_new": {}, 
     "xo_size": 222680, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.BibliographyActivity_stable_2.xo", 
-    "xo_url_latest": "out/org.sugarlabs.BibliographyActivity_1420518534.98.xo", 
-    "xo_url_latest_timestamp": 1420518534.980153, 
+    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.BibliographyActivity_stable_1.xo", 
+    "xo_url_latest": "out/org.sugarlabs.BibliographyActivity_1420519559.xo", 
+    "xo_url_latest_timestamp": 1420519559, 
     "xo_url_timestamp": 1419890765.340215
 }
