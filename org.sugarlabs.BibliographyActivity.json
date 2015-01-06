@@ -18,19 +18,33 @@
     "isGTK3": true, 
     "isWeb": false, 
     "minSugarVersion": "0.96", 
-    "releases": [], 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/EP7TGWw.png", 
+                    "http://i.imgur.com/xPfP0fr.png", 
+                    "http://i.imgur.com/E1pFHZ8.png"
+                ]
+            }, 
+            "version": 2, 
+            "whats_new": {}, 
+            "xo_url": "out/org.sugarlabs.BibliographyActivity_v2.xo"
+        }
+    ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/jtgYlGu.png", 
-            "http://i.imgur.com/9HE1EfE.png", 
-            "http://i.imgur.com/c0yU8Sy.png"
+            "http://i.imgur.com/EP7TGWw.png", 
+            "http://i.imgur.com/xPfP0fr.png", 
+            "http://i.imgur.com/E1pFHZ8.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "6ad3c4a3e72db8102507749a9294c229": "http://i.imgur.com/9HE1EfE.png", 
-            "8d1d8709a8278ac1ec8be08a1e4482e9": "http://i.imgur.com/c0yU8Sy.png", 
-            "d9a86c3d3a2210821c362ead53477f02": "http://i.imgur.com/jtgYlGu.png"
+            "6ad3c4a3e72db8102507749a9294c229": "http://i.imgur.com/xPfP0fr.png", 
+            "8d1d8709a8278ac1ec8be08a1e4482e9": "http://i.imgur.com/E1pFHZ8.png", 
+            "d9a86c3d3a2210821c362ead53477f02": "http://i.imgur.com/EP7TGWw.png"
         }
     }, 
     "title": {
@@ -38,9 +52,9 @@
     }, 
     "version": 2, 
     "whats_new": {}, 
-    "xo_size": 222680, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.BibliographyActivity_stable_1.xo", 
-    "xo_url_latest": "out/org.sugarlabs.BibliographyActivity_1420519559.xo", 
-    "xo_url_latest_timestamp": 1420519559, 
-    "xo_url_timestamp": 1419890765.340215
+    "xo_size": 167011, 
+    "xo_url": "None/out/org.sugarlabs.BibliographyActivity_v2.xo", 
+    "xo_url_latest": "out/org.sugarlabs.BibliographyActivity_1420519752.xo", 
+    "xo_url_latest_timestamp": 1420519752, 
+    "xo_url_timestamp": 1420519752
 }
