@@ -23,6 +23,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/vA1LXex.png", 
+                    "http://i.imgur.com/yU4phRo.png", 
+                    "http://i.imgur.com/4DGfLx0.png"
+                ]
+            }, 
+            "version": 2, 
+            "whats_new": {}, 
+            "xo_url": "org.sugarlabs.BibliographyActivity_v2.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/Wfpj7Vx.png", 
                     "http://i.imgur.com/4az2Fsd.png", 
                     "http://i.imgur.com/dwJSLdl.png"
@@ -48,16 +61,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/Wfpj7Vx.png", 
-            "http://i.imgur.com/4az2Fsd.png", 
-            "http://i.imgur.com/dwJSLdl.png"
+            "http://i.imgur.com/vA1LXex.png", 
+            "http://i.imgur.com/yU4phRo.png", 
+            "http://i.imgur.com/4DGfLx0.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "6ad3c4a3e72db8102507749a9294c229": "http://i.imgur.com/4az2Fsd.png", 
-            "8d1d8709a8278ac1ec8be08a1e4482e9": "http://i.imgur.com/dwJSLdl.png", 
-            "d9a86c3d3a2210821c362ead53477f02": "http://i.imgur.com/Wfpj7Vx.png"
+            "6ad3c4a3e72db8102507749a9294c229": "http://i.imgur.com/yU4phRo.png", 
+            "8d1d8709a8278ac1ec8be08a1e4482e9": "http://i.imgur.com/4DGfLx0.png", 
+            "d9a86c3d3a2210821c362ead53477f02": "http://i.imgur.com/vA1LXex.png"
         }
     }, 
     "title": {
@@ -65,9 +78,9 @@
     }, 
     "version": 2, 
     "whats_new": {}, 
-    "xo_size": 167011, 
-    "xo_url": "http://localhost:8000/ASLO_MIRROR/org.sugarlabs.BibliographyActivity_v2.xo", 
-    "xo_url_latest": "http://localhost:8000/ASLO_MIRROR/org.sugarlabs.BibliographyActivity_1420519982.xo", 
-    "xo_url_latest_timestamp": 1420519982, 
-    "xo_url_timestamp": 1420519982
+    "xo_size": 169495, 
+    "xo_url": "None/org.sugarlabs.BibliographyActivity_v2.xo", 
+    "xo_url_latest": "None/org.sugarlabs.BibliographyActivity_1420606461.xo", 
+    "xo_url_latest_timestamp": 1420606461, 
+    "xo_url_timestamp": 1420606461
 }
