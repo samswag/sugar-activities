@@ -11,7 +11,7 @@
         "creative"
     ], 
     "description": {
-        "en_US": "Eaisly make beautiful presentations"
+        "en-US": "Eaisly make beautiful presentations"
     }, 
     "github_current_tag": "v2", 
     "github_url": "samdroid-apps/sugar-slides", 
@@ -22,6 +22,20 @@
     "isWeb": true, 
     "minSugarVersion": "0.100", 
     "releases": [
+        {
+            "minSugarVersion": "0.100", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/MPIUvb3.png", 
+                    "http://i.imgur.com/1Cq2A0l.png", 
+                    "http://i.imgur.com/NH6VyHC.png", 
+                    "http://i.imgur.com/hrybPO3.png"
+                ]
+            }, 
+            "version": 2, 
+            "whats_new": {}, 
+            "xo_url": "me.samdroid.sugar.slides_v2.xo"
+        }, 
         {
             "minSugarVersion": "0.100", 
             "screenshots": {
@@ -39,28 +53,29 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/NMXHYMP.png", 
-            "http://i.imgur.com/qx35DBQ.png", 
-            "http://i.imgur.com/PB3XwQJ.png", 
-            "http://i.imgur.com/C8JE0B7.png"
+            "http://i.imgur.com/MPIUvb3.png", 
+            "http://i.imgur.com/1Cq2A0l.png", 
+            "http://i.imgur.com/NH6VyHC.png", 
+            "http://i.imgur.com/hrybPO3.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "3f8099b29a07127adbb7d7b332de5521": "http://i.imgur.com/NMXHYMP.png", 
-            "449d644388ac95151e8d44968db24864": "http://i.imgur.com/PB3XwQJ.png", 
-            "881986a943ea7fa22d91bda921d4279f": "http://i.imgur.com/qx35DBQ.png", 
-            "df2d421f9c66ce8be3c0b9472a0fa382": "http://i.imgur.com/C8JE0B7.png"
+            "3f8099b29a07127adbb7d7b332de5521": "http://i.imgur.com/1Cq2A0l.png", 
+            "449d644388ac95151e8d44968db24864": "http://i.imgur.com/hrybPO3.png", 
+            "881986a943ea7fa22d91bda921d4279f": "http://i.imgur.com/NH6VyHC.png", 
+            "df2d421f9c66ce8be3c0b9472a0fa382": "http://i.imgur.com/MPIUvb3.png"
         }
     }, 
     "socialhelp_category": "slides", 
     "title": {
-        "en_US": "Slides"
+        "en-US": "Slides"
     }, 
     "version": 2, 
     "whats_new": {}, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_stable_2.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/me.samdroid.sugar.slides_latest.xo", 
-    "xo_url_latest_timestamp": 1409448018.753107, 
-    "xo_url_timestamp": 1398466211.952828
+    "xo_size": 27095, 
+    "xo_url": "http://download.sugarlabs.org/activities2/me.samdroid.sugar.slides_v2.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/me.samdroid.sugar.slides_1422699756.xo", 
+    "xo_url_latest_timestamp": 1422699756, 
+    "xo_url_timestamp": 1422699756
 }
