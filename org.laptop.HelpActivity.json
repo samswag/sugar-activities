@@ -30,7 +30,7 @@
             "whats_new": {
                 "en-US": null
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_18.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.HelpActivity_stable_18.xo"
         }
     ], 
     "screenshots": {
@@ -52,8 +52,8 @@
         "en-US": null
     }, 
     "xo_size": 17847440, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_stable_18.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.HelpActivity_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.HelpActivity_stable_18.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.HelpActivity_latest.xo", 
     "xo_url_latest_timestamp": 1419888811.882852, 
     "xo_url_timestamp": 1416633390.967562
 }

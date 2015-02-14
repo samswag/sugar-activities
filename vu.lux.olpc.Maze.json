@@ -23,7 +23,7 @@
             "whats_new": {
                 "en-US": "<br/>*New translations"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Maze_stable_26.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/vu.lux.olpc.Maze_stable_26.xo"
         }
     ], 
     "socialhelp_category": "maze", 
@@ -72,8 +72,8 @@
         "en-US": "<br/>*New translations"
     }, 
     "xo_size": 346436, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Maze_stable_26.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Maze_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/vu.lux.olpc.Maze_stable_26.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/vu.lux.olpc.Maze_latest.xo", 
     "xo_url_latest_timestamp": 1419888941.863572, 
     "xo_url_timestamp": 1409657227.750951
 }

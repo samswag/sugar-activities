@@ -52,7 +52,7 @@
             "whats_new": {
                 "en-US": "<br/>* Add footnotes and intra-document links support in EPUB"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_stable_114.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_stable_114.xo"
         }
     ], 
     "screenshots": {
@@ -140,8 +140,8 @@
         "en-US": "<br/>* Add footnotes and intra-document links support in EPUB"
     }, 
     "xo_size": 1039040, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_stable_114.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.ReadActivity_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_stable_114.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_latest.xo", 
     "xo_url_latest_timestamp": 1419888871.028965, 
     "xo_url_timestamp": 1417818209.483304
 }

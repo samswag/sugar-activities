@@ -17,7 +17,7 @@
             "screenshots": [], 
             "version": 1, 
             "whats_new": {}, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.IngeniumMachina_stable_1.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.IngeniumMachina_stable_1.xo"
         }
     ], 
     "socialhelp_category": "ingeniummachina", 
@@ -27,8 +27,8 @@
     "version": 1, 
     "whats_new": {}, 
     "xo_size": 243204, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.IngeniumMachina_stable_1.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.IngeniumMachina_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.IngeniumMachina_stable_1.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.sugarlabs.IngeniumMachina_latest.xo", 
     "xo_url_latest_timestamp": 1410671863.097691, 
     "xo_url_timestamp": 1409657268.824329
 }

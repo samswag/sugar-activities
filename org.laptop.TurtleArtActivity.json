@@ -46,7 +46,7 @@
             "whats_new": {
                 "en-US": "<br/>ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>* New example project: pinwheel<br/>* Save and restore private block data<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)<br/>* Fix regression in saving to SVG<br/>* Fix regression in paste from GNOME<br/>* Fixed problem with camera crash (SL#2624)"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_209.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_stable_209.xo"
         }
     ], 
     "socialhelp_category": "turtle-blocks", 
@@ -74,8 +74,8 @@
         "en-US": "<br/>ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>* New example project: pinwheel<br/>* Save and restore private block data<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)<br/>* Fix regression in saving to SVG<br/>* Fix regression in paste from GNOME<br/>* Fixed problem with camera crash (SL#2624)"
     }, 
     "xo_size": 6513788, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_stable_209.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.TurtleArtActivity_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_stable_209.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_latest.xo", 
     "xo_url_latest_timestamp": 1418768257.762538, 
     "xo_url_timestamp": 1411186321.164652
 }

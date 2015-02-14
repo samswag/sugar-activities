@@ -38,7 +38,7 @@
             "whats_new": {
                 "en-US": "<br/>* Fix Keep error."
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_stable_11.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.community.Finance_stable_11.xo"
         }
     ], 
     "socialhelp_category": "finance", 
@@ -91,8 +91,8 @@
         "en-US": "<br/>* Fix Keep error."
     }, 
     "xo_size": 506396, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_stable_11.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.Finance_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.community.Finance_stable_11.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.community.Finance_latest.xo", 
     "xo_url_latest_timestamp": 1419889337.280694, 
     "xo_url_timestamp": 1409657993.020322
 }

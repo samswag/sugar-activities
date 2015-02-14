@@ -28,7 +28,7 @@
             }, 
             "version": 8.8, 
             "whats_new": {}, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.MusicKeyboard_stable_8.8.xo"
         }
     ], 
     "screenshots": {
@@ -48,8 +48,8 @@
     "version": 8.8, 
     "whats_new": {}, 
     "xo_size": 7060260, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_stable_8.8.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MusicKeyboard_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.MusicKeyboard_stable_8.8.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.sugarlabs.MusicKeyboard_latest.xo", 
     "xo_url_latest_timestamp": 1419889316.437797, 
     "xo_url_timestamp": 1412895375.872177
 }

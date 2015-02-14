@@ -23,7 +23,7 @@
             "whats_new": {
                 "en-US": "<br/>* Touch gestures implementation<br/>* port to gtk3"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_60.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.ImageViewerActivity_stable_60.xo"
         }
     ], 
     "socialhelp_category": "image-viewer", 
@@ -84,8 +84,8 @@
         "en-US": "<br/>* Touch gestures implementation<br/>* port to gtk3"
     }, 
     "xo_size": 285112, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_stable_60.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.ImageViewerActivity_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.ImageViewerActivity_stable_60.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.ImageViewerActivity_latest.xo", 
     "xo_url_latest_timestamp": 1419888907.941581, 
     "xo_url_timestamp": 1419888907.940892
 }

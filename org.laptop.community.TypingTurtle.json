@@ -47,7 +47,7 @@
             "whats_new": {
                 "en-US": "<br/>* Updated Mongolian translations."
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.TypingTurtle_stable_31.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.community.TypingTurtle_stable_31.xo"
         }
     ], 
     "screenshots": {
@@ -105,8 +105,8 @@
         "en-US": "<br/>* Updated Mongolian translations."
     }, 
     "xo_size": 1558076, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.TypingTurtle_stable_31.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.community.TypingTurtle_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.community.TypingTurtle_stable_31.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.community.TypingTurtle_latest.xo", 
     "xo_url_latest_timestamp": 1420255343.293694, 
     "xo_url_timestamp": 1420255343.291752
 }

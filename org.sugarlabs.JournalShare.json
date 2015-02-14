@@ -21,7 +21,7 @@
             "screenshots": [], 
             "version": 5, 
             "whats_new": {}, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.JournalShare_stable_5.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.JournalShare_stable_5.xo"
         }
     ], 
     "socialhelp_category": "journal-share", 
@@ -31,8 +31,8 @@
     "version": 5, 
     "whats_new": {}, 
     "xo_size": 199140, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.JournalShare_stable_5.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.JournalShare_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.JournalShare_stable_5.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.sugarlabs.JournalShare_latest.xo", 
     "xo_url_latest_timestamp": 1410853970.010615, 
     "xo_url_timestamp": 1409657242.375849
 }

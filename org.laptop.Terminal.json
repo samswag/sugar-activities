@@ -23,7 +23,7 @@
             "whats_new": {
                 "en-US": "<br/>*New translations<br/>*Erasing an unusual file OLPC#11218"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Terminal_stable_42.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Terminal_stable_42.xo"
         }
     ], 
     "socialhelp_category": "terminal", 
@@ -94,8 +94,8 @@
         "en-US": "<br/>*New translations<br/>*Erasing an unusual file OLPC#11218"
     }, 
     "xo_size": 224720, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Terminal_stable_42.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Terminal_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Terminal_stable_42.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.Terminal_latest.xo", 
     "xo_url_latest_timestamp": 1419889091.907323, 
     "xo_url_timestamp": 1410671740.054618
 }

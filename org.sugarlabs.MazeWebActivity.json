@@ -18,7 +18,7 @@
             "screenshots": [], 
             "version": 2, 
             "whats_new": {}, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MazeWebActivity_stable_2.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.MazeWebActivity_stable_2.xo"
         }
     ], 
     "socialhelp_category": "maze-web", 
@@ -28,8 +28,8 @@
     "version": 2, 
     "whats_new": {}, 
     "xo_size": 228312, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MazeWebActivity_stable_2.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.MazeWebActivity_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.MazeWebActivity_stable_2.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.sugarlabs.MazeWebActivity_latest.xo", 
     "xo_url_latest_timestamp": 1409447967.6334, 
     "xo_url_timestamp": 1407322694.313091
 }

@@ -37,7 +37,7 @@
             "whats_new": {
                 "en_US": "<br/>ENHANCEMENTS:<br/>* Clear checkmate when starting new game<br/>* Improvement to check and checkmate graphics"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.GNUChessActivity_stable_15.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.GNUChessActivity_stable_15.xo"
         }
     ], 
     "socialhelp_category": "simplegnuchess", 
@@ -61,8 +61,8 @@
         "en_US": "<br/>ENHANCEMENTS:<br/>* Clear checkmate when starting new game<br/>* Improvement to check and checkmate graphics"
     }, 
     "xo_size": 570992, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.GNUChessActivity_stable_15.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.sugarlabs.GNUChessActivity_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.GNUChessActivity_stable_15.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.sugarlabs.GNUChessActivity_latest.xo", 
     "xo_url_latest_timestamp": 1409447866.393165, 
     "xo_url_timestamp": 1409441261.470146
 }

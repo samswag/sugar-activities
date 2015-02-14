@@ -56,7 +56,7 @@
             "whats_new": {
                 "en-US": "<br/>* Added talking photoface (samdroid with an assist from ignacio)"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Speak_stable_49.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_stable_49.xo"
         }
     ], 
     "screenshots": {
@@ -116,8 +116,8 @@
         "en-US": "<br/>* Added talking photoface (samdroid with an assist from ignacio)"
     }, 
     "xo_size": 4357276, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Speak_stable_49.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/vu.lux.olpc.Speak_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_stable_49.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_latest.xo", 
     "xo_url_latest_timestamp": 1419889444.651082, 
     "xo_url_timestamp": 1419889444.625132
 }

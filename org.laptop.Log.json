@@ -42,7 +42,7 @@
             "whats_new": {
                 "en-US": "<br/>* Utilize new toolbars design"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Log_stable_37.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Log_stable_37.xo"
         }
     ], 
     "title": {
@@ -109,8 +109,8 @@
         "en-US": "<br/>* Utilize new toolbars design"
     }, 
     "xo_size": 346088, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Log_stable_37.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Log_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Log_stable_37.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.Log_latest.xo", 
     "xo_url_latest_timestamp": 1420187430.448487, 
     "xo_url_timestamp": 1420187430.447695
 }

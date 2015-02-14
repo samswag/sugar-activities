@@ -42,7 +42,7 @@
             "whats_new": {
                 "en_US": "<br/>* Replace cjson with json #3142<br/>* Update translations"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Chat_stable_78.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Chat_stable_78.xo"
         }
     ], 
     "socialhelp_category": "chat", 
@@ -132,8 +132,8 @@
         "en_US": "<br/>* Replace cjson with json #3142<br/>* Update translations"
     }, 
     "xo_size": 532860, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Chat_stable_78.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Chat_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Chat_stable_78.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.Chat_latest.xo", 
     "xo_url_latest_timestamp": 1409447995.996804, 
     "xo_url_timestamp": 1405682496.230957
 }

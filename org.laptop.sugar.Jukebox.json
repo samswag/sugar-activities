@@ -42,7 +42,7 @@
             "whats_new": {
                 "en-US": "<br/>* Now one can add more songs to the playlist<br/>* New translations added"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.Jukebox_stable_32.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.sugar.Jukebox_stable_32.xo"
         }
     ], 
     "socialhelp_category": "jukebox", 
@@ -103,8 +103,8 @@
         "en-US": "<br/>* Now one can add more songs to the playlist<br/>* New translations added"
     }, 
     "xo_size": 294872, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.Jukebox_stable_32.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.sugar.Jukebox_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.sugar.Jukebox_stable_32.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.sugar.Jukebox_latest.xo", 
     "xo_url_latest_timestamp": 1419888217.533165, 
     "xo_url_timestamp": 1409654509.276131
 }

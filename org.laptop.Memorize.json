@@ -37,7 +37,7 @@
             "whats_new": {
                 "en-US": "<br/>* Skip full flipping animation if second speaking card is correct<br/>* Typo in Memorize #1233<br/>* Can't play a shared memorize game #1503<br/>* Pass parent to ObjectChooser"
             }, 
-            "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_stable_49.xo"
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Memorize_stable_49.xo"
         }
     ], 
     "socialhelp_category": "memorize", 
@@ -99,8 +99,8 @@
         "en-US": "<br/>* Skip full flipping animation if second speaking card is correct<br/>* Typo in Memorize #1233<br/>* Can't play a shared memorize game #1503<br/>* Pass parent to ObjectChooser"
     }, 
     "xo_size": 1382696, 
-    "xo_url": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_stable_49.xo", 
-    "xo_url_latest": "http://aslo-bot-master.sugarlabs.org/uploads/org.laptop.Memorize_latest.xo", 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Memorize_stable_49.xo", 
+    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.Memorize_latest.xo", 
     "xo_url_latest_timestamp": 1419889160.867443, 
     "xo_url_timestamp": 1417028294.319263
 }
