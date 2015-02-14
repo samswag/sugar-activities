@@ -27,11 +27,7 @@ They build from master, but don't worry about different branches for stable and
 testing; the bots automatically see when you change the version number.
 The webhook address is:
 
-    http://aslo-bot-master.sugarlabs.org/hook/GITHUB_USER/GITHUB_REPO/BUNDLE_ID
-
-eg:
-
-    http://aslo-bot-master.sugarlabs.org/hook/samdroid-apps/sugar-slides/me.samdroid.sugar.slides
+    https://aslo-bot-master.sugarlabs.org/hook
 
 Use the webhook for `only push events`. That is the default option.
 
@@ -41,7 +37,10 @@ Use the webhook for `only push events`. That is the default option.
 * Put your screenshots in `/screenshots/LANG/`. eg: `/screenshots/en/1.png`
 * Add summary and title to activity.info
 * Translate activity.info (if you can) using po files
-* Add the `tags` to your `activity.info`
+* Add the `categories` to your `activity.info`
+  Tags are space seperated and are: `game`, `programming`, `robotics`, `internet`, `science`, `maths`, `langauge`, `geography`, `documents`, `music`, `media`, `art`, `teacher` and `system`.
+
+See an example of adding tags & screenshots to an activity in [the Typing Turtle activity](https://github.com/godiard/typing-turtle-activity/commit/08b381a34ff96e20fb72aa7a52441cc1aae0c757)
 
 # See it live
 
