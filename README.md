@@ -37,7 +37,10 @@ Use the webhook for `only push events`. That is the default option.
 * Put your screenshots in `/screenshots/LANG/`. eg: `/screenshots/en/1.png`
 * Add summary and title to activity.info
 * Translate activity.info (if you can) using po files
-* Add the `tags` to your `activity.info`
+* Add the `categories` to your `activity.info`
+  Tags are space seperated and are: `game`, `programming`, `robotics`, `internet`, `science`, `maths`, `langauge`, `geography`, `documents`, `music`, `media`, `art`, `teacher` and `system`.
+
+See an example of adding tags & screenshots to an activity in [the Typing Turtle activity](https://github.com/godiard/typing-turtle-activity/commit/08b381a34ff96e20fb72aa7a52441cc1aae0c757)
 
 # See it live
 
