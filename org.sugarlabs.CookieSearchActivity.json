@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "game"
+    ], 
     "description": {
         "en-US": "search for cookies hidden behind a hungry turtle"
     }, 
@@ -15,6 +18,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.86", 
     "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/bdIrVbr.png"
+                ]
+            }, 
+            "version": 9, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENT:<br/>* Handle screen rotation<br/>* Adjust to widescreen formats"
+            }, 
+            "xo_url": "org.sugarlabs.CookieSearchActivity_v9.xo"
+        }, 
         {
             "minSugarVersion": "0.86", 
             "screenshots": {
@@ -31,12 +47,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/TkjtzPG.png"
+            "http://i.imgur.com/bdIrVbr.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "9c666680d1cb3bf2df4917e7e0527b19": "http://i.imgur.com/TkjtzPG.png"
+            "9c666680d1cb3bf2df4917e7e0527b19": "http://i.imgur.com/bdIrVbr.png"
         }
     }, 
     "title": {
@@ -50,11 +66,11 @@
     }, 
     "version": 9, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>ENHANCEMENT:<br/>* Handle screen rotation<br/>* Adjust to widescreen formats"
+        "en-US": "NEWS<br/>ENHANCEMENT:<br/>* Handle screen rotation<br/>* Adjust to widescreen formats"
     }, 
-    "xo_size": 169232, 
+    "xo_size": 169231, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.CookieSearchActivity_v9.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.CookieSearchActivity_1424154999.xo", 
-    "xo_url_latest_timestamp": 1424154999, 
-    "xo_url_timestamp": 1424154999
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.CookieSearchActivity_1424156697.xo", 
+    "xo_url_latest_timestamp": 1424156697, 
+    "xo_url_timestamp": 1424156697
 }
