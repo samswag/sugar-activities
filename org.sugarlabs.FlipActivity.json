@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "game", 
+        "maths"
+    ], 
     "description": {
         "ayc": "aliqa amuyasa anata\u00f1a maya anat\u00e4wi", 
         "da": "et simpelt strategispil", 
@@ -28,6 +32,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/ic92fZb.png"
+                ]
+            }, 
+            "version": 9, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENT<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.FlipActivity_v9.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/slOBIw3.png"
                 ]
             }, 
@@ -40,12 +57,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/slOBIw3.png"
+            "http://i.imgur.com/ic92fZb.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "1e6d22082add0a60c9c8d2380c4dc92c": "http://i.imgur.com/slOBIw3.png"
+            "1e6d22082add0a60c9c8d2380c4dc92c": "http://i.imgur.com/ic92fZb.png"
         }
     }, 
     "title": {
@@ -65,11 +82,11 @@
     }, 
     "version": 9, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>ENHANCEMENT<br/>* New translations"
+        "en-US": "NEWS<br/>ENHANCEMENT<br/>* New translations"
     }, 
-    "xo_size": 75494, 
+    "xo_size": 75493, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.FlipActivity_v9.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.FlipActivity_1424154828.xo", 
-    "xo_url_latest_timestamp": 1424154828, 
-    "xo_url_timestamp": 1424154828
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.FlipActivity_1424156463.xo", 
+    "xo_url_latest_timestamp": 1424156463, 
+    "xo_url_timestamp": 1424156463
 }
