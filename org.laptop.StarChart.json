@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "science"
+    ], 
     "description": {
         "ayc": "cosmos wakichatana thaqa\u00f1a", 
         "da": "udforsk kosmos", 
@@ -26,6 +29,19 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/jjcM3Cp.jpg"
+                ]
+            }, 
+            "version": 16, 
+            "whats_new": {
+                "en-US": "v17<br/>* Added translator notes<br/>* New translations<br/>v16<br/>* New translations<br/>v15<br/>* New translations<br/>v14<br/>* New translations<br/>v13<br/>* Support for \"new\" Sugar toolbars<br/>* Fixed initialize bug with lmag<br/>115 (v12)<br/>Stable 1.2 release 2010/04/21<br/>* Improved stars1.py catalog.<br/>* Changed the algorithm of the \"Identify\" feature so that an extended object is favored<br/>over point objects that it hides in the plot.  (Example: M42 is found whereas some of<br/>the stars embedded in it used to be found instead.)  Unfortunately, for large extended<br/>objects an invisible point object may still be indentified if the user clicks<br/>sufficiently far from the center of the extended object.<br/>* Added dso2.py which is a catalog of the larger, brighter Bennett objects (analagous to<br/>the Messier objects but in the southern skies) and the NGC objects not otherwise<br/>catalogged which have common names.<br/>* Added the ability to display a magnified view corresponding to what would be seen<br/>through typical 7-power binoculars.  In order to show the sky as it would appear with<br/>binoculars, I also added a supplemental star catalog that adds about 2500 stars which<br/>are too dim to see without an instrument (stars2.py).  These stars are taken from the<br/>SAO catalog.<br/>* Removed the radio button for magnitude 0 -- there are too few stars brighter than<br/>magnitude 1 for it to be useful to distinguish the mag 1 stars from the mag 0 stars.<br/>* Re-arranged controls on the \"What\" and \"Where\" toolbars so that the controls still<br/>fit if Spanish localization is applied.<br/>These additions bring the feature set up to what I have planned; the program is now<br/>finished (unless I get bug reports or compelling requests for additional capabilities).<br/>Stable 1.1 release 2010/03/14<br/>Fixed bug #15.<br/>Provided Spanish translation."
+            }, 
+            "xo_url": "org.laptop.StarChart_v16.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/fuAWV9M.jpg"
                 ]
             }, 
@@ -38,12 +54,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/fuAWV9M.jpg"
+            "http://i.imgur.com/jjcM3Cp.jpg"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "67c632cdd0d148b004a58416f762f377": "http://i.imgur.com/fuAWV9M.jpg"
+            "67c632cdd0d148b004a58416f762f377": "http://i.imgur.com/jjcM3Cp.jpg"
         }
     }, 
     "title": {
@@ -59,11 +75,11 @@
     }, 
     "version": 16, 
     "whats_new": {
-        "en-US": "<br/>v17<br/>* Added translator notes<br/>* New translations<br/>v16<br/>* New translations<br/>v15<br/>* New translations<br/>v14<br/>* New translations<br/>v13<br/>* Support for \"new\" Sugar toolbars<br/>* Fixed initialize bug with lmag<br/>115 (v12)<br/>Stable 1.2 release 2010/04/21<br/>* Improved stars1.py catalog.<br/>* Changed the algorithm of the \"Identify\" feature so that an extended object is favored<br/>over point objects that it hides in the plot.  (Example: M42 is found whereas some of<br/>the stars embedded in it used to be found instead.)  Unfortunately, for large extended<br/>objects an invisible point object may still be indentified if the user clicks<br/>sufficiently far from the center of the extended object.<br/>* Added dso2.py which is a catalog of the larger, brighter Bennett objects (analagous to<br/>the Messier objects but in the southern skies) and the NGC objects not otherwise<br/>catalogged which have common names.<br/>* Added the ability to display a magnified view corresponding to what would be seen<br/>through typical 7-power binoculars.  In order to show the sky as it would appear with<br/>binoculars, I also added a supplemental star catalog that adds about 2500 stars which<br/>are too dim to see without an instrument (stars2.py).  These stars are taken from the<br/>SAO catalog.<br/>* Removed the radio button for magnitude 0 -- there are too few stars brighter than<br/>magnitude 1 for it to be useful to distinguish the mag 1 stars from the mag 0 stars.<br/>* Re-arranged controls on the \"What\" and \"Where\" toolbars so that the controls still<br/>fit if Spanish localization is applied.<br/>These additions bring the feature set up to what I have planned; the program is now<br/>finished (unless I get bug reports or compelling requests for additional capabilities).<br/>Stable 1.1 release 2010/03/14<br/>Fixed bug #15.<br/>Provided Spanish translation."
+        "en-US": "v17<br/>* Added translator notes<br/>* New translations<br/>v16<br/>* New translations<br/>v15<br/>* New translations<br/>v14<br/>* New translations<br/>v13<br/>* Support for \"new\" Sugar toolbars<br/>* Fixed initialize bug with lmag<br/>115 (v12)<br/>Stable 1.2 release 2010/04/21<br/>* Improved stars1.py catalog.<br/>* Changed the algorithm of the \"Identify\" feature so that an extended object is favored<br/>over point objects that it hides in the plot.  (Example: M42 is found whereas some of<br/>the stars embedded in it used to be found instead.)  Unfortunately, for large extended<br/>objects an invisible point object may still be indentified if the user clicks<br/>sufficiently far from the center of the extended object.<br/>* Added dso2.py which is a catalog of the larger, brighter Bennett objects (analagous to<br/>the Messier objects but in the southern skies) and the NGC objects not otherwise<br/>catalogged which have common names.<br/>* Added the ability to display a magnified view corresponding to what would be seen<br/>through typical 7-power binoculars.  In order to show the sky as it would appear with<br/>binoculars, I also added a supplemental star catalog that adds about 2500 stars which<br/>are too dim to see without an instrument (stars2.py).  These stars are taken from the<br/>SAO catalog.<br/>* Removed the radio button for magnitude 0 -- there are too few stars brighter than<br/>magnitude 1 for it to be useful to distinguish the mag 1 stars from the mag 0 stars.<br/>* Re-arranged controls on the \"What\" and \"Where\" toolbars so that the controls still<br/>fit if Spanish localization is applied.<br/>These additions bring the feature set up to what I have planned; the program is now<br/>finished (unless I get bug reports or compelling requests for additional capabilities).<br/>Stable 1.1 release 2010/03/14<br/>Fixed bug #15.<br/>Provided Spanish translation."
     }, 
-    "xo_size": 303074, 
+    "xo_size": 303072, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.StarChart_v16.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.StarChart_1424154952.xo", 
-    "xo_url_latest_timestamp": 1424154952, 
-    "xo_url_timestamp": 1424154952
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.StarChart_1424156495.xo", 
+    "xo_url_latest_timestamp": 1424156495, 
+    "xo_url_timestamp": 1424156495
 }
