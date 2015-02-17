@@ -25,6 +25,20 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/FNOvWYK.png", 
+                    "http://i.imgur.com/JVPyVRN.png"
+                ]
+            }, 
+            "version": 24.3, 
+            "whats_new": {
+                "en-US": null
+            }, 
+            "xo_url": "org.laptop.community.Spirolaterals_v24.3.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/AxnQLNM.png", 
                     "http://i.imgur.com/TTeWHnP.png"
                 ]
@@ -38,14 +52,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/AxnQLNM.png", 
-            "http://i.imgur.com/TTeWHnP.png"
+            "http://i.imgur.com/FNOvWYK.png", 
+            "http://i.imgur.com/JVPyVRN.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "6a32a5081065d0cfef00466f3a0973f7": "http://i.imgur.com/AxnQLNM.png", 
-            "fefd9e87fd85b768b9890fd5af42e059": "http://i.imgur.com/TTeWHnP.png"
+            "6a32a5081065d0cfef00466f3a0973f7": "http://i.imgur.com/JVPyVRN.png", 
+            "fefd9e87fd85b768b9890fd5af42e059": "http://i.imgur.com/FNOvWYK.png"
         }
     }, 
     "socialhelp_category": "spirolaterals", 
@@ -56,8 +70,9 @@
     "whats_new": {
         "en-US": null
     }, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.community.Spirolaterals_stable_24.3.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.community.Spirolaterals_latest.xo", 
-    "xo_url_latest_timestamp": 1418221827.550762, 
-    "xo_url_timestamp": 1404115277.097035
+    "xo_size": 583771, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.community.Spirolaterals_v24.3.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.community.Spirolaterals_1424154926.xo", 
+    "xo_url_latest_timestamp": 1424154926, 
+    "xo_url_timestamp": 1424154926
 }
