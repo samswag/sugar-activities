@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths"
+    ], 
     "description": {
         "ayc": "amparampi jakhuja\u00f1a wakichata, jaljaya\u00f1ataki, registros juk'ampi", 
         "da": "en mekanisk lommeregner til multiplikation, division, logaritmer og mere", 
@@ -24,6 +27,15 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 35, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.SlideruleActivity_v35.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {}, 
@@ -49,11 +61,11 @@
     }, 
     "version": 35, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+        "en-US": "ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 101979, 
+    "xo_size": 101977, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.SlideruleActivity_v35.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.SlideruleActivity_1424155193.xo", 
-    "xo_url_latest_timestamp": 1424155193, 
-    "xo_url_timestamp": 1424155193
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.SlideruleActivity_1424156805.xo", 
+    "xo_url_latest_timestamp": 1424156805, 
+    "xo_url_timestamp": 1424156805
 }
