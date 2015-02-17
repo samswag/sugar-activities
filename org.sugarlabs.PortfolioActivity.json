@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "language", 
+        "teacher"
+    ], 
     "description": {
         "ayc": "U\u00f1ja\u00f1a laphinaka uka Sugar sapa uru lur\u00e4winakata taypina \"wali munata\" ch'ikuni wakichatanaka wakichma", 
         "da": "opret et diasshow fra poster i Sugar Journal, der har f\u00e5et tildelt stjerne", 
@@ -37,6 +41,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/5Gx5B3N.png"
+                ]
+            }, 
+            "version": 46, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* Export as ODP"
+            }, 
+            "xo_url": "org.sugarlabs.PortfolioActivity_v46.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/aZyrMu2.png"
                 ]
             }, 
@@ -49,12 +66,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/aZyrMu2.png"
+            "http://i.imgur.com/5Gx5B3N.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "7f26e23c4aa4ac716646c779a27425ee": "http://i.imgur.com/aZyrMu2.png"
+            "7f26e23c4aa4ac716646c779a27425ee": "http://i.imgur.com/5Gx5B3N.png"
         }
     }, 
     "title": {
@@ -86,11 +103,11 @@
     }, 
     "version": 46, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* Export as ODP"
+        "en-US": "ENHANCEMENT:<br/>* Export as ODP"
     }, 
-    "xo_size": 335775, 
+    "xo_size": 335774, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.PortfolioActivity_v46.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.PortfolioActivity_1424154960.xo", 
-    "xo_url_latest_timestamp": 1424154960, 
-    "xo_url_timestamp": 1424154960
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.PortfolioActivity_1424156668.xo", 
+    "xo_url_latest_timestamp": 1424156668, 
+    "xo_url_timestamp": 1424156668
 }
