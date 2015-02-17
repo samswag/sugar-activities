@@ -20,6 +20,15 @@
                 "en-US": null
             }, 
             "xo_url": "org.laptop.community.FollowMe_v24.2.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {}, 
+            "version": 24.2, 
+            "whats_new": {
+                "en-US": null
+            }, 
+            "xo_url": "org.laptop.community.FollowMe_v24.2.xo"
         }
     ], 
     "title": {
@@ -31,7 +40,7 @@
     }, 
     "xo_size": 2571659, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.community.FollowMe_v24.2.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.community.FollowMe_1424155070.xo", 
-    "xo_url_latest_timestamp": 1424155070, 
-    "xo_url_timestamp": 1424155070
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.community.FollowMe_1424156652.xo", 
+    "xo_url_latest_timestamp": 1424156652, 
+    "xo_url_timestamp": 1424156652
 }
