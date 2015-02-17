@@ -22,6 +22,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/TnumZGw.png"
+                ]
+            }, 
+            "version": 5, 
+            "whats_new": {
+                "en-US": "ENHANCEMENTS:<br/>* Ignacio Rodriguez port to gtk3"
+            }, 
+            "xo_url": "org.sugarlabs.NapierActivity_v5.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/vliRiao.png"
                 ]
             }, 
@@ -47,12 +60,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/vliRiao.png"
+            "http://i.imgur.com/TnumZGw.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "4e026a1b2dc39bd3fc4b4f98b596b2b3": "http://i.imgur.com/vliRiao.png"
+            "4e026a1b2dc39bd3fc4b4f98b596b2b3": "http://i.imgur.com/TnumZGw.png"
         }
     }, 
     "title": {
@@ -64,7 +77,7 @@
     }, 
     "xo_size": 49847, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.NapierActivity_v5.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.NapierActivity_1424156308.xo", 
-    "xo_url_latest_timestamp": 1424156308, 
-    "xo_url_timestamp": 1424156308
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.NapierActivity_1424156430.xo", 
+    "xo_url_latest_timestamp": 1424156430, 
+    "xo_url_timestamp": 1424156430
 }
