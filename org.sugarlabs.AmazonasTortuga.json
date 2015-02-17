@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "game", 
+        "programming"
+    ], 
     "description": {
         "ayc": "Maya tortuga wakichatawa uka kunaymana rixitanaka wakichiri chimpupana utji uka u\u00f1ja\u00f1anaka wakichata chika", 
         "da": "En skildpasse inspireret af Logo, der tegner farverige billeder med visuelle, programm\u00e9rbare blokke som kan sammens\u00e6ttes.", 
@@ -32,6 +36,19 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/PY9uxjQ.png"
+                ]
+            }, 
+            "version": 192, 
+            "whats_new": {
+                "en-US": "ENHANCEMENTS:<br/>* New sample program (Snake game)<br/>* Refactored sensors-follow-me example<br/>* New translations<br/>* Moved save snapshot button to Load/Save palette (Users were confusing it<br/>for the save image button.)<br/>* New blocks on extras palette: load_file_to_heap and save_heap_to_file<br/>* Added confirmation alert to empty trash block<br/>* Dismiss samples store by clicking on canvas<br/>* Reordered layout of extras palette to better commodate new blocks<br/>BUG FIXES:<br/>* Fixed regression in Sugar 84 support<br/>* Fixed problem with GNOME due to Sugar button check (Alan Aguiar)<br/>* Fixed label updates on mouse x, mouse y, and keyboard<br/>* Fixed bug with see block<br/>* Fixed bug in sharing filled shapes"
+            }, 
+            "xo_url": "org.sugarlabs.AmazonasTortuga_v192.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/hu0G93u.png"
                 ]
             }, 
@@ -44,12 +61,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/hu0G93u.png"
+            "http://i.imgur.com/PY9uxjQ.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "335f1c89dade3527063c66405508a661": "http://i.imgur.com/hu0G93u.png"
+            "335f1c89dade3527063c66405508a661": "http://i.imgur.com/PY9uxjQ.png"
         }
     }, 
     "title": {
@@ -68,11 +85,11 @@
     }, 
     "version": 192, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENTS:<br/>* New sample program (Snake game)<br/>* Refactored sensors-follow-me example<br/>* New translations<br/>* Moved save snapshot button to Load/Save palette (Users were confusing it<br/>for the save image button.)<br/>* New blocks on extras palette: load_file_to_heap and save_heap_to_file<br/>* Added confirmation alert to empty trash block<br/>* Dismiss samples store by clicking on canvas<br/>* Reordered layout of extras palette to better commodate new blocks<br/>BUG FIXES:<br/>* Fixed regression in Sugar 84 support<br/>* Fixed problem with GNOME due to Sugar button check (Alan Aguiar)<br/>* Fixed label updates on mouse x, mouse y, and keyboard<br/>* Fixed bug with see block<br/>* Fixed bug in sharing filled shapes"
+        "en-US": "ENHANCEMENTS:<br/>* New sample program (Snake game)<br/>* Refactored sensors-follow-me example<br/>* New translations<br/>* Moved save snapshot button to Load/Save palette (Users were confusing it<br/>for the save image button.)<br/>* New blocks on extras palette: load_file_to_heap and save_heap_to_file<br/>* Added confirmation alert to empty trash block<br/>* Dismiss samples store by clicking on canvas<br/>* Reordered layout of extras palette to better commodate new blocks<br/>BUG FIXES:<br/>* Fixed regression in Sugar 84 support<br/>* Fixed problem with GNOME due to Sugar button check (Alan Aguiar)<br/>* Fixed label updates on mouse x, mouse y, and keyboard<br/>* Fixed bug with see block<br/>* Fixed bug in sharing filled shapes"
     }, 
-    "xo_size": 2893882, 
+    "xo_size": 2893881, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.AmazonasTortuga_v192.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AmazonasTortuga_1424155056.xo", 
-    "xo_url_latest_timestamp": 1424155056, 
-    "xo_url_timestamp": 1424155056
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AmazonasTortuga_1424156637.xo", 
+    "xo_url_latest_timestamp": 1424156637, 
+    "xo_url_timestamp": 1424156637
 }
