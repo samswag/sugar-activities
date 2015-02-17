@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths"
+    ], 
     "description": {
         "ayc": "Inka achachilana jakhu\u00f1apa", 
         "da": "Incan lommeregner", 
@@ -26,6 +29,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/l1202io.png"
+                ]
+            }, 
+            "version": 17, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.YupanaActivity_v17.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/oi2Iwq9.png"
                 ]
             }, 
@@ -38,12 +54,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/oi2Iwq9.png"
+            "http://i.imgur.com/l1202io.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "9de9be92200f94646a3cb525ae340046": "http://i.imgur.com/oi2Iwq9.png"
+            "9de9be92200f94646a3cb525ae340046": "http://i.imgur.com/l1202io.png"
         }
     }, 
     "title": {
@@ -60,11 +76,11 @@
     }, 
     "version": 17, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+        "en-US": "ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 292358, 
+    "xo_size": 292355, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.YupanaActivity_v17.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.YupanaActivity_1424154980.xo", 
-    "xo_url_latest_timestamp": 1424154980, 
-    "xo_url_timestamp": 1424154980
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.YupanaActivity_1424156526.xo", 
+    "xo_url_latest_timestamp": 1424156526, 
+    "xo_url_timestamp": 1424156526
 }
