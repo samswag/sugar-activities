@@ -48,6 +48,20 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/fU6AKbF.png", 
+                    "http://i.imgur.com/FqtT7DH.png"
+                ]
+            }, 
+            "version": 49, 
+            "whats_new": {
+                "en-US": "* Added talking photoface (samdroid with an assist from ignacio)"
+            }, 
+            "xo_url": "vu.lux.olpc.Speak_v49.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/Bwkpg3j.png", 
                     "http://i.imgur.com/C4ZTTrW.png"
                 ]
@@ -75,14 +89,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/Bwkpg3j.png", 
-            "http://i.imgur.com/C4ZTTrW.png"
+            "http://i.imgur.com/fU6AKbF.png", 
+            "http://i.imgur.com/FqtT7DH.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "2683a8ac2d0bf652d47ff5039c8b1ca1": "http://i.imgur.com/C4ZTTrW.png", 
-            "9d5ee97a870cdf58dcefb9585d3ed44a": "http://i.imgur.com/Bwkpg3j.png"
+            "2683a8ac2d0bf652d47ff5039c8b1ca1": "http://i.imgur.com/FqtT7DH.png", 
+            "9d5ee97a870cdf58dcefb9585d3ed44a": "http://i.imgur.com/fU6AKbF.png"
         }
     }, 
     "socialhelp_category": "speak", 
@@ -127,11 +141,11 @@
     }, 
     "version": 49, 
     "whats_new": {
-        "en-US": "<br/>* Added talking photoface (samdroid with an assist from ignacio)"
+        "en-US": "* Added talking photoface (samdroid with an assist from ignacio)"
     }, 
-    "xo_size": 3273260, 
+    "xo_size": 3273258, 
     "xo_url": "http://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_v49.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_1424155019.xo", 
-    "xo_url_latest_timestamp": 1424155019, 
-    "xo_url_timestamp": 1424155019
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_1424156580.xo", 
+    "xo_url_latest_timestamp": 1424156580, 
+    "xo_url_timestamp": 1424156580
 }
