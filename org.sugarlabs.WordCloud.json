@@ -1,8 +1,53 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "github_current_tag": "v4", 
+    "github_url": "walterbender/wordcloud", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8v\nd3d3Lmlua3NjYXBlLm9yZy8pIC0tPjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiM2NjY2NjYiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI2UwZTBlMCI+Cl0+PHN2ZyBoZWlnaHQ9IjU1IiBpZD0ic3ZnMiIgdmVyc2lvbj0i\nMS4xIiB3aWR0aD0iNTUiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3Lncz\nLm9yZy8yMDAwL3N2ZyIgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zIyIg\neG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpyZGY9Imh0\ndHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiIHhtbG5zOnN2Zz0iaHR0\ncDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aAogICAgIGQ9Im0gNDcuMDMxMzczLDI4LjEy\nMjcwNiBjIDAuMDgzNTksLTAuNjg0MTg1IDAuMTI2NDUxLC0xLjM4Mjc5NyAwLjEyNjQ1MSwtMi4w\nOTM0MzQgMCwtOC4zODkzNTggLTYuMDI2Nzk5LC0xNS4xOTAzMDcgLTEzLjQ2MTcwOCwtMTUuMTkw\nMzA3IC01LjQ3OTczNywwIC0xMC4xOTQ4NzEsMy42OTQ0NjkgLTEyLjI5NTc4NCw4Ljk5NjU4NyAt\nMS4yMzU1OCwtMS4xNTc5NDEgLTIuODIyNjUxLC0xLjg1MzU0NyAtNC41NTQzOTIsLTEuODUzNTQ3\nIC0zLjkzOTI4LDAgLTcuMTMyNzEyNiwzLjYwMzA4NCAtNy4xMzI3MTI2LDguMDQ3ODY5IDAsMC42\nNjAxMzQgMC4wNzA3MjcsMS4zMDE2MyAwLjIwMzA3MjMsMS45MTU0NzIgLTAuMDgxOTc4LC0wLjAw\nMjQgLTAuMTY1MDI5OCwtMC4wMDM2IC0wLjI0NzU0NDYsLTAuMDAzNiAtNC45NDc2NzYxLC0wLjAw\nMTIgLTguOTU5MjkwOTcsNC41MjQ3NDcgLTguOTU5MjkwOTcsMTAuMTA4ODM2IDAsNS41ODQwODcg\nNC4wMTE2MTQ4NywxMC4xMTAwMzggOS4wMDQyOTkwNywxMC4yMTA0MzkgTCA0NS4zNzQ2NDYsNDgu\nMTYwNjM0IGMgNC45Mjg5MjMsLTAuMDI3MDYgOC45MTU4OSwtNC41NDI3ODUgOC45MTU4OSwtMTAu\nMTEwMDM5IDAsLTQuOTI2OTU5IC0zLjEyMzc3NywtOS4wMzE0NTcgLTcuMjU5MTYzLC05LjkyNzg2\nOCB6IgogICAgIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOztmaWxsLW9wYWNpdHk6MTtzdHJva2U6\nJnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjEuNDE4OTI5MjI7c3Ryb2tlLWxpbmVjYXA6cm91\nbmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hh\ncnJheTpub25lIiAvPjx0ZXh0CiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyMHB4O2ZvbnQtc3R5bGU6\nbm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDt0ZXh0LWFsaWduOmVuZDtsaW5lLWhlaWdodDoxMjUl\nO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O3RleHQtYW5jaG9yOmVuZDtmaWxs\nOiZzdHJva2VfY29sb3I7O2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO2ZvbnQtZmFtaWx5OlNh\nbnMiPjx0c3BhbgogICAgICAgeD0iNDUiCiAgICAgICB5PSI0MCI+YWJjPC90c3Bhbj48L3RleHQ+\nCjwvc3ZnPgo=\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/0zGQzOm.png"
+                ]
+            }, 
+            "version": 4, 
+            "whats_new": {
+                "en-US": "<br/>NEWS<br/>ENHANCEMENTS:<br/>* Added layout options: horizontal, vertical, mixed, fortyfive, random<br/>* Added color options<br/>* Added repeated words toggle<br/>* New icons<br/>* Use white background for image"
+            }, 
+            "xo_url": "org.sugarlabs.WordCloud_v4.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/0zGQzOm.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "b138178c34edea4b2be8fc39171f7b80": "http://i.imgur.com/0zGQzOm.png"
+        }
+    }, 
+    "title": {
+        "en-US": "WordCloud", 
+        "es": "Nublablabla"
+    }, 
+    "version": 4, 
+    "whats_new": {
+        "en-US": "<br/>NEWS<br/>ENHANCEMENTS:<br/>* Added layout options: horizontal, vertical, mixed, fortyfive, random<br/>* Added color options<br/>* Added repeated words toggle<br/>* New icons<br/>* Use white background for image"
+    }, 
+    "xo_size": 995452, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.WordCloud_v4.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.WordCloud_1424155026.xo", 
+    "xo_url_latest_timestamp": 1424155026, 
+    "xo_url_timestamp": 1424155026
 }
