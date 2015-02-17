@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "system"
+    ], 
     "description": {
         "en-US": "While running, this activity enables MakeyMakey."
     }, 
@@ -19,6 +22,17 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/YEp0oI0.png"
+                ]
+            }, 
+            "version": 1, 
+            "whats_new": {}, 
+            "xo_url": "org.sugarlabs.MakeyMakey_v1.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/Qu2uDRJ.png"
                 ]
             }, 
@@ -29,12 +43,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/Qu2uDRJ.png"
+            "http://i.imgur.com/YEp0oI0.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "8ca99a1c2d5a17b6e881bbe7fd04f4cd": "http://i.imgur.com/Qu2uDRJ.png"
+            "8ca99a1c2d5a17b6e881bbe7fd04f4cd": "http://i.imgur.com/YEp0oI0.png"
         }
     }, 
     "title": {
@@ -42,9 +56,9 @@
     }, 
     "version": 1, 
     "whats_new": {}, 
-    "xo_size": 52112, 
+    "xo_size": 52110, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.MakeyMakey_v1.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.MakeyMakey_1424154987.xo", 
-    "xo_url_latest_timestamp": 1424154987, 
-    "xo_url_timestamp": 1424154987
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.MakeyMakey_1424156543.xo", 
+    "xo_url_latest_timestamp": 1424156543, 
+    "xo_url_timestamp": 1424156543
 }
