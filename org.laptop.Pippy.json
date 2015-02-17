@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "programming"
+    ], 
     "description": {
         "en-US": "Searching for programmers! Here you can use examples to begin learning the language your computer understands called \"Python.\""
     }, 
@@ -16,6 +19,15 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 64, 
+            "whats_new": {
+                "en-US": "ENHANCEMENTS:<br/>* Control for font size (svineet)<br/>* Improved tab control (goutamnair7)"
+            }, 
+            "xo_url": "org.laptop.Pippy_v64.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {}, 
@@ -86,11 +98,11 @@
     }, 
     "version": 64, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENTS:<br/>* Control for font size (svineet)<br/>* Improved tab control (goutamnair7)"
+        "en-US": "ENHANCEMENTS:<br/>* Control for font size (svineet)<br/>* Improved tab control (goutamnair7)"
     }, 
-    "xo_size": 429135, 
+    "xo_size": 429133, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.Pippy_v64.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Pippy_1424155078.xo", 
-    "xo_url_latest_timestamp": 1424155078, 
-    "xo_url_timestamp": 1424155078
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Pippy_1424156660.xo", 
+    "xo_url_latest_timestamp": 1424156660, 
+    "xo_url_timestamp": 1424156660
 }
