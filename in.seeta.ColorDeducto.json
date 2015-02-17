@@ -1,8 +1,54 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "en-US": "a game based on logical induction"
+    }, 
+    "github_url": "walterbender/colordeducto", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCiAgICA8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMDAwMDAiPgogICAgPCFFTlRJ\nVFkgZmlsbF9jb2xvciAiI0ZGRkZGRiI+Cl0+CiAgICA8c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJu\nZXcgMCAwIDU1IDU1IgogICAgICAgICBoZWlnaHQ9IjU1cHgiCiAgICAgICAgIHdpZHRoPSI1NXB4\nIgogICAgICAgICB2ZXJzaW9uPSIxLjEiCiAgICAgICAgIHZpZXdCb3g9IjAgMCA1NSA1NSIKICAg\nICAgICAgeD0iMHB4IgogICAgICAgICB5PSIwcHgiCiAgICAgICAgIHhtbDpzcGFjZT0icHJlc2Vy\ndmUiCiAgICAgICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgICAg\neG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgoKICAgICAgICA8ZyBk\naXNwbGF5PSJibG9jayIgaWQ9ImFjdGl2aXR5LWRlZHVjdG8iPgogICAgICAgICAgICA8cmVjdCBk\naXNwbGF5PSJpbmxpbmUiIGZpbGw9IiNmZjAwMDAiIGhlaWdodD0iMTAiIHN0cm9rZT0iJnN0cm9r\nZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMC41IiB3aWR0aD0iMTAiIHg9IjcuMjkxIiB5PSI3Ljgz\nMyIvPgogICAgICAgICAgICA8cmVjdCBkaXNwbGF5PSJpbmxpbmUiIGZpbGw9IiZzdHJva2VfY29s\nb3I7IiBoZWlnaHQ9IjEwIiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjAu\nNSIgd2lkdGg9IjEwIiB4PSIyMi42MjUiIHk9IjcuODMzIi8+CiAgICAgICAgICAgIDxyZWN0IGRp\nc3BsYXk9ImlubGluZSIgZmlsbD0iIzAwZmYwMCIgaGVpZ2h0PSIxMCIgc3Ryb2tlPSImc3Ryb2tl\nX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIwLjUiIHdpZHRoPSIxMCIgeD0iMzcuMzc1IiB5PSI3Ljgz\nMyIvPgogICAgICAgICAgICA8cmVjdCBkaXNwbGF5PSJpbmxpbmUiIGZpbGw9IiZzdHJva2VfY29s\nb3I7IiBoZWlnaHQ9IjEwIiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjAu\nNSIgd2lkdGg9IjEwIiB4PSI3LjI5MSIgeT0iMjIuNzUiLz4KICAgICAgICAgICAgPHJlY3QgZGlz\ncGxheT0iaW5saW5lIiBmaWxsPSImZmlsbF9jb2xvcjsiIGhlaWdodD0iMTAiIHN0cm9rZT0iJnN0\ncm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMC41IiB3aWR0aD0iMTAiIHg9IjIyLjYyNSIgeT0i\nMjIuNzUiLz4KICAgICAgICAgICAgPHJlY3QgZGlzcGxheT0iaW5saW5lIiBmaWxsPSImc3Ryb2tl\nX2NvbG9yOyIgaGVpZ2h0PSIxMCIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRo\nPSIwLjUiIHdpZHRoPSIxMCIgeD0iMzcuMzc1IiB5PSIyMi43NSIvPgogICAgICAgICAgICA8cmVj\ndCBkaXNwbGF5PSJpbmxpbmUiIGZpbGw9IiNmZmZmMDAiIGhlaWdodD0iMTAiIHN0cm9rZT0iJnN0\ncm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMC41IiB3aWR0aD0iMTAiIHg9IjcuMjkxIiB5PSIz\nNy42MjUiLz4KICAgICAgICAgICAgPHJlY3QgZGlzcGxheT0iaW5saW5lIiBmaWxsPSImc3Ryb2tl\nX2NvbG9yOyIgaGVpZ2h0PSIxMCIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRo\nPSIwLjUiIHdpZHRoPSIxMCIgeD0iMjIuNjI1IiB5PSIzNy42MjUiLz4KICAgICAgICAgICAgPHJl\nY3QgZGlzcGxheT0iaW5saW5lIiBmaWxsPSIjMDAwMGZmIiBoZWlnaHQ9IjEwIiBzdHJva2U9IiZz\ndHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjAuNSIgd2lkdGg9IjEwIiB4PSIzNy4zNzUiIHk9\nIjM3LjYyNSIvPgogICAgICAgIDwvZz4KICAgIDwvc3ZnPgo=\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/eVdR8Ky.png"
+                ]
+            }, 
+            "version": 7, 
+            "whats_new": {
+                "en-US": "<br/>NEWS<br/>ENHANCEMENT:<br/>* Ignacio Rodr\u00edguez port to GTK3"
+            }, 
+            "xo_url": "in.seeta.ColorDeducto_v7.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/eVdR8Ky.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "69b6a2c0634deba84aad0f222fc900ac": "http://i.imgur.com/eVdR8Ky.png"
+        }
+    }, 
+    "title": {
+        "en-US": "ColorDeducto"
+    }, 
+    "version": 7, 
+    "whats_new": {
+        "en-US": "<br/>NEWS<br/>ENHANCEMENT:<br/>* Ignacio Rodr\u00edguez port to GTK3"
+    }, 
+    "xo_size": 52569, 
+    "xo_url": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_v7.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_1424154896.xo", 
+    "xo_url_latest_timestamp": 1424154896, 
+    "xo_url_timestamp": 1424154896
 }
