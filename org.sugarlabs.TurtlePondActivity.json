@@ -5,6 +5,11 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths", 
+        "game", 
+        "programming"
+    ], 
     "description": {
         "ayc": "Amuyt'asa maya anata\u00f1a", 
         "da": "et strategi-spil", 
@@ -25,6 +30,15 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 9, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.TurtlePondActivity_v9.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {}, 
@@ -51,11 +65,11 @@
     }, 
     "version": 9, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>ENHANCEMENT:<br/>* New translations"
+        "en-US": "NEWS<br/>ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 63611, 
+    "xo_size": 63610, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_v9.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_1424154933.xo", 
-    "xo_url_latest_timestamp": 1424154933, 
-    "xo_url_timestamp": 1424154933
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_1424156341.xo", 
+    "xo_url_latest_timestamp": 1424156341, 
+    "xo_url_timestamp": 1424156341
 }
