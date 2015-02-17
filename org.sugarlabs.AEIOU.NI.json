@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "language"
+    ], 
     "description": {
         "en-US": "learn the vowel sounds"
     }, 
@@ -15,6 +18,20 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/i9uQsWT.png", 
+                    "http://i.imgur.com/0hC1Fbg.png"
+                ]
+            }, 
+            "version": 6, 
+            "whats_new": {
+                "en-US": "Enhancements based on feedback from .NI:<br/>* Level 1: add the uppercase and lowercase letters<br/>* Level 2: link the name of the letter and its image;<br/>for example: The XO says: \"A\" de \"Ave\", \"E\" de Elefante<br/>* Change the background color to one of the XO colors<br/>* Add visual to feedback for Levels 3 and 4<br/>* Don't repeat letter until all letters seen"
+            }, 
+            "xo_url": "org.sugarlabs.AEIOU.NI_v6.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -32,14 +49,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/bXkzQuo.png", 
-            "http://i.imgur.com/MK141ki.png"
+            "http://i.imgur.com/i9uQsWT.png", 
+            "http://i.imgur.com/0hC1Fbg.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "376626cb54f75925948a916f769385b8": "http://i.imgur.com/MK141ki.png", 
-            "410db8316d560acfbd9eae21a4a92525": "http://i.imgur.com/bXkzQuo.png"
+            "376626cb54f75925948a916f769385b8": "http://i.imgur.com/0hC1Fbg.png", 
+            "410db8316d560acfbd9eae21a4a92525": "http://i.imgur.com/i9uQsWT.png"
         }
     }, 
     "title": {
@@ -47,11 +64,11 @@
     }, 
     "version": 6, 
     "whats_new": {
-        "en-US": "<br/>Enhancements based on feedback from .NI:<br/>* Level 1: add the uppercase and lowercase letters<br/>* Level 2: link the name of the letter and its image;<br/>for example: The XO says: \"A\" de \"Ave\", \"E\" de Elefante<br/>* Change the background color to one of the XO colors<br/>* Add visual to feedback for Levels 3 and 4<br/>* Don't repeat letter until all letters seen"
+        "en-US": "Enhancements based on feedback from .NI:<br/>* Level 1: add the uppercase and lowercase letters<br/>* Level 2: link the name of the letter and its image;<br/>for example: The XO says: \"A\" de \"Ave\", \"E\" de Elefante<br/>* Change the background color to one of the XO colors<br/>* Add visual to feedback for Levels 3 and 4<br/>* Don't repeat letter until all letters seen"
     }, 
-    "xo_size": 772118, 
+    "xo_size": 772116, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.AEIOU.NI_v6.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AEIOU.NI_1424155140.xo", 
-    "xo_url_latest_timestamp": 1424155140, 
-    "xo_url_timestamp": 1424155140
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AEIOU.NI_1424156751.xo", 
+    "xo_url_latest_timestamp": 1424156751, 
+    "xo_url_timestamp": 1424156751
 }
