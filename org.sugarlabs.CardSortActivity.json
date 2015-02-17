@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "game"
+    ], 
     "description": {
         "ayc": "Qurpanch\u00e4wi chikachasirinaka anata\u00f1a", 
         "da": "et spil hvor m\u00f8nstre sammenlignes", 
@@ -28,6 +31,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/GpBxT2D.png"
+                ]
+            }, 
+            "version": 11, 
+            "whats_new": {
+                "en-US": "* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.CardSortActivity_v11.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/Wqsr0js.png"
                 ]
             }, 
@@ -40,12 +56,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/Wqsr0js.png"
+            "http://i.imgur.com/GpBxT2D.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "065e2cf8e7f7c82787cbe4a23e179f77": "http://i.imgur.com/Wqsr0js.png"
+            "065e2cf8e7f7c82787cbe4a23e179f77": "http://i.imgur.com/GpBxT2D.png"
         }
     }, 
     "title": {
@@ -61,11 +77,11 @@
     }, 
     "version": 11, 
     "whats_new": {
-        "en-US": "<br/>* New translations"
+        "en-US": "* New translations"
     }, 
-    "xo_size": 73634, 
+    "xo_size": 73633, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.CardSortActivity_v11.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.CardSortActivity_1424155176.xo", 
-    "xo_url_latest_timestamp": 1424155176, 
-    "xo_url_timestamp": 1424155176
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.CardSortActivity_1424156786.xo", 
+    "xo_url_latest_timestamp": 1424156786, 
+    "xo_url_timestamp": 1424156786
 }
