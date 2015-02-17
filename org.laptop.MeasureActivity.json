@@ -1,8 +1,104 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "da": "oscilloskop-program til visualisering af inddata fra mikrofon", 
+        "en": "oscilloscope program for visuallzing microphone input", 
+        "en-GB": "oscilloscope program for visualising microphone input", 
+        "en-US": "oscilloscope program for visualizing microphone input", 
+        "es": "Programa osciloscopio para visualizar la entrada de microfono", 
+        "fr": "programme oscilloscope permettant de visualiser l'entr\u00e9e du microphone", 
+        "hy": "\u0585\u057d\u0581\u056b\u056c\u0578\u0563\u0580\u0561\u0586 \u056e\u0580\u0561\u0563\u056b\u0580 \u056d\u0578\u057d\u0561\u0583\u0578\u0572\u056b \u0576\u0565\u0580\u0561\u056e\u0578\u0582\u0574\u0568 \u057f\u0565\u057d\u0561\u0576\u0565\u056c\u056b \u0564\u0561\u0580\u0571\u0576\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580", 
+        "ne": "oscilloscope program for visualizing microphone input", 
+        "pbs": "mad-eung osciloscopio napajau ndeje\u00ec ne ndape'et leet", 
+        "pt": "Programa oscilosc\u00f3pio para visualizar a entrada de microfone"
+    }, 
+    "github_url": "walterbender/Measure", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1NSA1\nNSIgaGVpZ2h0PSI1NXB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lkdGg9\nIjU1cHgiIHg9IjBweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIg\neT0iMHB4Ij48ZyBkaXNwbGF5PSJibG9jayIgaWQ9ImFjdGl2aXR5LW1lYXN1cmUiPgoJPGc+CgkJ\nPHBhdGggZD0iTTQ4LjE0MywzNi45ODNjMCwzLjMtMi43LDYtNiw2SDEyLjcwNWMtMy4zLDAtNi0y\nLjctNi02VjE4LjIxM2MwLTMuMywyLjctNiw2LTZoMjkuNDM4YzMuMywwLDYsMi43LDYsNiAgICBW\nMzYuOTgzeiIgZmlsbD0iJmZpbGxfY29sb3I7Ii8+CgkJPHBhdGggZD0iTTQ4LjE0MywzNi45ODNj\nMCwzLjMtMi43LDYtNiw2SDEyLjcwNSAgICBjLTMuMywwLTYtMi43LTYtNlYxOC4yMTNjMC0zLjMs\nMi43LTYsNi02aDI5LjQzOGMzLjMsMCw2LDIuNyw2LDZWMzYuOTgzeiIgZmlsbD0ibm9uZSIgc3Ry\nb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRo\nPSIzLjUiLz4KCTwvZz4KCTxwYXRoIGQ9Ik04LjAwNywyNy41OTggICBjMTAuMTE4LDAsNi4yNDMs\nOS40MzEsMTEuMjEzLDkuNDMxYzQuMzc1LDAsMi4xNTQtMTkuMTU0LDYuMjc5LTE5LjE1NGM0Ljg3\nNSwwLDEuNzE5LDE5LjE1NCw2LjcxOSwxOS4xNTQgICBjNC40MDYsMCwxLjc4MS0xMS41MjksNS4x\nNTYtMTEuNTI5czIsNC44NzUsNC4yNSw0Ljg3NWMyLjM3NSwwLDAuMjUtMy4zNzUsNS43NS0zLjM3\nNSIgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2UtbGlu\nZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMuNSIvPgo8L2c+PC9zdmc+\n", 
+    "isGTK3": false, 
+    "isWeb": false, 
+    "minSugarVersion": "0.86", 
+    "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/APbeuoG.png"
+                ]
+            }, 
+            "version": 51, 
+            "whats_new": {
+                "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.laptop.MeasureActivity_v51.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/APbeuoG.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "2418aef0b862209904e13cdf47106dcc": "http://i.imgur.com/APbeuoG.png"
+        }
+    }, 
+    "title": {
+        "ar": "\u0642\u064a\u0627\u0633", 
+        "ayc": "Tupa\u00f1a", 
+        "bg": "\u041e\u0441\u0446\u0438\u043b\u043e\u0441\u043a\u043e\u043f", 
+        "bn-IN": "\u09ae\u09c7\u09aa\u09c7 \u09a8\u09bf\u09a8", 
+        "ca": "Mesura", 
+        "cs": "Zm\u011b\u0159te", 
+        "da": "M\u00e5ling", 
+        "de": "Messen", 
+        "el": "\u039c\u03ad\u03c4\u03c1\u03b7\u03c3\u03b7", 
+        "en": "Measure", 
+        "en-GB": "Measure", 
+        "en-US": "Measure", 
+        "es": "Medir", 
+        "fa": "\u0633\u0646\u062c\u0634", 
+        "fa-AF": "\u0633\u0646\u062c\u0634", 
+        "fr": "Mesurer", 
+        "hi": "\u0928\u093e\u092a", 
+        "hus": "T'\u00edpoy", 
+        "hy": "\u0549\u0561\u0583\u0578\u0582\u0574", 
+        "id": "Mengukur", 
+        "is": "M\u00e6la", 
+        "ja": "\u8a08\u6e2c", 
+        "km": "\u179c\u17b6\u179f\u17cb", 
+        "mi": "Ine", 
+        "mk": "\u041c\u0435\u0440\u043a\u0430", 
+        "mn": "\u0425\u044d\u043c\u0436\u0438\u0433\u0447", 
+        "ne": "\u0928\u093e\u092a", 
+        "nl": "Meten", 
+        "pbs": "masau'", 
+        "pl": "Pomiar", 
+        "ps": "\u0627\u0646\u062f\u0627\u0632\u0647 \u06a9\u0648\u0644", 
+        "pt": "Medir", 
+        "pt-BR": "Medir", 
+        "ro": "M\u0103sur\u0103tori", 
+        "ru": "\u0418\u0437\u043c\u0435\u0440\u0438\u0442\u044c", 
+        "rw": "Gupima", 
+        "sr": "\u041c\u0435\u0440\u0430", 
+        "te": "\u0c15\u0c4a\u0c32\u0c41\u0c35\u0c41", 
+        "th": "\u0e27\u0e31\u0e14\u0e04\u0e48\u0e32", 
+        "ur": "\u0646\u0627\u067e\u06cc\u06ba", 
+        "zh-CN": "\u6d4b\u91cf", 
+        "zh-TW": "\u91cf\u6e2c\u6d3b\u52d5"
+    }, 
+    "version": 51, 
+    "whats_new": {
+        "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+    }, 
+    "xo_size": 344314, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_v51.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_1424155105.xo", 
+    "xo_url_latest_timestamp": 1424155105, 
+    "xo_url_timestamp": 1424155105
 }
