@@ -13,6 +13,11 @@
             "page": "https://github.com/garycmartin"
         }
     ], 
+    "categories": [
+        "science", 
+        "game", 
+        "art"
+    ], 
     "description": {
         "da": "Bevis at Sir Isaac Newton havde ret! Opret \u00e6gte, levende simuleringer som anvender forskellige former og se dem komme til live med kr\u00e6fter!", 
         "en": "Prove Sir Isaac Newton right! Create real life simulations using different shapes and see them come to life with forces!", 
@@ -36,6 +41,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/q730CDo.png"
+                ]
+            }, 
+            "version": 26, 
+            "whats_new": {
+                "en-US": "* Add missing add_badge code (the toolkit badge code is not yet upstream)."
+            }, 
+            "xo_url": "org.laptop.physics_v26.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/udMby5r.png"
                 ]
             }, 
@@ -48,12 +66,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/udMby5r.png"
+            "http://i.imgur.com/q730CDo.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "62d5297346b5b5842fd50257a039e2dd": "http://i.imgur.com/udMby5r.png"
+            "62d5297346b5b5842fd50257a039e2dd": "http://i.imgur.com/q730CDo.png"
         }
     }, 
     "title": {
@@ -105,11 +123,11 @@
     }, 
     "version": 26, 
     "whats_new": {
-        "en-US": "<br/>* Add missing add_badge code (the toolkit badge code is not yet upstream)."
+        "en-US": "* Add missing add_badge code (the toolkit badge code is not yet upstream)."
     }, 
-    "xo_size": 1921969, 
+    "xo_size": 1921967, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.physics_v26.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.physics_1424154868.xo", 
-    "xo_url_latest_timestamp": 1424154868, 
-    "xo_url_timestamp": 1424154868
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.physics_1424156333.xo", 
+    "xo_url_latest_timestamp": 1424156333, 
+    "xo_url_timestamp": 1424156333
 }
