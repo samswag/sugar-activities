@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "art", 
+        "system"
+    ], 
     "description": {
         "en-US": "displays available clipart that can be saved to the Sugar Journal"
     }, 
@@ -20,6 +24,15 @@
             "screenshots": {}, 
             "version": 2, 
             "whats_new": {
+                "en-US": "* Set icon view background color to gray"
+            }, 
+            "xo_url": "org.sugarlabs.ClipArt_v2.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 2, 
+            "whats_new": {
                 "en-US": "<br/>* Set icon view background color to gray"
             }, 
             "xo_url": "org.sugarlabs.ClipArt_v2.xo"
@@ -30,11 +43,11 @@
     }, 
     "version": 2, 
     "whats_new": {
-        "en-US": "<br/>* Set icon view background color to gray"
+        "en-US": "* Set icon view background color to gray"
     }, 
-    "xo_size": 19850, 
+    "xo_size": 19848, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.ClipArt_v2.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.ClipArt_1424154816.xo", 
-    "xo_url_latest_timestamp": 1424154816, 
-    "xo_url_timestamp": 1424154816
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.ClipArt_1424156249.xo", 
+    "xo_url_latest_timestamp": 1424156249, 
+    "xo_url_timestamp": 1424156249
 }
