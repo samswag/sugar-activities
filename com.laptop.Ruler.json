@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "science", 
+        "maths"
+    ], 
     "description": {
         "ayc": "Chiqacha\u00f1aru tupt'asa rixita, muysuya\u00f1a, ukata ajedrez anata\u00f1a", 
         "da": "skalerede billeder af en lineal, en vinkelm\u00e5ler og et skakbr\u00e6t", 
@@ -31,6 +35,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/iHrwZmT.png"
+                ]
+            }, 
+            "version": 33, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "com.laptop.Ruler_v33.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/b54LjgK.png"
                 ]
             }, 
@@ -43,12 +60,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/b54LjgK.png"
+            "http://i.imgur.com/iHrwZmT.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "e4178da675bbbe81eb621afc2780281c": "http://i.imgur.com/b54LjgK.png"
+            "e4178da675bbbe81eb621afc2780281c": "http://i.imgur.com/iHrwZmT.png"
         }
     }, 
     "title": {
@@ -86,11 +103,11 @@
     }, 
     "version": 33, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+        "en-US": "ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 208055, 
+    "xo_size": 208054, 
     "xo_url": "http://download.sugarlabs.org/activities2/com.laptop.Ruler_v33.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/com.laptop.Ruler_1424154944.xo", 
-    "xo_url_latest_timestamp": 1424154944, 
-    "xo_url_timestamp": 1424154944
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/com.laptop.Ruler_1424156486.xo", 
+    "xo_url_latest_timestamp": 1424156486, 
+    "xo_url_timestamp": 1424156486
 }
