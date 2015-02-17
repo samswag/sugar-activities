@@ -32,6 +32,19 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/r8qPe0t.png"
+                ]
+            }, 
+            "version": 9, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.TurtlePondActivity_v9.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
             "screenshots": {}, 
             "version": 9, 
             "whats_new": {
@@ -58,6 +71,16 @@
             "xo_url": "org.sugarlabs.TurtlePondActivity_v9.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/r8qPe0t.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "2c8e343e4d48e291f3e97ac4a49e1431": "http://i.imgur.com/r8qPe0t.png"
+        }
+    }, 
     "title": {
         "ayc": "Tortuga uma irpana", 
         "da": "Skildpadde i en dam", 
@@ -76,9 +99,9 @@
     "whats_new": {
         "en-US": "NEWS<br/>ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 63610, 
+    "xo_size": 93691, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_v9.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_1424156471.xo", 
-    "xo_url_latest_timestamp": 1424156471, 
-    "xo_url_timestamp": 1424156471
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_1424206999.xo", 
+    "xo_url_latest_timestamp": 1424206999, 
+    "xo_url_timestamp": 1424206999
 }
