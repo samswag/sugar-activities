@@ -28,6 +28,15 @@
             "screenshots": {}, 
             "version": 3, 
             "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.AnalyzeJournal_v3.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {}, 
+            "version": 3, 
+            "whats_new": {
                 "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
             }, 
             "xo_url": "org.sugarlabs.AnalyzeJournal_v3.xo"
@@ -46,11 +55,11 @@
     }, 
     "version": 3, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+        "en-US": "ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 273653, 
+    "xo_size": 273652, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.AnalyzeJournal_v3.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AnalyzeJournal_1424154808.xo", 
-    "xo_url_latest_timestamp": 1424154808, 
-    "xo_url_timestamp": 1424154808
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AnalyzeJournal_1424156535.xo", 
+    "xo_url_latest_timestamp": 1424156535, 
+    "xo_url_timestamp": 1424156535
 }
