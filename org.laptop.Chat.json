@@ -1,4 +1,7 @@
 {
+    "categories": [
+        "language"
+    ], 
     "description": {
         "ayc": "Qillq\u00e4wimpi jakisi\u00f1a", 
         "da": "Tekst-chat", 
@@ -7,7 +10,6 @@
         "en": "Text chat", 
         "en-GB": "Text chat", 
         "en-US": "Text chat", 
-        "en_US": "Text chat", 
         "es": "Chat de texto", 
         "fr": "Discussion texte", 
         "hy": "\u054f\u0565\u0584\u057d\u057f\u0561\u0575\u056b\u0576 \u0566\u0580\u0578\u0582\u0575\u0581", 
@@ -26,15 +28,28 @@
         "zh-CN": "\u6587\u5b57\u804a\u5929", 
         "zh-TW": "\u6587\u5b57\u804a\u5929"
     }, 
-    "github_current_tag": "v78", 
+    "github_current_tag": "v81", 
     "github_url": "walterbender/chat", 
     "hasOldToolbars": false, 
     "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1NSA1\nNSIgaGVpZ2h0PSI1NXB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lkdGg9\nIjU1cHgiIHg9IjBweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIg\neT0iMHB4Ij48ZyBkaXNwbGF5PSJibG9jayIgaWQ9ImFjdGl2aXR5LWNoYXQiPgoJPHBhdGggZD0i\nTTkuMjYzLDQ4LjM5NmMwLjY4MiwxLjE1Miw2LjAyNywwLjA1OSw4LjI0Ni0xLjQ2MyAgIGMyLjEw\nMi0xLjQzMiwzLjIwNy0yLjU5Niw0LjMzNi0yLjU5NmMxLjEzMywwLDEyLjU0LDAuOTIsMjAuOTM1\nLTUuNzE1YzcuMjI1LTUuNzA3LDkuNzczLTEzLjc4OCw0LjUyLTIxLjQzNyAgIGMtNS4yNTItNy42\nNDQtMTMuODMyLTkuMDgtMjAuODc4LTguNTZDMTYuODA2LDkuMzQyLDQuMjI0LDE2LjkxLDQuNjc3\nLDI4LjMxM2MwLjI2NCw2LjcxMSwzLjM1Nyw5LjE0Myw0LjkyMiwxMC43MDMgICBjMS41NjIsMS41\nNjYsNC41NDUsMS41NjYsMi45OTIsNS41ODhDMTEuOTgxLDQ2LjE4Myw4Ljc1Myw0Ny41MjIsOS4y\nNjMsNDguMzk2eiIgZGlzcGxheT0iaW5saW5lIiBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0i\nJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13aWR0aD0iMy41Ii8+CjwvZz48L3N2Zz48IS0tICIgLS0+\nCg==\n", 
     "iconHash": "2d0e7784902938135d07399cd781a6be", 
-    "isGTK3": false, 
+    "isGTK3": true, 
     "isWeb": false, 
-    "minSugarVersion": "0.86", 
+    "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/LcVXmWz.png"
+                ]
+            }, 
+            "version": 81, 
+            "whats_new": {
+                "en-US": "BUG FIX:<br/>* Don't try to write smile files to readonly directory"
+            }, 
+            "xo_url": "org.laptop.Chat_v81.xo"
+        }, 
         {
             "minSugarVersion": "0.86", 
             "screenshots": [], 
@@ -45,6 +60,16 @@
             "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Chat_stable_78.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/LcVXmWz.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "7e640bbb7330225e16fa65e16dd298a2": "http://i.imgur.com/LcVXmWz.png"
+        }
+    }, 
     "socialhelp_category": "chat", 
     "title": {
         "af": "Gesels", 
@@ -65,7 +90,6 @@
         "en": "Chat", 
         "en-GB": "Chat", 
         "en-US": "Chat", 
-        "en_US": "Chat", 
         "es": "Charlar", 
         "fa": "\u06af\u0641\u062a\u06af\u0648", 
         "fa-AF": "\u06af\u0641\u062a\u06af\u0648", 
@@ -127,13 +151,13 @@
         "zh-CN": "\u804a\u5929", 
         "zh-TW": "\u804a\u5929"
     }, 
-    "version": 78, 
+    "version": 81, 
     "whats_new": {
-        "en_US": "<br/>* Replace cjson with json #3142<br/>* Update translations"
+        "en-US": "BUG FIX:<br/>* Don't try to write smile files to readonly directory"
     }, 
-    "xo_size": 532860, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Chat_stable_78.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.Chat_latest.xo", 
-    "xo_url_latest_timestamp": 1409447995.996804, 
-    "xo_url_timestamp": 1405682496.230957
+    "xo_size": 767567, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.Chat_v81.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Chat_1424156126.xo", 
+    "xo_url_latest_timestamp": 1424156126, 
+    "xo_url_timestamp": 1424156126
 }
