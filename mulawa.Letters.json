@@ -23,6 +23,15 @@
                 "en-US": null
             }, 
             "xo_url": "mulawa.Letters_v24.2.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {}, 
+            "version": 24.2, 
+            "whats_new": {
+                "en-US": null
+            }, 
+            "xo_url": "mulawa.Letters_v24.2.xo"
         }
     ], 
     "title": {
@@ -32,9 +41,9 @@
     "whats_new": {
         "en-US": null
     }, 
-    "xo_size": 1405360, 
+    "xo_size": 1405358, 
     "xo_url": "http://download.sugarlabs.org/activities2/mulawa.Letters_v24.2.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/mulawa.Letters_1424154993.xo", 
-    "xo_url_latest_timestamp": 1424154993, 
-    "xo_url_timestamp": 1424154993
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/mulawa.Letters_1424156550.xo", 
+    "xo_url_latest_timestamp": 1424156550, 
+    "xo_url_timestamp": 1424156550
 }
