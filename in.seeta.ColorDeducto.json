@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "game"
+    ], 
     "description": {
         "en-US": "a game based on logical induction"
     }, 
@@ -15,6 +18,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/25IZa2g.png"
+                ]
+            }, 
+            "version": 7, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENT:<br/>* Ignacio Rodr\u00edguez port to GTK3"
+            }, 
+            "xo_url": "in.seeta.ColorDeducto_v7.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -31,12 +47,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/eVdR8Ky.png"
+            "http://i.imgur.com/25IZa2g.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "69b6a2c0634deba84aad0f222fc900ac": "http://i.imgur.com/eVdR8Ky.png"
+            "69b6a2c0634deba84aad0f222fc900ac": "http://i.imgur.com/25IZa2g.png"
         }
     }, 
     "title": {
@@ -44,11 +60,11 @@
     }, 
     "version": 7, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>ENHANCEMENT:<br/>* Ignacio Rodr\u00edguez port to GTK3"
+        "en-US": "NEWS<br/>ENHANCEMENT:<br/>* Ignacio Rodr\u00edguez port to GTK3"
     }, 
-    "xo_size": 52569, 
+    "xo_size": 52567, 
     "xo_url": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_v7.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_1424154896.xo", 
-    "xo_url_latest_timestamp": 1424154896, 
-    "xo_url_timestamp": 1424154896
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_1424156255.xo", 
+    "xo_url_latest_timestamp": 1424156255, 
+    "xo_url_timestamp": 1424156255
 }
