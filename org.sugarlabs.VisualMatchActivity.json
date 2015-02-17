@@ -37,6 +37,21 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/qOCx6nR.png", 
+                    "http://i.imgur.com/3eWfImM.png", 
+                    "http://i.imgur.com/sYXIwFL.png"
+                ]
+            }, 
+            "version": 58, 
+            "whats_new": {
+                "en-US": "* High score chart (Ignacio Rodriguez)"
+            }, 
+            "xo_url": "org.sugarlabs.VisualMatchActivity_v58.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/bj4YD0x.png", 
                     "http://i.imgur.com/EHk7J8K.png", 
                     "http://i.imgur.com/4a0XjXI.png"
@@ -66,16 +81,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/bj4YD0x.png", 
-            "http://i.imgur.com/EHk7J8K.png", 
-            "http://i.imgur.com/4a0XjXI.png"
+            "http://i.imgur.com/qOCx6nR.png", 
+            "http://i.imgur.com/3eWfImM.png", 
+            "http://i.imgur.com/sYXIwFL.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "1153ca5e6afbe726e312644697847343": "http://i.imgur.com/bj4YD0x.png", 
-            "130ced0739fd0148335c3293f015fa14": "http://i.imgur.com/4a0XjXI.png", 
-            "7a10a34b219b32d73979422153e1547e": "http://i.imgur.com/EHk7J8K.png"
+            "1153ca5e6afbe726e312644697847343": "http://i.imgur.com/qOCx6nR.png", 
+            "130ced0739fd0148335c3293f015fa14": "http://i.imgur.com/sYXIwFL.png", 
+            "7a10a34b219b32d73979422153e1547e": "http://i.imgur.com/3eWfImM.png"
         }
     }, 
     "title": {
@@ -117,7 +132,7 @@
     }, 
     "xo_size": 2122581, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.VisualMatchActivity_v58.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.VisualMatchActivity_1424156322.xo", 
-    "xo_url_latest_timestamp": 1424156322, 
-    "xo_url_timestamp": 1424156322
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.VisualMatchActivity_1424156386.xo", 
+    "xo_url_latest_timestamp": 1424156386, 
+    "xo_url_timestamp": 1424156386
 }
