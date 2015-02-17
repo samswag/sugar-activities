@@ -1,8 +1,50 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "en-US": "While running, this activity enables MakeyMakey."
+    }, 
+    "github_url": "walterbender/makeymakey", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMDAiPgoJPCFFTlRJVFkgZmlsbF9j\nb2xvciAiI2VlZSI+Cl0+PHN2ZyBoZWlnaHQ9IjU1cHgiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lk\ndGg9IjU1cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9\nImh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ry\nb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZT0iJnN0cm9rZV9j\nb2xvcjsiIGZpbGw9IiZmaWxsX2NvbG9yOyI+CjxnCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMC4x\nODA0NjUzMywwLDAsLTAuMTgwNDY1MzMsLTIwLjYxMTAxMiwyOC4wNzIxMzkpIgogICAgIGlkPSJn\nMjQtOS04IiAvPjxnCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMC4xODA0NjUzMywwLDAsLTAuMTgw\nNDY1MzMsLTE5LjU1MDc0NSwxNC42MTU4MikiCiAgICAgaWQ9ImcyOC04LTciIC8+PHBhdGgKICAg\nICBkPSJtIDMuMDI5NjYxLDM4LjkxOTQ5MiBjIDAsMCAwLjQ1NDM1MTksLTQuNzM4MzYgMS4xNjUy\nNTQzLC02Ljk5MTUyNiBDIDQuNzkwODQ1OSwzMC4wMzkxOTcgNS44NjE0Njg3LDI4LjMzMzU3MyA2\nLjc1ODQ3NDYsMjYuNTY3Nzk3IDcuMjc3OTUyMywyNS41NDUxOTQgNy43MDgxMzIyLDI0LjQ2MDU1\nOCA4LjM4OTgzMDUsMjMuNTM4MTM2IDEzLjQ1MDI4NywxNi42OTA3MTYgMjYuMzM0NzQ2LDUuMzYw\nMTY5NSAyNi4zMzQ3NDYsNS4zNjAxNjk1IGwgMi4wOTc0NTcsLTAuOTMyMjAzNCAxOC44NzcxMTks\nOS41NTUwODQ5IDEuODY0NDA3LDEuNjMxMzU2IGMgMCwwIDMuMDk2NTMxLDYuMjU1NDc3IDQuMTk0\nOTE1LDkuMzIyMDM0IDAuNDk4Mzk3LDEuMzkxNDY2IDAuNjg2NDgxLDMuMjcwNzk4IC0wLjIzMzA1\nMSw0LjQyNzk2NiAtMy4xMjI0NTMsMy45MjkzOTYgLTkuMDA0ODI4LDExLjI3MDU5NSAtOS4wMDQ4\nMjgsMTEuMjcwNTk1IDAsMCAtNi4yOTg3NDUsOC4yOTgzNjUgLTEwLjEwNTM0MSwxMi4wMzQ0OSAt\nMC41Nzg4MjUsMC41NjgxMSAtMS41ODgxOTEsMS4wMjU4OCAtMi4zMzA1MDksMC42OTkxNTIgQyAy\nMi4wNzIyMjQsNDkuMTMzMjU2IDMuMDI5NjYxLDM4LjkxOTQ5MiAzLjAyOTY2MSwzOC45MTk0OTIg\neiIKICAgICBpZD0icGF0aDMwNjMiCiAgICAgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O2ZpbGwt\nb3BhY2l0eToxO3N0cm9rZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6MXB4O3N0cm9rZS1s\naW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOm1pdGVyO3N0cm9rZS1vcGFjaXR5OjEiIC8+PHBh\ndGgKICAgICBkPSJtIDguODU1OTMyMiwyNC45MzY0NDEgYyAyLjY3NTc3MDgsMi44NTU1NjcgOC44\nNjA5Njg4LDUuODcwODY3IDguODYwOTY4OCw1Ljg3MDg2NyAwLDAgNy4wODk2NDgsNC45NDM2MzMg\nMTEuMTgxNDA0LDUuMDgyNTIzIDEuMzI2Njk0LDAuMDQ1MDMgMi44NTc4OTksLTAuMzk2NDgxIDMu\nNzI4ODE0LC0xLjM5ODMwNiA0LjU0MzEwOSwtNS4yMjU5OTkgOS42MDMwMzMsLTEwLjg5Njk2IDE0\nLjY4MjIwMywtMTcuMDEyNzExIDAuNDAwMTQ2LC0wLjQ4MTgxIDEuMDE1MzM0LC0xLjAxMDU5MiAw\nLjkzMjIwMywtMS42MzEzNTYgQyA0OC4yMTIzNjUsMTUuNjI5NjggNDcuOTUyMDExLDE1LjUxMjEw\nNCA0Ny43NzU0MjQsMTUuMzgxMzU2IDQyLjMyOTA3NiwxMS4zNDg3NzYgMzYuNDA1NDgsNy40Njc2\nNTg5IDI5LjgzMDUwOCw1LjgyNjI3MTIgMjkuMzAyOTE1LDUuNjk0NTYxOCAyOC41NTQ0ODMsNS4w\nNzI0NDk2IDI4LjAxMDY5OCw1LjA3MjQ0OTYgYyAtMC42OTkxNTMsMCAtMS4zNTc4NjIsMC4zMjM2\nMzgzIC0xLjkwOTAwMywwLjc1MzgyMTYgQyAyMC4xMTg5NTQsMTAuNDk1OTkxIDEyLjY3NTgyNiwx\nNi4wMDg1NjkgOS4wODg5ODMxLDIzLjMwNTA4NSA4Ljg0NjY1MSwyMy43OTgwNDggOC40ODAzMzgs\nMjQuNTM1NjA5IDguODU1OTMyMiwyNC45MzY0NDEgeiIKICAgICBpZD0icGF0aDMwNjUiCiAgICAg\nc3R5bGU9ImZpbGw6I2UwZTBlMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6JnN0cm9rZV9jb2xvcjs7\nc3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRl\ncjtzdHJva2Utb3BhY2l0eToxIiAvPjxwYXRoCiAgICAgZD0ibSAyOS4xMzEzNTYsMzIuMTYxMDE3\nIGMgMC42MTgwNTQsLTAuMTAxMzMgMS4wMTUzMzQsLTEuMDEwNTkyIDAuOTMyMjAzLC0xLjYzMTM1\nNiAtMC4xMTY2NTgsLTAuODcxMTEzIC0xLjQwMjM0NiwtMS4xMTY3NzkgLTEuODY0NDA2LC0xLjg2\nNDQwNyAtMC4zODc0NDksLTAuNjI2OTA1IC0wLjUxNDI5LC0xLjM4NDA0OCAtMC42OTkxNTMsLTIu\nMDk3NDU3IC0wLjMxNzIxNCwtMS4yMjQxNjYgLTEuMzM1OTQ3LC0yLjE4Njk2IC0xLjQ1Mjk3NSwt\nMy40NDYxMzEgLTAuMTA3ODM0LC0xLjE2MDI1NCAwLjQ2ODk1NSwtMi42NDg1NDggMC43NTM4MjIs\nLTMuNzc4NDQ2IDAuMjgwNDAxLC0xLjExMjE4MiAwLjk5MzM3NSwtMi4wNzY0OCAxLjYzMTM1Niwt\nMy4wMjk2NjEgMC42MTQxMjMsLTAuOTE3NTM2IDAuOTA5ODM0LC0xLjcyMzUxOSAxLjYyNjMyLC0y\nLjU2MzU1OSAwLjYwNzAzOCwtMC43MTE3MTggMS43MTQ1NjcsLTEuMjY4MzMgMS44NjQ0MDcsLTIu\nMTkxNjg2IDAuMDk0NzcsLTAuNTgzOTgyIDAuMjMxMzk5LC0xLjE2NDM2MiAtMC4yMjgwMTUsLTEu\nNTM3MTI4IC0wLjMwNzU5MywtMC4yNDk1NzkxIC0wLjc2OTQ2OCwtMC4yNDkwNjk2IC0xLjE2NTI1\nNCwtMC4yMzMwNTA0IC0xLjY5NTI0OCwwLjA2ODYxNCAtMy4wMjU4MDMsMC45NjYyNDM0IC00LjUx\nNzE1NywxLjc3NTIxNjQgLTIuMDgxMjc1LDEuMTI4OTcgLTMuNjUxNDAyLDIuNTQ4MjM3IC00Ljg4\nOTAzMSw0LjU2Njc4OSAtMC44MzcwOTksMS4zNjUyOTUgLTEuOTI2OTM2LDIuNzc5MTc2IC0yLjAx\nMzMwNCw0LjM3ODMzNCAtMC4xMjI2NDUsMi4yNzA4NDQgLTAuMTI4MDczLDQuNzQ2NjEyIDAuOTMy\nMjA0LDYuNzU4NDc0IDAuNTM4NDI1LDEuMDIxNjU0IDEuNTI0NDIzLDEuODI2NjQ5IDIuNTYzNTU5\nLDIuMzMwNTA5IDAuODUwMzY4LDAuNDEyMzMgMS44NjI2NjMsMC4zMjE1ODIgMi43OTY2MSwwLjQ2\nNjEwMSAwLjU0Mjg0NSwwLjA4NCAxLjEzMzAzOCwwLjAwMTkgMS42MzEzNTYsMC4yMzMwNTEgMC44\nNDg2MDUsMC4zOTM1ODIgMS4xNzQzNDcsMi4wMTU3NTEgMi4wOTc0NTgsMS44NjQ0MDcgeiIKICAg\nICBpZD0icGF0aDMwNjciCiAgICAgc3R5bGU9ImZpbGw6I2UxZGUwMDtmaWxsLW9wYWNpdHk6MTtz\ndHJva2U6JnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpidXR0\nO3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2Utb3BhY2l0eToxIiAvPjxwYXRoCiAgICAgZD0i\nbSAyOS4xMzEzNTYsMzEuNjk0OTE1IDEuNjMxMzU2LC0xLjE2NTI1NCIKICAgICBpZD0icGF0aDMw\nNjkiCiAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6JnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdp\nZHRoOjFweDtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2Ut\nb3BhY2l0eToxIiAvPjwvc3ZnPgoK\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/Qu2uDRJ.png"
+                ]
+            }, 
+            "version": 1, 
+            "whats_new": {}, 
+            "xo_url": "org.sugarlabs.MakeyMakey_v1.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/Qu2uDRJ.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "8ca99a1c2d5a17b6e881bbe7fd04f4cd": "http://i.imgur.com/Qu2uDRJ.png"
+        }
+    }, 
+    "title": {
+        "en-US": "MakeyMakey"
+    }, 
+    "version": 1, 
+    "whats_new": {}, 
+    "xo_size": 52112, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.MakeyMakey_v1.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.MakeyMakey_1424154987.xo", 
+    "xo_url_latest_timestamp": 1424154987, 
+    "xo_url_timestamp": 1424154987
 }
