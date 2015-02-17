@@ -6,6 +6,10 @@
             "page": "https://www.github.com/walterbender"
         }
     ], 
+    "categories": [
+        "language", 
+        "game"
+    ], 
     "description": {
         "en-US": "prompts learner to tell a story by displaying images at random"
     }, 
@@ -18,6 +22,20 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/uwh3Jjz.png", 
+                    "http://i.imgur.com/drfVn9z.png"
+                ]
+            }, 
+            "version": 13, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* Add \"linear\" mode: images displayed in sequence<br/>* Add text entry<br/>* Add text-to-speech<br/>* Add export to PDF<br/>* Add support for screen rotation<br/>* Add gesture support for navigating images<br/>* Add autoplay<br/>BUG_FIX:<br/>* Add missing PATH for setting up collaboration chattube"
+            }, 
+            "xo_url": "org.sugarlabs.StoryActivity_v13.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -49,14 +67,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/okd3BXu.png", 
-            "http://i.imgur.com/S6qFuWM.png"
+            "http://i.imgur.com/uwh3Jjz.png", 
+            "http://i.imgur.com/drfVn9z.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "c61954d2f35ed67caf4776b9a487cfeb": "http://i.imgur.com/S6qFuWM.png", 
-            "fbc173c36cb120ce31ee03258e1c66c1": "http://i.imgur.com/okd3BXu.png"
+            "c61954d2f35ed67caf4776b9a487cfeb": "http://i.imgur.com/drfVn9z.png", 
+            "fbc173c36cb120ce31ee03258e1c66c1": "http://i.imgur.com/uwh3Jjz.png"
         }
     }, 
     "socialhelp_category": "story", 
@@ -81,11 +99,11 @@
     }, 
     "version": 13, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* Add \"linear\" mode: images displayed in sequence<br/>* Add text entry<br/>* Add text-to-speech<br/>* Add export to PDF<br/>* Add support for screen rotation<br/>* Add gesture support for navigating images<br/>* Add autoplay<br/>BUG_FIX:<br/>* Add missing PATH for setting up collaboration chattube"
+        "en-US": "ENHANCEMENT:<br/>* Add \"linear\" mode: images displayed in sequence<br/>* Add text entry<br/>* Add text-to-speech<br/>* Add export to PDF<br/>* Add support for screen rotation<br/>* Add gesture support for navigating images<br/>* Add autoplay<br/>BUG_FIX:<br/>* Add missing PATH for setting up collaboration chattube"
     }, 
-    "xo_size": 513302, 
+    "xo_size": 513301, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.StoryActivity_v13.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.StoryActivity_1424155034.xo", 
-    "xo_url_latest_timestamp": 1424155034, 
-    "xo_url_timestamp": 1424155034
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.StoryActivity_1424156613.xo", 
+    "xo_url_latest_timestamp": 1424156613, 
+    "xo_url_timestamp": 1424156613
 }
