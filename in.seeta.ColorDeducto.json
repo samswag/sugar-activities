@@ -22,6 +22,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/6Kua7ow.png"
+                ]
+            }, 
+            "version": 7, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENT:<br/>* Ignacio Rodr\u00edguez port to GTK3"
+            }, 
+            "xo_url": "in.seeta.ColorDeducto_v7.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/25IZa2g.png"
                 ]
             }, 
@@ -47,12 +60,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/25IZa2g.png"
+            "http://i.imgur.com/6Kua7ow.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "69b6a2c0634deba84aad0f222fc900ac": "http://i.imgur.com/25IZa2g.png"
+            "69b6a2c0634deba84aad0f222fc900ac": "http://i.imgur.com/6Kua7ow.png"
         }
     }, 
     "title": {
@@ -64,7 +77,7 @@
     }, 
     "xo_size": 52567, 
     "xo_url": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_v7.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_1424156255.xo", 
-    "xo_url_latest_timestamp": 1424156255, 
-    "xo_url_timestamp": 1424156255
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/in.seeta.ColorDeducto_1424156365.xo", 
+    "xo_url_latest_timestamp": 1424156365, 
+    "xo_url_timestamp": 1424156365
 }
