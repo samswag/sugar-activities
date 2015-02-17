@@ -11,7 +11,7 @@
         "game"
     ], 
     "description": {
-        "en_US": "interactive fraction game"
+        "en-US": "interactive fraction game"
     }, 
     "github_current_tag": "v21", 
     "github_url": "walterbender/fractionbounce", 
@@ -22,6 +22,21 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/y7QAfRv.png", 
+                    "http://i.imgur.com/kRS0zzk.png", 
+                    "http://i.imgur.com/YImOsoQ.png"
+                ]
+            }, 
+            "version": 23, 
+            "whats_new": {
+                "en-US": "<br/>* Version bump for ASLO"
+            }, 
+            "xo_url": "org.sugarlabs.FractionBounceActivity_v23.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -40,16 +55,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/MfnYMCS.png", 
-            "http://i.imgur.com/oLvppoG.png", 
-            "http://i.imgur.com/A7guxBC.png"
+            "http://i.imgur.com/y7QAfRv.png", 
+            "http://i.imgur.com/kRS0zzk.png", 
+            "http://i.imgur.com/YImOsoQ.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "cad85eea8788992cf4eb4ea0e0f3df8b": "http://i.imgur.com/MfnYMCS.png", 
-            "ef72504a23f74fb2ad1007e6a176ddab": "http://i.imgur.com/A7guxBC.png", 
-            "f98605fef156f40bb9038bd51e3f7f39": "http://i.imgur.com/oLvppoG.png"
+            "cad85eea8788992cf4eb4ea0e0f3df8b": "http://i.imgur.com/YImOsoQ.png", 
+            "ef72504a23f74fb2ad1007e6a176ddab": "http://i.imgur.com/kRS0zzk.png", 
+            "f98605fef156f40bb9038bd51e3f7f39": "http://i.imgur.com/y7QAfRv.png"
         }
     }, 
     "socialhelp_category": "fractionbounce", 
@@ -60,7 +75,6 @@
         "en": "FractionBounce", 
         "en-GB": "FractionBounce", 
         "en-US": "FractionBounce", 
-        "en_US": "FractionBounce", 
         "es": "RebotaFracciones", 
         "fr": "FractionBounce", 
         "nl": "FractieStuiter", 
@@ -69,12 +83,13 @@
         "th": "FractionBounce", 
         "zh-CN": "\u5206\u6570\u5f39\u8df3"
     }, 
-    "version": 22, 
+    "version": 23, 
     "whats_new": {
-        "en_US": "<br/>ENHANCEMENTS:<br/>* Make bar wedge-shaped to make it easier to tell which direction is 0 vs 1<br/>* <strike>Use user colors in bar</strike>Use black and white bar<br/>* Use user colors in section ball<br/>* Use accelerometer in tablet mode; otherwise, use keyboard<br/>* Four new 'balls': bowling ball, beachball, feather, rugby<br/>* Notify user when a new fraction has been added<br/>* Use images in background<br/>* Add custom background capability<br/>* Take into account expanded toolbars when positioning objects<br/>* Set mime type to image for chooser (custom ball and image)<br/>BUG FIX:<br/>* Replace combo boxes with button palettes<br/>* Finish incomplete migration to GTK3 for custom ball<br/>* Fix issues with collaboration between more than 2 players<br/>* Account for players leaving in collaboration scheme"
+        "en-US": "<br/>* Version bump for ASLO"
     }, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.FractionBounceActivity_stable_22.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.sugarlabs.FractionBounceActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1409477692.861149, 
-    "xo_url_timestamp": 1404113150.695623
+    "xo_size": 1294923, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.FractionBounceActivity_v23.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.FractionBounceActivity_1424154974.xo", 
+    "xo_url_latest_timestamp": 1424154974, 
+    "xo_url_timestamp": 1424154974
 }
