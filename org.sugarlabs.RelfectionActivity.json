@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths", 
+        "game"
+    ], 
     "description": {
         "ayc": "payaru jaljata tunu wakichatanaka rixsma", 
         "da": "tegn m\u00f8nstre med reflektiv symmetri", 
@@ -24,6 +28,15 @@
     "isWeb": false, 
     "minSugarVersion": "0.86", 
     "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {}, 
+            "version": 13, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENTS:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.RelfectionActivity_v13.xo"
+        }, 
         {
             "minSugarVersion": "0.86", 
             "screenshots": {}, 
@@ -51,11 +64,11 @@
     }, 
     "version": 13, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>ENHANCEMENTS:<br/>* New translations"
+        "en-US": "NEWS<br/>ENHANCEMENTS:<br/>* New translations"
     }, 
-    "xo_size": 68824, 
+    "xo_size": 68823, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_v13.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_1424154873.xo", 
-    "xo_url_latest_timestamp": 1424154873, 
-    "xo_url_timestamp": 1424154873
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_1424156288.xo", 
+    "xo_url_latest_timestamp": 1424156288, 
+    "xo_url_timestamp": 1424156288
 }
