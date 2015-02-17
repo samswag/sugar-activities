@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "science", 
+        "game"
+    ], 
     "description": {
         "ayc": "manq'asi\u00f1a jichu kanka\u00f1a tuqita kunaymana anata\u00f1anaka wakichata", 
         "da": "en spilserie om gode spisevaner", 
@@ -27,6 +31,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/89iTqMS.png"
+                ]
+            }, 
+            "version": 13, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHACEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.NutritionActivity_v13.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/jw4QsYd.png"
                 ]
             }, 
@@ -39,12 +56,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/jw4QsYd.png"
+            "http://i.imgur.com/89iTqMS.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "122b99e979f7f6ace6bd5b3202a3cd0c": "http://i.imgur.com/jw4QsYd.png"
+            "122b99e979f7f6ace6bd5b3202a3cd0c": "http://i.imgur.com/89iTqMS.png"
         }
     }, 
     "title": {
@@ -62,11 +79,11 @@
     }, 
     "version": 13, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>ENHACEMENT:<br/>* New translations"
+        "en-US": "NEWS<br/>ENHACEMENT:<br/>* New translations"
     }, 
-    "xo_size": 5459942, 
+    "xo_size": 5459941, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.NutritionActivity_v13.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.NutritionActivity_1424155007.xo", 
-    "xo_url_latest_timestamp": 1424155007, 
-    "xo_url_timestamp": 1424155007
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.NutritionActivity_1424156567.xo", 
+    "xo_url_latest_timestamp": 1424156567, 
+    "xo_url_timestamp": 1424156567
 }
