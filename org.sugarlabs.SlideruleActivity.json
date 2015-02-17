@@ -1,8 +1,59 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "ayc": "amparampi jakhuja\u00f1a wakichata, jaljaya\u00f1ataki, registros juk'ampi", 
+        "da": "en mekanisk lommeregner til multiplikation, division, logaritmer og mere", 
+        "en": "a mechanical calculator for multiplication, division, log, and more", 
+        "en-GB": "a mechanical calculator for multiplication, division, log, and more", 
+        "en-US": "a mechanical calculator for multiplication, division, log, and more", 
+        "es": "una calculadora mec\u00e1nica para multiplicaci\u00f3n, divisi\u00f3n, registros y m\u00e1s", 
+        "fr": "calculateur m\u00e9canique pour les op\u00e9rations de multiplication, division, log, etc.", 
+        "hy": "\u0574\u0565\u056d\u0561\u0576\u056b\u056f\u0561\u056f\u0561\u0576 \u0570\u0561\u0577\u057e\u056b\u0579 \u0562\u0561\u0566\u0574\u0561\u057a\u0561\u057f\u056f\u0574\u0561\u0576, \u0562\u0561\u056a\u0561\u0576\u0574\u0561\u0576, \u056c\u0578\u0563\u0561\u0580\u056b\u0569\u0574\u056b \u0570\u0561\u0574\u0561\u0580 \u0587 \u0561\u057e\u0565\u056c\u056b\u0576", 
+        "nl": "een mechanische rekenmachine voor vermenigvuldigen, delen, log, en meer", 
+        "zh-CN": "\u4e00\u4e2a\u7528\u4e8e\u4e58\u6cd5\uff0c\u9664\u6cd5\uff0c\u5bf9\u6570\u7b49\u7684\u673a\u68b0\u8ba1\u7b97\u5668"
+    }, 
+    "github_url": "walterbender/slideruler", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIgogImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNz\nL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCIgWwogIDwhRU5USVRZIGZpbGxfY29sb3IgIiNBQUFBQUEi\nPgogIDwhRU5USVRZIHN0cm9rZV9jb2xvciAiIzAwMDAwMCI+Cl0+CjxzdmcgeG1sbnM9Imh0dHA6\nLy93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNDUiIGhlaWdodD0iNDUiPgogIDxyZWN0CiAg\nICAgd2lkdGg9IjEwLjEyMDI0OCIKICAgICBoZWlnaHQ9IjM2LjA3NTM0OCIKICAgICB4PSItMzMu\nNjMzNjI1IgogICAgIHk9IjEuMDEzNDIxMiIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLC0xLDEs\nMCwwLDApIgogICAgIGlkPSJyZWN0NCIKICAgICBzdHlsZT0iZmlsbDomZmlsbF9jb2xvcjs7c3Ry\nb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDoyIiAvPgogIDxsaW5lCiAgICAgeTE9IjI3\nLjUiCiAgICAgeTI9IjIzLjUiCiAgICAgeDE9IjEwLjAiCiAgICAgeDI9IjEwLjAiCiAgICAgc3R5\nbGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0cm9rZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6\nMiIKICAgICBpZD0ibGluZTYiIC8+CiAgPGxpbmUKICAgICB5MT0iMjcuNSIKICAgICB5Mj0iMjMu\nNSIKICAgICB4MT0iMjMuMCIKICAgICB4Mj0iMjMuMCIKICAgICBzdHlsZT0iZmlsbDomZmlsbF9j\nb2xvcjs7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDoyIgogICAgIGlkPSJsaW5l\nOCIgLz4KICA8bGluZQogICAgIHkxPSIyNy41IgogICAgIHkyPSIyMy41IgogICAgIHgxPSIzMC4w\nIgogICAgIHgyPSIzMC4wIgogICAgIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOztzdHJva2U6JnN0\ncm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjIiCiAgICAgaWQ9ImxpbmUxMCIgLz4KICA8cmVjdAog\nICAgIHdpZHRoPSIxMC4xIgogICAgIGhlaWdodD0iMzYuMCIKICAgICB4PSIxMS4zIgogICAgIHk9\nIjcuOSIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLDEsMSwwLDAsMCkiCiAgICAgaWQ9InJlY3Qy\nMzk4IgogICAgIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOztzdHJva2U6JnN0cm9rZV9jb2xvcjs7\nc3Ryb2tlLXdpZHRoOjIiIC8+CiAgPGxpbmUKICAgICB5MT0iMTcuNCIKICAgICB5Mj0iMjEuNCIK\nICAgICB4MT0iMTYuOSIKICAgICB4Mj0iMTYuOSIKICAgICBzdHlsZT0iZmlsbDomZmlsbF9jb2xv\ncjs7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDoyIgogICAgIGlkPSJsaW5lMjQw\nMCIgLz4KICA8bGluZQogICAgIHkxPSIxNy40IgogICAgIHkyPSIyMS40IgogICAgIHgxPSIyOS45\nIgogICAgIHgyPSIyOS45IgogICAgIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOztzdHJva2U6JnN0\ncm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjIiCiAgICAgaWQ9ImxpbmUyNDAyIiAvPgogIDxsaW5l\nCiAgICAgeTE9IjE3LjQiCiAgICAgeTI9IjIxLjQiCiAgICAgeDE9IjM2LjkiCiAgICAgeDI9IjM2\nLjkiCiAgICAgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0cm9rZTomc3Ryb2tlX2NvbG9yOztz\ndHJva2Utd2lkdGg6MiIKICAgICBpZD0ibGluZTI0MDQiIC8+CiAgPHBhdGgKICAgICBkPSJNIDI2\nLDguMCBMIDI2LDM3LjAiCiAgICAgaWQ9InBhdGgyNDM2IgogICAgIHN0eWxlPSJmaWxsOm5vbmU7\nZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOiNmZmZmZmY7c3Ryb2tlLXdpZHRoOjEuMDIwOTE0OTFw\neDtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2Utb3BhY2l0\neToxIiAvPgo8L3N2Zz4K\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 35, 
+            "whats_new": {
+                "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.SlideruleActivity_v35.xo"
+        }
+    ], 
+    "title": {
+        "ayc": "Jakhsu\u00f1a sara", 
+        "da": "Regnestok", 
+        "en": "Sliderule", 
+        "en-GB": "Sliderule", 
+        "en-US": "Sliderule", 
+        "es": "Regla de c\u00e1lculo", 
+        "fr": "R\u00e8gle \u00e0 calcul", 
+        "hy": "\u053c\u0578\u0563\u0561\u0580\u056b\u0569\u0574\u0561\u056f\u0561\u0576 \u0584\u0561\u0576\u0578\u0576", 
+        "nl": "Schuifliniaal", 
+        "pl": "Suwak rachunkowy", 
+        "zh-CN": "\u8ba1\u7b97\u5c3a"
+    }, 
+    "version": 35, 
+    "whats_new": {
+        "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+    }, 
+    "xo_size": 101979, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.SlideruleActivity_v35.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.SlideruleActivity_1424155193.xo", 
+    "xo_url_latest_timestamp": 1424155193, 
+    "xo_url_timestamp": 1424155193
 }
