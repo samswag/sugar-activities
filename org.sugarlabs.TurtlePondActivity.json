@@ -44,6 +44,15 @@
             "screenshots": {}, 
             "version": 9, 
             "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.TurtlePondActivity_v9.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 9, 
+            "whats_new": {
                 "en-US": "<br/>NEWS<br/>ENHANCEMENT:<br/>* New translations"
             }, 
             "xo_url": "org.sugarlabs.TurtlePondActivity_v9.xo"
@@ -69,7 +78,7 @@
     }, 
     "xo_size": 63610, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_v9.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_1424156341.xo", 
-    "xo_url_latest_timestamp": 1424156341, 
-    "xo_url_timestamp": 1424156341
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.TurtlePondActivity_1424156471.xo", 
+    "xo_url_latest_timestamp": 1424156471, 
+    "xo_url_timestamp": 1424156471
 }
