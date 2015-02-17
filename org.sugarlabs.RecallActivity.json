@@ -22,6 +22,19 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/3vlJVpx.png"
+                ]
+            }, 
+            "version": 4, 
+            "whats_new": {
+                "en-US": "* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.RecallActivity_v4.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/wSxsDtb.png"
                 ]
             }, 
@@ -47,12 +60,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/wSxsDtb.png"
+            "http://i.imgur.com/3vlJVpx.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "286e63e794ac94baafc876d6c0b31329": "http://i.imgur.com/wSxsDtb.png"
+            "286e63e794ac94baafc876d6c0b31329": "http://i.imgur.com/3vlJVpx.png"
         }
     }, 
     "title": {
@@ -74,7 +87,7 @@
     }, 
     "xo_size": 484890, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_v4.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_1424156302.xo", 
-    "xo_url_latest_timestamp": 1424156302, 
-    "xo_url_timestamp": 1424156302
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_1424156416.xo", 
+    "xo_url_latest_timestamp": 1424156416, 
+    "xo_url_timestamp": 1424156416
 }
