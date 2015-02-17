@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "teacher"
+    ], 
     "description": {
         "en-US": "learn how to use the mouse and keyboard"
     }, 
@@ -15,6 +18,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/565I2IG.png"
+                ]
+            }, 
+            "version": 11, 
+            "whats_new": {
+                "en-US": "* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.LocoSugar_v11.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -31,12 +47,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/ymkt98j.png"
+            "http://i.imgur.com/565I2IG.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "fd00a5f4865ed3c3e1fd43bfb52d4835": "http://i.imgur.com/ymkt98j.png"
+            "fd00a5f4865ed3c3e1fd43bfb52d4835": "http://i.imgur.com/565I2IG.png"
         }
     }, 
     "title": {
@@ -52,11 +68,11 @@
     }, 
     "version": 11, 
     "whats_new": {
-        "en-US": "<br/>* New translations"
+        "en-US": "* New translations"
     }, 
-    "xo_size": 2151095, 
+    "xo_size": 2151093, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.LocoSugar_v11.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.LocoSugar_1424155086.xo", 
-    "xo_url_latest_timestamp": 1424155086, 
-    "xo_url_timestamp": 1424155086
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.LocoSugar_1424156678.xo", 
+    "xo_url_latest_timestamp": 1424156678, 
+    "xo_url_timestamp": 1424156678
 }
