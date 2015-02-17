@@ -1,8 +1,96 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "ayc": "U\u00f1ja\u00f1a laphinaka uka Sugar sapa uru lur\u00e4winakata taypina \"wali munata\" ch'ikuni wakichatanaka wakichma", 
+        "da": "opret et diasshow fra poster i Sugar Journal, der har f\u00e5et tildelt stjerne", 
+        "de": "Erzeuge eine Diaschau auf Tagebucheintr\u00e4gen, die 'gesternt' sind.", 
+        "el": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03b5\u03af \u03bc\u03b9\u03b1 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03c3\u03b7 \u03b4\u03b9\u03b1\u03c6\u03b1\u03bd\u03b5\u03b9\u03ce\u03bd \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03ba\u03b1\u03c4\u03b1\u03c7\u03c9\u03c1\u03af\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0397\u03bc\u03b5\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03bf\u03c5, \u03bf\u03b9 \u03bf\u03c0\u03bf\u03af\u03b5\u03c2 \"\u03c0\u03c1\u03c9\u03c4\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd\".", 
+        "en": "create a slide show from Sugar Journal entries that have been 'starred'", 
+        "en-GB": "create a slide show from Sugar Journal entries that have been 'starred'", 
+        "en-US": "create a slide show from Sugar Journal entries that have been 'starred'", 
+        "es": "crea una presentaci\u00f3n con diapositivas de las entradas del Diario de Sugar que han sido marcadas como \"favoritas\"", 
+        "fr": "cr\u00e9er un diaporama \u00e0 partir des entr\u00e9es du journal Sugar dont tu as activ\u00e9 l'\u00e9toile", 
+        "hy": "Sugar \u0574\u0561\u057f\u0575\u0561\u0576\u0578\u0582\u0574 \"\u0561\u057d\u057f\u0572\u0561\u0576\u0577\u0561\u0576\u0578\u057e\" \u0568\u0576\u057f\u0580\u057e\u0561\u056e \u0563\u0580\u0561\u057c\u0578\u0582\u0574\u0576\u0565\u0580\u0578\u057e \u057d\u057f\u0565\u0572\u056e\u056b\u0580 \u057d\u056c\u0561\u0575\u0564 \u0577\u0578\u0578\u0582", 
+        "id": "buat salindia dari entri Jurnal Sugar yang telah 'dibintangi'", 
+        "ne": "create a slide show from Sugar Journal entries that have been 'starred'", 
+        "nl": "maak een diapresentatie van Sugar-dagboeknotities met een 'sterretje'", 
+        "pap": "krea un slide show di anotashon 'ku strea' for di Diario Sugar", 
+        "pl": "Stw\u00f3rz pokaz ze swoich wpis\u00f3w w dzienniczku Bajtka, kt\u00f3re oznaczy\u0142e\u015b gwiazdkami", 
+        "pt": "Cria uma apresenta\u00e7\u00e3o visual a partir das entradas marcadas como \"favoritas\" no Di\u00e1rio do Sugar", 
+        "quz": "Sugar P'anqanpi 'munasqakuna' hinata diapositivas qhawarichiqkunata kamariy", 
+        "zh-CN": "\u4eceSugar\u65e5\u5fd7\u7684\u52a0\"\u661f\"\u6761\u76ee\u521b\u5efa\u5e7b\u706f\u7247"
+    }, 
+    "github_current_tag": "v45", 
+    "github_url": "walterbender/portfolio", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3Mv\nU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIiBbCiAgPCFFTlRJVFkgZmlsbF9jb2xvciAiI2UwZTBlMCI+\nCiAgPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMDEwMTAxIj4KXT4KPHN2ZwogICB4bWxucz0iaHR0\ncDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHZlcnNpb249IjEuMSIKICAgd2lkdGg9IjU1Igog\nICBoZWlnaHQ9IjU1IgogICB2aWV3Qm94PSIwIDAgNTUgNTUiCiAgIGlkPSJzdmczMDU5IgogICBz\ndHlsZT0iZmlsbDomZmlsbF9jb2xvcjs7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0\naDozLjU7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kIj4KICA8Zwog\nICB0cmFuc2Zvcm09Im1hdHJpeCgwLjg1MDE1OTQsMCwwLDAuODUwMTU5NCw0LjEyMDYxNjUsMi45\nMDU1NDk5KSIKICAgaWQ9ImczMDQxIj4KICA8cmVjdAogICAgIHdpZHRoPSI0MCIKICAgICBoZWln\naHQ9IjMwIgogICAgIHg9IjcuNSIKICAgICB5PSI1LjgyNzQ5OTkiCiAgICAgaWQ9InJlY3QyOTk2\nIgogICAgIHN0eWxlPSJzdHJva2Utd2lkdGg6NC4xMTY4NzUxNztzdHJva2UtbWl0ZXJsaW1pdDo0\nO3N0cm9rZS1kYXNoYXJyYXk6bm9uZSIgLz4KICA8ZwogICAgIHRyYW5zZm9ybT0idHJhbnNsYXRl\nKC0xLjA4NDYxNDgsMCkiCiAgICAgaWQ9ImczNzkzIj4KICAgIDxsaW5lCiAgICAgICBpZD0ibGlu\nZTI0NjAiCiAgICAgICB5Mj0iNTIuMzEzMTYiCiAgICAgICB5MT0iMzYuMzU4NDc5IgogICAgICAg\neDI9IjIzLjQxOTI4NyIKICAgICAgIHgxPSIyNy42OTQzMyIKICAgICAgIHN0eWxlPSJmaWxsOm5v\nbmU7c3Ryb2tlLXdpZHRoOjQuMTE2ODc1MTc7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFz\naGFycmF5Om5vbmUiIC8+CiAgICA8bGluZQogICAgICAgaWQ9ImxpbmUyNDYwLTIiCiAgICAgICB5\nMj0iNTIuMzEzMTU2IgogICAgICAgeTE9IjM2LjM1ODQ3OSIKICAgICAgIHgyPSIzMy43NDk5NDMi\nCiAgICAgICB4MT0iMjkuNDc0ODk5IgogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2Utd2lk\ndGg6NC4xMTY4NzUxNztzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZSIg\nLz4KICA8L2c+CiAgPGxpbmUKICAgICBzdHlsZT0iZmlsbDpub25lIgogICAgIHgxPSI5LjAxMzE4\nNTUiCiAgICAgeDI9IjQ1Ljk4NjgxMyIKICAgICB5MT0iOC4xNjgwMDUiCiAgICAgeTI9IjguMTY4\nMDA1IgogICAgIGlkPSJsaW5lMjQ2MC0wIiAvPgo8L2c+Cjwvc3ZnPgo=\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/aZyrMu2.png"
+                ]
+            }, 
+            "version": 46, 
+            "whats_new": {
+                "en-US": "<br/>ENHANCEMENT:<br/>* Export as ODP"
+            }, 
+            "xo_url": "org.sugarlabs.PortfolioActivity_v46.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/aZyrMu2.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "7f26e23c4aa4ac716646c779a27425ee": "http://i.imgur.com/aZyrMu2.png"
+        }
+    }, 
+    "title": {
+        "ayc": "Wakichatanaka", 
+        "aym": "Wakichatanaka", 
+        "da": "Portef\u00f8lje", 
+        "de": "Portfolio", 
+        "el": "\u03a7\u03b1\u03c1\u03c4\u03bf\u03c6\u03c5\u03bb\u03ac\u03ba\u03b9\u03bf", 
+        "en": "Portfolio", 
+        "en-GB": "Portfolio", 
+        "en-US": "Portfolio", 
+        "es": "Obras", 
+        "fr": "Portfolio", 
+        "hus": "Dhay\u00e1b-uw", 
+        "hy": "\u0539\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f", 
+        "id": "Portfolio", 
+        "mi": "K\u014dpaki", 
+        "ne": "\u092a\u094b\u0930\u094d\u091f\u092b\u094b\u0932\u093f\u092f\u094b", 
+        "nl": "Portfolio", 
+        "pap": "Portofolio", 
+        "pbs": "Sad-ia se matsjau me'ets", 
+        "pl": "Portfolio", 
+        "pt": "Portef\u00f3lio", 
+        "quz": "Llamk'aykuna", 
+        "si": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d9a\u0dc5\u0db9", 
+        "ta": "\u0b8f\u0ba8\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd", 
+        "th": "Portfolio", 
+        "zh-CN": "\u7f16\u8f91\u6f14\u793a\u7a3f"
+    }, 
+    "version": 46, 
+    "whats_new": {
+        "en-US": "<br/>ENHANCEMENT:<br/>* Export as ODP"
+    }, 
+    "xo_size": 335775, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.PortfolioActivity_v46.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.PortfolioActivity_1424154960.xo", 
+    "xo_url_latest_timestamp": 1424154960, 
+    "xo_url_timestamp": 1424154960
 }
