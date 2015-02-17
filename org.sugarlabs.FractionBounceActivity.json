@@ -26,6 +26,21 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/989LBFH.png", 
+                    "http://i.imgur.com/gIWPGgW.png", 
+                    "http://i.imgur.com/zuTQeos.png"
+                ]
+            }, 
+            "version": 23, 
+            "whats_new": {
+                "en-US": "* Version bump for ASLO"
+            }, 
+            "xo_url": "org.sugarlabs.FractionBounceActivity_v23.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/y7QAfRv.png", 
                     "http://i.imgur.com/kRS0zzk.png", 
                     "http://i.imgur.com/YImOsoQ.png"
@@ -55,16 +70,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/y7QAfRv.png", 
-            "http://i.imgur.com/kRS0zzk.png", 
-            "http://i.imgur.com/YImOsoQ.png"
+            "http://i.imgur.com/989LBFH.png", 
+            "http://i.imgur.com/gIWPGgW.png", 
+            "http://i.imgur.com/zuTQeos.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "cad85eea8788992cf4eb4ea0e0f3df8b": "http://i.imgur.com/YImOsoQ.png", 
-            "ef72504a23f74fb2ad1007e6a176ddab": "http://i.imgur.com/kRS0zzk.png", 
-            "f98605fef156f40bb9038bd51e3f7f39": "http://i.imgur.com/y7QAfRv.png"
+            "cad85eea8788992cf4eb4ea0e0f3df8b": "http://i.imgur.com/zuTQeos.png", 
+            "ef72504a23f74fb2ad1007e6a176ddab": "http://i.imgur.com/gIWPGgW.png", 
+            "f98605fef156f40bb9038bd51e3f7f39": "http://i.imgur.com/989LBFH.png"
         }
     }, 
     "socialhelp_category": "fractionbounce", 
@@ -85,11 +100,11 @@
     }, 
     "version": 23, 
     "whats_new": {
-        "en-US": "<br/>* Version bump for ASLO"
+        "en-US": "* Version bump for ASLO"
     }, 
-    "xo_size": 1294923, 
+    "xo_size": 1294921, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.FractionBounceActivity_v23.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.FractionBounceActivity_1424154974.xo", 
-    "xo_url_latest_timestamp": 1424154974, 
-    "xo_url_timestamp": 1424154974
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.FractionBounceActivity_1424156517.xo", 
+    "xo_url_latest_timestamp": 1424156517, 
+    "xo_url_timestamp": 1424156517
 }
