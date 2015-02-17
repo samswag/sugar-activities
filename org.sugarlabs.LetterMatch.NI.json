@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "language"
+    ], 
     "description": {
         "en-US": "alphabet flashcards"
     }, 
@@ -15,6 +18,20 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/ZgzClX7.png", 
+                    "http://i.imgur.com/eFjjqWZ.png"
+                ]
+            }, 
+            "version": 8, 
+            "whats_new": {
+                "en-US": "* Add visual feedback"
+            }, 
+            "xo_url": "org.sugarlabs.LetterMatch.NI_v8.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -32,14 +49,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/6rta3vH.png", 
-            "http://i.imgur.com/7toF4De.png"
+            "http://i.imgur.com/ZgzClX7.png", 
+            "http://i.imgur.com/eFjjqWZ.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "93cdd746c7adf42932a39004c8543737": "http://i.imgur.com/7toF4De.png", 
-            "b97a1a7ee970102a878502e69dc16ced": "http://i.imgur.com/6rta3vH.png"
+            "93cdd746c7adf42932a39004c8543737": "http://i.imgur.com/eFjjqWZ.png", 
+            "b97a1a7ee970102a878502e69dc16ced": "http://i.imgur.com/ZgzClX7.png"
         }
     }, 
     "title": {
@@ -47,11 +64,11 @@
     }, 
     "version": 8, 
     "whats_new": {
-        "en-US": "<br/>* Add visual feedback"
+        "en-US": "* Add visual feedback"
     }, 
-    "xo_size": 3339208, 
+    "xo_size": 3339207, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.LetterMatch.NI_v8.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.LetterMatch.NI_1424154889.xo", 
-    "xo_url_latest_timestamp": 1424154889, 
-    "xo_url_timestamp": 1424154889
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.LetterMatch.NI_1424156264.xo", 
+    "xo_url_latest_timestamp": 1424156264, 
+    "xo_url_timestamp": 1424156264
 }
