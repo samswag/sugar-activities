@@ -41,6 +41,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/1RFx6Sw.png"
+                ]
+            }, 
+            "version": 81, 
+            "whats_new": {
+                "en-US": "BUG FIX:<br/>* Don't try to write smile files to readonly directory"
+            }, 
+            "xo_url": "org.laptop.Chat_v81.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/LcVXmWz.png"
                 ]
             }, 
@@ -62,12 +75,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/LcVXmWz.png"
+            "http://i.imgur.com/1RFx6Sw.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "7e640bbb7330225e16fa65e16dd298a2": "http://i.imgur.com/LcVXmWz.png"
+            "7e640bbb7330225e16fa65e16dd298a2": "http://i.imgur.com/1RFx6Sw.png"
         }
     }, 
     "socialhelp_category": "chat", 
@@ -157,7 +170,7 @@
     }, 
     "xo_size": 767567, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.Chat_v81.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Chat_1424156126.xo", 
-    "xo_url_latest_timestamp": 1424156126, 
-    "xo_url_timestamp": 1424156126
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Chat_1424156280.xo", 
+    "xo_url_latest_timestamp": 1424156280, 
+    "xo_url_timestamp": 1424156280
 }
