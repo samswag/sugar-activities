@@ -1,8 +1,69 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "github_url": "walterbender/erikos", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8IURPQ1RZUEUgc3ZnICBQVUJMSUMgJy0vL1czQy8vRFRE\nIFNWRyAxLjEvL0VOJyAgJ2h0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2\nZzExLmR0ZCcgWwoJPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMDAwIj4KCTwhRU5USVRZIGZpbGxf\nY29sb3IgIiNlZWUiPgpdPgo8c3ZnIGhlaWdodD0iNDVweCIgdmlld0JveD0iMCAwIDQ1IDQ1IiB3\naWR0aD0iNDVweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGlu\naz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBz\ndHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlPSImc3Ryb2tl\nX2NvbG9yOyIgZmlsbD0iJmZpbGxfY29sb3I7Ij4KICA8ZwogICAgIGlkPSJnMjM5MCIKICAgICB0\ncmFuc2Zvcm09InRyYW5zbGF0ZSgyLjUsMi40OTk5OTg1KSI+CiAgICA8cmVjdAogICAgICAgc3R5\nbGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0cm9rZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6\nMS40NTY4ODQ3NCIKICAgICAgIGlkPSJyZWN0NCIKICAgICAgIHRyYW5zZm9ybT0ibWF0cml4KC0w\nLjcwNzEwNjgsLTAuNzA3MTA2OCwwLjcwNzEwNjgsLTAuNzA3MTA2OCwwLDApIgogICAgICAgeT0i\nLTEzLjYyNzA0OSIKICAgICAgIHg9Ii0yNy43NjkxODQiCiAgICAgICBoZWlnaHQ9IjEzLjExMTk2\nMiIKICAgICAgIHdpZHRoPSIxMy4xMTE5NjIiIC8+CiAgICA8cmVjdAogICAgICAgc3R5bGU9ImZp\nbGw6JmZpbGxfY29sb3I7O3N0cm9rZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6MS40NTY4\nODQ3NCIKICAgICAgIGlkPSJyZWN0MjM4NCIKICAgICAgIHRyYW5zZm9ybT0ibWF0cml4KC0wLjcw\nNzEwNjgsLTAuNzA3MTA2OCwwLjcwNzEwNjgsLTAuNzA3MTA2OCwwLDApIgogICAgICAgeT0iMC41\nMTUwODcyNSIKICAgICAgIHg9Ii0yNy43NjkxODYiCiAgICAgICBoZWlnaHQ9IjEzLjExMTk2MiIK\nICAgICAgIHdpZHRoPSIxMy4xMTE5NjIiIC8+CiAgICA8cmVjdAogICAgICAgc3R5bGU9ImZpbGw6\nJmZpbGxfY29sb3I7O3N0cm9rZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6MS40NTY4ODQ3\nNCIKICAgICAgIGlkPSJyZWN0MjM4NiIKICAgICAgIHRyYW5zZm9ybT0ibWF0cml4KC0wLjcwNzEw\nNjgsLTAuNzA3MTA2OCwwLjcwNzEwNjgsLTAuNzA3MTA2OCwwLDApIgogICAgICAgeT0iMC41MTUw\nODY3MSIKICAgICAgIHg9Ii00MS45MTEzMiIKICAgICAgIGhlaWdodD0iMTMuMTExOTYyIgogICAg\nICAgd2lkdGg9IjEzLjExMTk2MiIgLz4KICAgIDxyZWN0CiAgICAgICBzdHlsZT0iZmlsbDomZmls\nbF9jb2xvcjs7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDoxLjQ1Njg4NDc0Igog\nICAgICAgaWQ9InJlY3QyMzg4IgogICAgICAgdHJhbnNmb3JtPSJtYXRyaXgoLTAuNzA3MTA2OCwt\nMC43MDcxMDY4LDAuNzA3MTA2OCwtMC43MDcxMDY4LDAsMCkiCiAgICAgICB5PSItMTMuNjI3MDQ4\nIgogICAgICAgeD0iLTQxLjkxMTMyNCIKICAgICAgIGhlaWdodD0iMTMuMTExOTYyIgogICAgICAg\nd2lkdGg9IjEzLjExMTk2MiIgLz4KICA8L2c+Cjwvc3ZnPgo=\n", 
+    "isGTK3": false, 
+    "isWeb": false, 
+    "minSugarVersion": "0.86", 
+    "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/kOLBpYD.png"
+                ]
+            }, 
+            "version": 8, 
+            "whats_new": {
+                "en-US": "<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.ErikosActivity_v8.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/kOLBpYD.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "cb287cc0da08bc4d5acfa5c3b8822c7c": "http://i.imgur.com/kOLBpYD.png"
+        }
+    }, 
+    "title": {
+        "ayc": "Erikos jisk'a jaqi", 
+        "cs": "Erikos", 
+        "da": "Erikos", 
+        "de": "Erikos", 
+        "el": "Erikos", 
+        "en": "Erikos", 
+        "en-GB": "Erikos", 
+        "en-US": "Erikos", 
+        "es": "Erikos", 
+        "fr": "Erikos", 
+        "hus": "Erikos", 
+        "hy": "Erikos", 
+        "mn": "\u042d\u0440\u0438\u043a\u043e\u0441", 
+        "nl": "Erikos", 
+        "pl": "Erikos", 
+        "pt": "Erikos", 
+        "rw": "Erikos", 
+        "th": "Erikos", 
+        "zh-CN": "Erikos"
+    }, 
+    "version": 8, 
+    "whats_new": {
+        "en-US": "<br/>* New translations"
+    }, 
+    "xo_size": 5239550, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.ErikosActivity_v8.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.ErikosActivity_1424155186.xo", 
+    "xo_url_latest_timestamp": 1424155186, 
+    "xo_url_timestamp": 1424155186
 }
