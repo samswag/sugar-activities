@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "art", 
+        "language"
+    ], 
     "github_current_tag": "v4", 
     "github_url": "walterbender/wordcloud", 
     "hasOldToolbars": false, 
@@ -13,6 +17,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/P9tnnvs.png"
+                ]
+            }, 
+            "version": 4, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENTS:<br/>* Added layout options: horizontal, vertical, mixed, fortyfive, random<br/>* Added color options<br/>* Added repeated words toggle<br/>* New icons<br/>* Use white background for image"
+            }, 
+            "xo_url": "org.sugarlabs.WordCloud_v4.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -29,12 +46,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/0zGQzOm.png"
+            "http://i.imgur.com/P9tnnvs.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "b138178c34edea4b2be8fc39171f7b80": "http://i.imgur.com/0zGQzOm.png"
+            "b138178c34edea4b2be8fc39171f7b80": "http://i.imgur.com/P9tnnvs.png"
         }
     }, 
     "title": {
@@ -43,11 +60,11 @@
     }, 
     "version": 4, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>ENHANCEMENTS:<br/>* Added layout options: horizontal, vertical, mixed, fortyfive, random<br/>* Added color options<br/>* Added repeated words toggle<br/>* New icons<br/>* Use white background for image"
+        "en-US": "NEWS<br/>ENHANCEMENTS:<br/>* Added layout options: horizontal, vertical, mixed, fortyfive, random<br/>* Added color options<br/>* Added repeated words toggle<br/>* New icons<br/>* Use white background for image"
     }, 
-    "xo_size": 995452, 
+    "xo_size": 995451, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.WordCloud_v4.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.WordCloud_1424155026.xo", 
-    "xo_url_latest_timestamp": 1424155026, 
-    "xo_url_timestamp": 1424155026
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.WordCloud_1424156588.xo", 
+    "xo_url_latest_timestamp": 1424156588, 
+    "xo_url_timestamp": 1424156588
 }
