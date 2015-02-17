@@ -14,7 +14,6 @@
         "ayc": "Maya tortuga wakichatawa uka kunaymana rixitanaka wakichiri chimpupana utji uka u\u00f1ja\u00f1anaka wakichata chika", 
         "da": "En skildpasse inspireret af Logo, der tegner farverige billeder med visuelle, programm\u00e9rbare blokke som kan sammens\u00e6ttes.", 
         "de": "Eine von Logo inspirierte Schildkr\u00f6te, die mittels visueller Programmierbausteine farbenfrohe Bilder zeichnet", 
-        "en": "A Logo-inspired turtle that draws colorful pictures with snap-together visual programming blocks", 
         "en-GB": "A Logo-inspired turtle that draws colourful pictures with snap-together visual programming blocks", 
         "en-US": "A Logo-inspired turtle that draws colorful pictures with snap-together visual programming blocks", 
         "es": "Una tortuga inspirada en Logo que hace dibujos coloridos junto con bloques complementarios de programaci\u00f3n visual", 
@@ -41,6 +40,15 @@
     "releases": [
         {
             "minSugarVersion": "0.86", 
+            "screenshots": {}, 
+            "version": 209, 
+            "whats_new": {
+                "en-US": "<br/>ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>* New example project: pinwheel<br/>* Save and restore private block data<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)<br/>* Fix regression in saving to SVG<br/>* Fix regression in paste from GNOME<br/>* Fixed problem with camera crash (SL#2624)"
+            }, 
+            "xo_url": "org.laptop.TurtleArtActivity_v209.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
             "screenshots": [], 
             "version": 209, 
             "whats_new": {
@@ -54,7 +62,6 @@
         "ayc": "TortuBlocks wakichata", 
         "da": "Skildpadde-blokke", 
         "de": "Schildkr\u00f6tenbl\u00f6cke", 
-        "en": "TurtleBlocks", 
         "en-GB": "TurtleBlocks", 
         "en-US": "TurtleBlocks", 
         "es": "TortuBlocks", 
@@ -73,9 +80,9 @@
     "whats_new": {
         "en-US": "<br/>ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>* New example project: pinwheel<br/>* Save and restore private block data<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)<br/>* Fix regression in saving to SVG<br/>* Fix regression in paste from GNOME<br/>* Fixed problem with camera crash (SL#2624)"
     }, 
-    "xo_size": 6513788, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_stable_209.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1418768257.762538, 
-    "xo_url_timestamp": 1411186321.164652
+    "xo_size": 5959869, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_v209.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_1424155163.xo", 
+    "xo_url_latest_timestamp": 1424155163, 
+    "xo_url_timestamp": 1424155163
 }
