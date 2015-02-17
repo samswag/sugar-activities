@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "science"
+    ], 
     "description": {
         "da": "oscilloskop-program til visualisering af inddata fra mikrofon", 
         "en": "oscilloscope program for visuallzing microphone input", 
@@ -28,6 +31,19 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/6zLyR9s.png"
+                ]
+            }, 
+            "version": 51, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.laptop.MeasureActivity_v51.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/APbeuoG.png"
                 ]
             }, 
@@ -40,12 +56,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/APbeuoG.png"
+            "http://i.imgur.com/6zLyR9s.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "2418aef0b862209904e13cdf47106dcc": "http://i.imgur.com/APbeuoG.png"
+            "2418aef0b862209904e13cdf47106dcc": "http://i.imgur.com/6zLyR9s.png"
         }
     }, 
     "title": {
@@ -94,11 +110,11 @@
     }, 
     "version": 51, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* New translations"
+        "en-US": "ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 344314, 
+    "xo_size": 344312, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_v51.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_1424155105.xo", 
-    "xo_url_latest_timestamp": 1424155105, 
-    "xo_url_timestamp": 1424155105
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_1424156559.xo", 
+    "xo_url_latest_timestamp": 1424156559, 
+    "xo_url_timestamp": 1424156559
 }
