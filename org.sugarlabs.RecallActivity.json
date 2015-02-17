@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "game"
+    ], 
     "description": {
         "en-US": "memory exercise game"
     }, 
@@ -15,6 +18,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.86", 
     "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/wSxsDtb.png"
+                ]
+            }, 
+            "version": 4, 
+            "whats_new": {
+                "en-US": "* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.RecallActivity_v4.xo"
+        }, 
         {
             "minSugarVersion": "0.86", 
             "screenshots": {
@@ -31,12 +47,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/A3Ocqws.png"
+            "http://i.imgur.com/wSxsDtb.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "286e63e794ac94baafc876d6c0b31329": "http://i.imgur.com/A3Ocqws.png"
+            "286e63e794ac94baafc876d6c0b31329": "http://i.imgur.com/wSxsDtb.png"
         }
     }, 
     "title": {
@@ -54,11 +70,11 @@
     }, 
     "version": 4, 
     "whats_new": {
-        "en-US": "<br/>* New translations"
+        "en-US": "* New translations"
     }, 
     "xo_size": 484890, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_v4.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_1424154880.xo", 
-    "xo_url_latest_timestamp": 1424154880, 
-    "xo_url_timestamp": 1424154880
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_1424156302.xo", 
+    "xo_url_latest_timestamp": 1424156302, 
+    "xo_url_timestamp": 1424156302
 }
