@@ -33,6 +33,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/YqJWSf5.png"
+                ]
+            }, 
+            "version": 15, 
+            "whats_new": {
+                "en-US": "ENHANCEMENTS:<br/>* Clear checkmate when starting new game<br/>* Improvement to check and checkmate graphics"
+            }, 
+            "xo_url": "org.sugarlabs.GNUChessActivity_v15.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/DDIDH7w.png"
                 ]
             }, 
@@ -54,12 +67,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/DDIDH7w.png"
+            "http://i.imgur.com/YqJWSf5.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "7e18b6b98c31dd84c5ac1aed199290d5": "http://i.imgur.com/DDIDH7w.png"
+            "7e18b6b98c31dd84c5ac1aed199290d5": "http://i.imgur.com/YqJWSf5.png"
         }
     }, 
     "socialhelp_category": "simplegnuchess", 
@@ -79,11 +92,11 @@
     }, 
     "version": 15, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENTS:<br/>* Clear checkmate when starting new game<br/>* Improvement to check and checkmate graphics"
+        "en-US": "ENHANCEMENTS:<br/>* Clear checkmate when starting new game<br/>* Improvement to check and checkmate graphics"
     }, 
-    "xo_size": 478574, 
+    "xo_size": 478573, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.GNUChessActivity_v15.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.GNUChessActivity_1424155113.xo", 
-    "xo_url_latest_timestamp": 1424155113, 
-    "xo_url_timestamp": 1424155113
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.GNUChessActivity_1424156705.xo", 
+    "xo_url_latest_timestamp": 1424156705, 
+    "xo_url_timestamp": 1424156705
 }
