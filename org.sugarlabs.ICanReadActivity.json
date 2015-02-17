@@ -1,8 +1,51 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "github_url": "walterbender/icanread", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMDAiPgoJPCFFTlRJVFkgZmlsbF9j\nb2xvciAiI2VlZSI+Cl0+PHN2ZyBoZWlnaHQ9IjU1cHgiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lk\ndGg9IjU1cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9\nImh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ry\nb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZT0iJnN0cm9rZV9j\nb2xvcjsiIGZpbGw9IiZmaWxsX2NvbG9yOyI+CiAgPGc+CiAgICA8cGF0aAogICAgICAgZD0ibSAy\nNy41MDMsMTAuNzA1MTMxIGggLTAuMDAyIGMgMCwtMC4wMDIgLTEuNzEsLTIuMDUzMDAwNSAtOS4z\nNzYsLTIuNTA0MDAwNSAtNy42NjYsLTAuNDQ5IC0xMS42ODMsMS42MDIgLTExLjY4NiwxLjYwMyBD\nIDQuNTQxLDEwLjQyMzEzMSAyLjk0NCwxMS41MzkxMzEgMi45NDQsMTMuMjk4MTMxIHYgMjcuNzAy\nIGMgMCwyLjAyNSAxLjIzNSwzLjQ5NCAzLjQ5NSwzLjQ5NCAwLjAwMywwIDQuNDEsLTEuMzUgMTAu\nMDA0LC0xLjM1IDUuNTg5LC0wLjAwMSAxMS4wNjEsMi4yNTMgMTEuMDYxLDIuMjUzIgogICAgICAg\nZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IgogICAgICAgc3R5bGU9\nImZpbGwtb3BhY2l0eToxO3N0cm9rZS13aWR0aDozLjU7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO2Rp\nc3BsYXk6aW5saW5lIiAvPgogICAgPHBhdGgKICAgICAgIGQ9Im0gMjcuNDk3LDEwLjcwNTEzMSAw\nLDAgYyAwLC0wLjAwMiAxLjcxNSwtMi4wNTMwMDA1IDkuMzc3LC0yLjUwNDAwMDUgNy42NjgsLTAu\nNDQ5IDExLjY4NiwxLjYwMiAxMS42ODgsMS42MDMgMS44OTcsMC42MTkwMDA1IDMuNDk0LDEuNzM1\nMDAwNSAzLjQ5NCwzLjQ5NDAwMDUgdiAyNy43MDIgYyAwLDIuMDI1IC0xLjIzMywzLjQ5NCAtMy40\nOTQsMy40OTQgLTAuMDAzLDAgLTQuNDA5LC0xLjM1IC0xMC4wMDQsLTEuMzUgLTUuNTg5LC0wLjAw\nMSAtMTEuMDYyLDIuMjUzIC0xMS4wNjIsMi4yNTMiCiAgICAgICBmaWxsPSImZmlsbF9jb2xvcjsi\nIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiCiAgICAgICBzdHlsZT0iZmlsbC1vcGFjaXR5OjE7c3Ry\nb2tlLXdpZHRoOjMuNTtzdHJva2UtbGluZWpvaW46cm91bmQ7ZGlzcGxheTppbmxpbmUiIC8+CiAg\nICA8bGluZQogICAgICAgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7\nIgogICAgICAgc3R5bGU9ImZpbGwtb3BhY2l0eToxO3N0cm9rZS13aWR0aDozLjU7c3Ryb2tlLWxp\nbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO2Rpc3BsYXk6aW5saW5lIgogICAgICAg\neDE9IjI3LjQ5NzAwMiIKICAgICAgIHgyPSIyNy40OTkwMDEiCiAgICAgICB5MT0iMTAuNzA1MTMx\nIgogICAgICAgeTI9IjQ1LjM5OTEyOCIKICAgICAgIGlkPSJsaW5lMzA2NCIgLz4KICAgIDxwYXRo\nCiAgICAgICBkPSJtIDMyLjE2NSw0My45NTcxMzEgYyAwLDAgLTAuMDMxLDIuOTA2IC00LjY2Niwy\nLjkwNiAtNC42MzIsMCAtNC42NjMsLTIuOTA2IC00LjY2MywtMi45MDYiCiAgICAgICBmaWxsPSIm\nc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIKICAgICAgIHN0eWxlPSJzdHJv\na2Utd2lkdGg6My41O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtk\naXNwbGF5OmlubGluZSIgLz4KICA8L2c+CiAgPHRleHQKICAgICB4PSIyOC4xNTk2MiIKICAgICB5\nPSIzNi45NDgyMDQiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZTozOC45NjgyODg0MnB4O2ZvbnQtc3R5\nbGU6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDtsaW5lLWhlaWdodDoxMjUlO2xldHRlci1zcGFj\naW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO2ZvbnQt\nZmFtaWx5OlNhbnMiPgogICAgPHRzcGFuCiAgICAgICB4PSIyOC4xNTk2MiIKICAgICAgIHk9IjM2\nLjk0ODIwNCIKICAgICAgIGlkPSJ0c3BhbjgiCiAgICAgICBmaWxsPSImc3Ryb2tlX2NvbG9yOyIg\nc3Ryb2tlPSJub25lOyIKICAgICAgIHN0eWxlPSJmb250LXNpemU6MzguOTY4Mjg4NDJweDsiPmE8\nL3RzcGFuPgogIDwvdGV4dD4KPC9zdmc+Cg==\n", 
+    "isGTK3": false, 
+    "isWeb": false, 
+    "minSugarVersion": "0.86", 
+    "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/9VyQfbY.png"
+                ]
+            }, 
+            "version": 3, 
+            "whats_new": {
+                "en-US": "<br/>ENHANCEMENT:<br/>* Show words in uppercase as well as lowercase"
+            }, 
+            "xo_url": "org.sugarlabs.ICanReadActivity_v3.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/9VyQfbY.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "ce6ee0896c4e74bf59c93ad9f95d5b77": "http://i.imgur.com/9VyQfbY.png"
+        }
+    }, 
+    "title": {
+        "en-US": "I Can Read"
+    }, 
+    "version": 3, 
+    "whats_new": {
+        "en-US": "<br/>ENHANCEMENT:<br/>* Show words in uppercase as well as lowercase"
+    }, 
+    "xo_size": 2283338, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.ICanReadActivity_v3.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.ICanReadActivity_1424154844.xo", 
+    "xo_url_latest_timestamp": 1424154844, 
+    "xo_url_timestamp": 1424154844
 }
