@@ -5,6 +5,10 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths", 
+        "game"
+    ], 
     "description": {
         "ayc": "Qallta wakichatana chikt'ata anata\u00f1a", 
         "da": "et spil med match af m\u00f8nstre", 
@@ -33,6 +37,21 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/bj4YD0x.png", 
+                    "http://i.imgur.com/EHk7J8K.png", 
+                    "http://i.imgur.com/4a0XjXI.png"
+                ]
+            }, 
+            "version": 58, 
+            "whats_new": {
+                "en-US": "* High score chart (Ignacio Rodriguez)"
+            }, 
+            "xo_url": "org.sugarlabs.VisualMatchActivity_v58.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/tIWKAcL.png", 
                     "http://i.imgur.com/bt0vux7.png", 
                     "http://i.imgur.com/eyVltqh.png"
@@ -47,16 +66,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/tIWKAcL.png", 
-            "http://i.imgur.com/bt0vux7.png", 
-            "http://i.imgur.com/eyVltqh.png"
+            "http://i.imgur.com/bj4YD0x.png", 
+            "http://i.imgur.com/EHk7J8K.png", 
+            "http://i.imgur.com/4a0XjXI.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "1153ca5e6afbe726e312644697847343": "http://i.imgur.com/tIWKAcL.png", 
-            "130ced0739fd0148335c3293f015fa14": "http://i.imgur.com/eyVltqh.png", 
-            "7a10a34b219b32d73979422153e1547e": "http://i.imgur.com/bt0vux7.png"
+            "1153ca5e6afbe726e312644697847343": "http://i.imgur.com/bj4YD0x.png", 
+            "130ced0739fd0148335c3293f015fa14": "http://i.imgur.com/4a0XjXI.png", 
+            "7a10a34b219b32d73979422153e1547e": "http://i.imgur.com/EHk7J8K.png"
         }
     }, 
     "title": {
@@ -94,11 +113,11 @@
     }, 
     "version": 58, 
     "whats_new": {
-        "en-US": "<br/>* High score chart (Ignacio Rodriguez)"
+        "en-US": "* High score chart (Ignacio Rodriguez)"
     }, 
-    "xo_size": 2122583, 
+    "xo_size": 2122581, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.VisualMatchActivity_v58.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.VisualMatchActivity_1424154918.xo", 
-    "xo_url_latest_timestamp": 1424154918, 
-    "xo_url_timestamp": 1424154918
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.VisualMatchActivity_1424156322.xo", 
+    "xo_url_latest_timestamp": 1424156322, 
+    "xo_url_timestamp": 1424156322
 }
