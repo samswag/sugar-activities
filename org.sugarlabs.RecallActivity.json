@@ -1,8 +1,64 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "en-US": "memory exercise game"
+    }, 
+    "github_url": "walterbender/recall", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8IURPQ1RZUEUgc3ZnICBQVUJMSUMgJy0vL1czQy8vRFRE\nIFNWRyAxLjEvL0VOJyAgJ2h0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2\nZzExLmR0ZCcgWwoJPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMDAwIj4KCTwhRU5USVRZIGZpbGxf\nY29sb3IgIiNhYWEiPgpdPgo8c3ZnIGhlaWdodD0iMTAwcHgiIHZpZXdCb3g9IjAgMCAxMDAgMTAw\nIiB3aWR0aD0iMTAwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6\neGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHN0cm9rZS1saW5lY2FwPSJyb3Vu\nZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2U9IiZzdHJv\na2VfY29sb3I7IiBmaWxsPSImZmlsbF9jb2xvcjsiPgogIDxwYXRoCiAgICAgZD0ibSAyNy4yNDQx\nMDYsODkuMjYyNjE3IGMgMCwwIC03LjAxNzI3MiwwLjc3ODAyNSAtMTAuMjU2NjA1LC0wLjMyMDUx\nOSAtMi40Mjg4NDEsLTAuODIzNjg0IC01LjUwMjExNywtMi4wMzQwNTggLTYuMjUwMTE4LC00LjQ4\nNzI2NCAtMC43MTQ4MTMsLTIuMzQ0MzYyIDAuOTI2MTMyLC00LjIyNTkwMiAyLjE2NDE1MSwtNi4z\nNDExNTYgMC41NzU0NjQsLTAuOTgzMjI1IC0wLjU3MTU1NSwtMS40NDQwMTcgLTEuMTk0OTMsLTIu\nMTY0MTUxIEMgMTEuNDUwMTksNzUuNjUzMzEzIDcuOTE5MTY0MSw3NS40MDA5NjggMTEuMDU3OTAy\nLDcxLjQ3MzgxOSAxMC4zMzAyOTYsNzAuNzcwNTIgOC44NjMzMDkyLDcxLjU4MjgyMyA4LjQ5Mzc1\nMDYsNjguNzQ5NDA4IDguMzE1ODA4Miw2Ny4zODUxMTkgOS43MTY0NDc0LDY3LjEzOTAxMyA5Ljc3\nNTgyNjEsNjYuMTg1MjU3IDkuODM1NjY2OSw2NS4yMjQwNzkgMTAuMDkwMDE0LDY0LjY0Mjg5MSA5\nLjQ2NDI2OTUsNjMuOTEwODQ3IDguMDA0MzgyNCw2Mi4yMDI5NTggMy45NDA4MzQ1LDYyLjg2MTYz\nIDMuMDM0NjcsNjAuODA1NjU4IDIuNTkwNTExOSw1OS43OTc5MiAzLjIwOTUwNDksNTguMDQzMzQy\nIDMuNjg1OTY3Miw1Ny4wNTA0NjkgNS44NjMxNDQ3LDUyLjUxMzU3MyAxMS42NjI0NCw0OS45Mjgx\nMzUgMTIuODIwNzU2LDQ1LjAzMTAxIGMgMC40MDAzMzIsLTEuNjkyNTIyIC0xLjI1NDEwMywtMS41\nOTQ5MyAtMC45NjE1NTcsLTUuMTI4MzAyIDAuNTUzNTgxLC02LjY4NjE0OSAzLjg5Nzk3MywtMTUu\nNDIwNDUgNi44OTExNTYsLTE4LjkxMDYxNCA1LjczMDg2MywtNi42ODI0MDMgMTYuMDczNDQzLC04\nLjgxNDkyMSAyNC44NDAyMTQsLTkuNjE1NTY3IDkuOTQxMjQ2LC0wLjkwNzkwOSAyMi40OTcxNjEs\nMC43ODMwMzYgMjguNzg2NDQxLDQuNTU2NDg2IDUuMjI1ODQ2LDMuMTM1NDEgOC4zNjgyODUsNi4w\nNTY3ODUgMTAuNzk3NjQyLDEwLjY2ODE2MSAyLjg5NTY0Myw1LjQ5NjQ3NCA0LjE5MDgxNiwxMi4x\nNzMyNTkgMy4yODU5NjcsMTguMzE5NTc3IC0wLjYyNjU2LDQuMjU1OTk4IC0zLjQzNDc4Miw3LjY2\nNDk5MSAtNS42ODk4NTksMTEuMzI4NDIxIC0xLjYwODE2OSwyLjYxMjUxMSAtNC40MjUyNzUsNC41\nODgzNTkgLTUuMjg4NTYyLDcuNTMyMTkzIC0xLjA4MzI3NiwzLjY5NDAwMyAwLjQ4MDc3OSwxMS41\nMzg2ODEgMC40ODA3NzksMTEuNTM4NjgxIgogICAgIGlkPSJwYXRoMzA1OCIKICAgICBzdHlsZT0i\nZmlsbDpub25lO3N0cm9rZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6NTtzdHJva2UtbGlu\nZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJv\na2Utb3BhY2l0eToxO3N0cm9rZS1kYXNoYXJyYXk6bm9uZSIgLz4KICA8cGF0aAogICAgIGQ9Im0g\nNjcuODg5NzkxLDQ4Ljg2OTYxNCBjIDAuNjcyNTI1LC0wLjM2NDI4NCAzLjI3OTU4NSwwLjc3NjQ1\nOCA0LjgyODk4LDEuNDIwMjg4IDEuNTQ1NjksMC42NDIyOTEgMi43NDU4OTEsMi42NTEyMDYgNC40\nMDI4OTUsMi40MTQ0OTEgMS4zMjU2MDMsLTAuMTg5MzcyIDIuMjcyNDYxLC0yLjI3MjQ2MiAyLjg0\nMDU3NywtMi44NDA1NzcgMC41NjgxMTUsLTAuNTY4MTE2IDIuMTk4Mzg0LC04LjIyODEzMyAxLjcw\nNDM0NiwtMTIuMzU2NTEgLTAuNTk4NTYzLC01LjAwMTgzNCAtMi4xMzc4ODcsLTEwLjM0NDkxNyAt\nNS41MzkxMjUsLTE0LjA2MDg1NiAtNC4xNDU2MSwtNC41MjkxODUgLTEwLjQ5OTU5OSwtNi44MjY5\nOTEgLTE2LjQ3NTM0NywtOC4yMzc2NzQgLTYuOTExNDcyLC0xLjYzMTU3NyAtMjAuNTk0MTgzLDAg\nLTIxLjMwNDMyNywwIC0wLjcxMDE0NSwwIC0xMS41MTgwNzEsMy4yNjQzMSAtMTUuNDgxMTQ1LDcu\nMzg1NSAtMy44MjE5ODQsMy45NzQ0NzEgLTYuOTAzNTg4LDkuNjk1NTUyIC02LjUzMzMyNywxNS4x\nOTcwODcgMC4xODUzNjksMi43NTQzMTQgMS45MDYxNiw1LjY2MDYyIDQuMjYwODY1LDcuMTAxNDQz\nIDQuMTY5MDMsMi41NTA5OTEgMTAuNDkwNDk1LC0xLjYwNjA2MiAxNC42Mjg5NzIsMC45OTQyMDIg\nMi4wMjg2NTEsMS4yNzQ2MyAxLjcwODU0Myw0LjcxNzQ0NCAzLjU1MDcyMSw2LjI0OTI2OSAyLjAw\nMzExLDEuNjY1NjQ1IDQuNzgzMzk3LDIuNDMwNDk1IDcuMzg1NSwyLjU1NjUyIDQuMDM3MjAzLDAu\nMTk1NTMgNy44MzA1MzksLTIuMDIwNDQ5IDExLjc4ODM5NSwtMi44NDA1NzcgMi4xNjQ0ODQsLTAu\nNDQ4NTE0IDQuNDQ1MjM4LC0wLjQxMDk0NiA2LjUzMzMyNywtMS4xMzYyMzEgMS4yMjA2NzIsLTAu\nNDIzOTkzIDMuNDA4NjkzLC0xLjg0NjM3NSAzLjQwODY5MywtMS44NDYzNzUgeiIKICAgICBpZD0i\ncGF0aDM4MzAiCiAgICAgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O2ZpbGwtb3BhY2l0eToxO3N0\ncm9rZTomZmlsbF9jb2xvcjs7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpidXR0O3N0\ncm9rZS1saW5lam9pbjptaXRlcjtzdHJva2Utb3BhY2l0eToxIiAvPgogIDx0ZXh0CiAgICAgeD0i\nNDEuODk4NTEiCiAgICAgeT0iNDQuNjA4NzQ5IgogICAgIGlkPSJ0ZXh0MzgzMyIKICAgICB4bWw6\nc3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXNpemU6MTFweDtmb250LXN0eWxlOm5v\ncm1hbDtmb250LXdlaWdodDpub3JtYWw7bGluZS1oZWlnaHQ6MTI1JTtsZXR0ZXItc3BhY2luZzow\ncHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiZzdHJva2VfY29sb3I7O2ZpbGwtb3BhY2l0eToxO3N0\ncm9rZTpub25lO2ZvbnQtZmFtaWx5OlNhbnMiPjx0c3BhbgogICAgICAgeD0iNDEuODk4NTEiCiAg\nICAgICB5PSI0NC42MDg3NDkiCiAgICAgICBpZD0idHNwYW4zODM1IgogICAgICAgc3R5bGU9ImZv\nbnQtc2l6ZTozMnB4O2ZvbnQtd2VpZ2h0OmJvbGQ7ZmlsbDomc3Ryb2tlX2NvbG9yOztmaWxsLW9w\nYWNpdHk6MTstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOlNhbnMgQm9sZCI+PzwvdHNwYW4+\nPC90ZXh0Pgo8L3N2Zz4K\n", 
+    "isGTK3": false, 
+    "isWeb": false, 
+    "minSugarVersion": "0.86", 
+    "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/A3Ocqws.png"
+                ]
+            }, 
+            "version": 4, 
+            "whats_new": {
+                "en-US": "<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.RecallActivity_v4.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/A3Ocqws.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "286e63e794ac94baafc876d6c0b31329": "http://i.imgur.com/A3Ocqws.png"
+        }
+    }, 
+    "title": {
+        "ayc": "Amta\u00f1a", 
+        "cs": "Vzpome\u0148 si", 
+        "da": "Genkald", 
+        "en": "Recall", 
+        "en-GB": "Recall", 
+        "en-US": "Recall", 
+        "es": "Recordar", 
+        "hy": "\u0544\u057f\u0561\u0562\u0565\u0580\u0565\u056c", 
+        "nl": "Haal terug", 
+        "pl": "Przypomnij sobie", 
+        "zh-CN": "\u56de\u60f3"
+    }, 
+    "version": 4, 
+    "whats_new": {
+        "en-US": "<br/>* New translations"
+    }, 
+    "xo_size": 484890, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_v4.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RecallActivity_1424154880.xo", 
+    "xo_url_latest_timestamp": 1424154880, 
+    "xo_url_timestamp": 1424154880
 }
