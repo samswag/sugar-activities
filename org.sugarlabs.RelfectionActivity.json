@@ -30,6 +30,19 @@
     "releases": [
         {
             "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/1NJxbn7.png"
+                ]
+            }, 
+            "version": 13, 
+            "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENTS:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.RelfectionActivity_v13.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
             "screenshots": {}, 
             "version": 13, 
             "whats_new": {
@@ -56,6 +69,16 @@
             "xo_url": "org.sugarlabs.RelfectionActivity_v13.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/1NJxbn7.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "9863a2fbb05818086395a626f860f31f": "http://i.imgur.com/1NJxbn7.png"
+        }
+    }, 
     "title": {
         "ayc": "Lup'\u00efwi", 
         "da": "Reflektion", 
@@ -75,9 +98,9 @@
     "whats_new": {
         "en-US": "NEWS<br/>ENHANCEMENTS:<br/>* New translations"
     }, 
-    "xo_size": 68823, 
+    "xo_size": 108765, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_v13.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_1424156424.xo", 
-    "xo_url_latest_timestamp": 1424156424, 
-    "xo_url_timestamp": 1424156424
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_1424206976.xo", 
+    "xo_url_latest_timestamp": 1424206976, 
+    "xo_url_timestamp": 1424206976
 }
