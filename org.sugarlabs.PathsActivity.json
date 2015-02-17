@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "game"
+    ], 
     "description": {
         "ayc": "Kunaymata anatiriru wakisirinakapa anat\u00e4wi", 
         "da": "spil med m\u00f8nstergenkendelse for flere personer", 
@@ -26,6 +29,19 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/t0viaUx.png"
+                ]
+            }, 
+            "version": 19, 
+            "whats_new": {
+                "en-US": "NEWS<br/>* Wrong address for FSF"
+            }, 
+            "xo_url": "org.sugarlabs.PathsActivity_v19.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/NEVgxEm.png"
                 ]
             }, 
@@ -38,12 +54,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/NEVgxEm.png"
+            "http://i.imgur.com/t0viaUx.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "fb2cba4e5cb691cc4ce3cdfa1818839a": "http://i.imgur.com/NEVgxEm.png"
+            "fb2cba4e5cb691cc4ce3cdfa1818839a": "http://i.imgur.com/t0viaUx.png"
         }
     }, 
     "title": {
@@ -71,11 +87,11 @@
     }, 
     "version": 19, 
     "whats_new": {
-        "en-US": "<br/>NEWS<br/>* Wrong address for FSF"
+        "en-US": "NEWS<br/>* Wrong address for FSF"
     }, 
-    "xo_size": 290837, 
+    "xo_size": 290835, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.PathsActivity_v19.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.PathsActivity_1424154858.xo", 
-    "xo_url_latest_timestamp": 1424154858, 
-    "xo_url_timestamp": 1424154858
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.PathsActivity_1424156740.xo", 
+    "xo_url_latest_timestamp": 1424156740, 
+    "xo_url_timestamp": 1424156740
 }
