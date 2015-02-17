@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths"
+    ], 
     "description": {
         "ayc": "phisna jakhthapi\u00f1anaka chaninchiri wakichata", 
         "da": "et v\u00e6rkt\u00f8j til simple, aritmetiske beregninger", 
@@ -37,6 +40,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/ocE5iTg.png"
+                ]
+            }, 
+            "version": 56, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* More speed ups (w/Gonzalo Odiard)<br/>* New translations<br/>BUG FIX:<br/>* Properly restore custom abacus"
+            }, 
+            "xo_url": "org.sugarlabs.AbacusActivity_v56.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/JReolMy.png"
                 ]
             }, 
@@ -49,12 +65,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/JReolMy.png"
+            "http://i.imgur.com/ocE5iTg.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "732d44322a866bce52b0bae933e6c162": "http://i.imgur.com/JReolMy.png"
+            "732d44322a866bce52b0bae933e6c162": "http://i.imgur.com/ocE5iTg.png"
         }
     }, 
     "title": {
@@ -107,11 +123,11 @@
     }, 
     "version": 56, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENT:<br/>* More speed ups (w/Gonzalo Odiard)<br/>* New translations<br/>BUG FIX:<br/>* Properly restore custom abacus"
+        "en-US": "ENHANCEMENT:<br/>* More speed ups (w/Gonzalo Odiard)<br/>* New translations<br/>BUG FIX:<br/>* Properly restore custom abacus"
     }, 
-    "xo_size": 327488, 
+    "xo_size": 327487, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_v56.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_1424155065.xo", 
-    "xo_url_latest_timestamp": 1424155065, 
-    "xo_url_timestamp": 1424155065
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_1424156645.xo", 
+    "xo_url_latest_timestamp": 1424156645, 
+    "xo_url_timestamp": 1424156645
 }
