@@ -1,16 +1,115 @@
 {
     "by": [
-            {
-                "name": "Walter", 
-                "page": "https://github.com/walterbender"
-            },
-			{
-				"name": "Svineet",
-				"page": "https://github.com/svineet"
-			},
-			{
-				"name": "Gary Martin",
-				"page": "https://github.com/garycmartin"
-			}
+        {
+            "name": "Walter", 
+            "page": "https://github.com/walterbender"
+        }, 
+        {
+            "name": "Svineet", 
+            "page": "https://github.com/svineet"
+        }, 
+        {
+            "name": "Gary Martin", 
+            "page": "https://github.com/garycmartin"
+        }
+    ], 
+    "description": {
+        "da": "Bevis at Sir Isaac Newton havde ret! Opret \u00e6gte, levende simuleringer som anvender forskellige former og se dem komme til live med kr\u00e6fter!", 
+        "en": "Prove Sir Isaac Newton right! Create real life simulations using different shapes and see them come to life with forces!", 
+        "en-GB": "Prove Sir Isaac Newton right! Create real life simulations using different shapes and see them come to life with forces!", 
+        "en-US": "Prove Sir Isaac Newton right! Create real life simulations using different shapes and see them come to life with forces!", 
+        "es": "\u00a1Comprueba que Isaac Newton ten\u00eda raz\u00f3n! Crea simulaciones de la vida real usando las diferentes formas y viendo como cobran vida con las fuerzas.", 
+        "fr": "Prouvez la th\u00e9orie d'Issac Newton ! Cr\u00e9ez des simulations de la vie r\u00e9elle en utilisant des formes diff\u00e9rentes et regardez-les s'animer avec la force d'attraction !", 
+        "hy": "\u0531\u057a\u0561\u0581\u0578\u0582\u0581\u056b\u0580 \u054a\u0580\u0576. \u053b\u057d\u0561\u0570\u0561\u056f \u0546\u0575\u0578\u0582\u057f\u0578\u0576\u056b \u0585\u0580\u0565\u0576\u0584\u0568. \u054d\u057f\u0565\u0572\u056e\u056b\u0580 \u056b\u0580\u0561\u056f\u0561\u0576 \u056f\u0575\u0561\u0576\u0584` \u0574\u056b\u0587\u0576\u0578\u0582\u0575\u0576 \u056a\u0561\u0574\u0561\u0576\u056f \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0565\u056c\u0578\u057e \u057f\u0561\u0580\u0562\u0565\u0580 \u0578\u0582\u0580\u057e\u0561\u057a\u0561\u057f\u056f\u0565\u0580\u0576\u0565\u0580 \u0587 \u057f\u0565\u057d \u0564\u0580\u0561\u0576\u0581 \u056b\u0580\u0561\u056f\u0561\u0576\u0561\u0581\u0578\u0582\u0574\u0568 \u0578\u0582\u056a\u056b \u0574\u056b\u057b\u0578\u0581\u0578\u057e:", 
+        "nl": "Bewijs het gelijk van Sir Isaac Newton! Maak levende simulaties bij gebruik van verschillende vormen en laat ze tot leven komen met krachten!", 
+        "pbs": "\u00a1Miant se ne Isaac Newton lik'iajam likiaja\u00ed re se ve'eje'! Vichjaut latsja'aun re manup lik'iajam ki't re lixa'au vakj\u00e1 mai\u00f1 vijiaut peuk vat'ei k'ej\u00e9 manup re vajap."
+    }, 
+    "github_current_tag": "v24", 
+    "github_url": "walterbender/physics", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh\nRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cu\ndzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCIgWwogIDwhRU5USVRZIGZpbGxf\nY29sb3IgIiNmZmZmZmYiPgogIDwhRU5USVRZIHN0cm9rZV9jb2xvciAiIzAwMDAwMCI+Cl0+Cjxz\ndmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxu\nczpjYz0iaHR0cDovL3dlYi5yZXNvdXJjZS5vcmcvY2MvIgogICB4bWxuczpyZGY9Imh0dHA6Ly93\nd3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDov\nL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2\nZyIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFRE\nL3NvZGlwb2RpLTAuZHRkIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5v\ncmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgdmVyc2lvbj0iMS4xIgogICBpZD0iTGF5ZXJfMSIK\nICAgeD0iMHB4IgogICB5PSIwcHgiCiAgIHdpZHRoPSI1MHB4IgogICBoZWlnaHQ9IjUwcHgiCiAg\nIHZpZXdCb3g9IjAgMCA1MCA1MCIKICAgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAgNTAi\nCiAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgIHNvZGlwb2RpOnZlcnNpb249IjAuMzIiCiAgIGlu\na3NjYXBlOnZlcnNpb249IjAuNDUuMSIKICAgc29kaXBvZGk6ZG9jbmFtZT0iYWN0aXZpdHktcGh5\nc2ljcy5zdmciCiAgIHNvZGlwb2RpOmRvY2Jhc2U9Ii9Vc2Vycy9qbWlub3IvU2l0ZXMvb2xwYy9w\naHlzaWNzLnB5bXVueC9QaHlzaWNzLmFjdGl2aXR5L2FjdGl2aXR5IgogICBpbmtzY2FwZTpvdXRw\ndXRfZXh0ZW5zaW9uPSJvcmcuaW5rc2NhcGUub3V0cHV0LnN2Zy5pbmtzY2FwZSI+PG1ldGFkYXRh\nCiAgIGlkPSJtZXRhZGF0YTgiPjxyZGY6UkRGPjxjYzpXb3JrCiAgICAgICByZGY6YWJvdXQ9IiI+\nPGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9kYzpmb3JtYXQ+PGRjOnR5cGUKICAgICAgICAgcmRm\nOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz48L2Nj\nOldvcms+PC9yZGY6UkRGPjwvbWV0YWRhdGE+PGRlZnMKICAgaWQ9ImRlZnM2IiAvPjxzb2RpcG9k\naTpuYW1lZHZpZXcKICAgaW5rc2NhcGU6d2luZG93LWhlaWdodD0iNjQzIgogICBpbmtzY2FwZTp3\naW5kb3ctd2lkdGg9Ijc1MyIKICAgaW5rc2NhcGU6cGFnZXNoYWRvdz0iMiIKICAgaW5rc2NhcGU6\ncGFnZW9wYWNpdHk9IjAuMCIKICAgZ3VpZGV0b2xlcmFuY2U9IjEwLjAiCiAgIGdyaWR0b2xlcmFu\nY2U9IjEwLjAiCiAgIG9iamVjdHRvbGVyYW5jZT0iMTAuMCIKICAgYm9yZGVyb3BhY2l0eT0iMS4w\nIgogICBib3JkZXJjb2xvcj0iIzY2NjY2NiIKICAgcGFnZWNvbG9yPSIjZmZmZmZmIgogICBpZD0i\nYmFzZSIKICAgaW5rc2NhcGU6em9vbT0iNy41NiIKICAgaW5rc2NhcGU6Y3g9IjI1IgogICBpbmtz\nY2FwZTpjeT0iMjQuNjA5NDk3IgogICBpbmtzY2FwZTp3aW5kb3cteD0iMjAiCiAgIGlua3NjYXBl\nOndpbmRvdy15PSIyMCIKICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0iTGF5ZXJfMSIgLz4KCjxj\naXJjbGUgY3g9IjEyIiBjeT0iMTciIHI9IjkiIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOztzdHJv\na2U6JnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjMiLz4KCjxwYXRoCiAgIHNvZGlwb2RpOnR5\ncGU9InN0YXIiCiAgICBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsi\nICBzdHlsZT0iZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlLXdpZHRoOjM7\nc3Ryb2tlLWxpbmVqb2luOm1pdGVyO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJh\neTpub25lO3N0cm9rZS1vcGFjaXR5OjEiCiAgIGlkPSJwYXRoMjIxMCIKICAgc29kaXBvZGk6c2lk\nZXM9IjMiCiAgIHNvZGlwb2RpOmN4PSIyOS4xMDA1MjkiCiAgIHNvZGlwb2RpOmN5PSIxOC4zMjgw\nNDEiCiAgIHNvZGlwb2RpOnIxPSIxMi40MzY2NzYiCiAgIHNvZGlwb2RpOnIyPSI2LjIxODMzOCIK\nICAgc29kaXBvZGk6YXJnMT0iMS4wNTk1NjU2IgogICBzb2RpcG9kaTphcmcyPSIyLjEwNjc2MzIi\nCiAgIGlua3NjYXBlOmZsYXRzaWRlZD0idHJ1ZSIKICAgaW5rc2NhcGU6cm91bmRlZD0iMCIKICAg\naW5rc2NhcGU6cmFuZG9taXplZD0iMCIKICAgZD0iTSAzNS4xODUxODUsMjcuMTc0NjAxIEwgMTYu\nNjY0ODA0LDE2LjE3NDIyOCBMIDMzLjUsOSBMIDM1LjE4NTE4NSwyNy4xNzQ2MDEgeiAiCiAgIHRy\nYW5zZm9ybT0ibWF0cml4KDAuODUzOTYxNiwtMC41MjAzMzYxLDAuNTIwMzM2MSwwLjg1Mzk2MTYs\nLTcuNjMxODc1OSw0MC40Mzk0MzcpIiAvPgoKPHBhdGgKICAgc29kaXBvZGk6dHlwZT0ic3RhciIK\nICAgIGZpbGw9IiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgIHN0eWxlPSJm\naWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2Utd2lkdGg6MztzdHJva2UtbGlu\nZWpvaW46bWl0ZXI7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ry\nb2tlLW9wYWNpdHk6MSIKICAgaWQ9InBhdGgyMjEyIgogICBzb2RpcG9kaTpzaWRlcz0iNCIKICAg\nc29kaXBvZGk6Y3g9IjE3LjA2MzQ5MiIKICAgc29kaXBvZGk6Y3k9IjM0LjUyMzgxMSIKICAgc29k\naXBvZGk6cjE9IjEzLjI1MTk2MiIKICAgc29kaXBvZGk6cjI9IjYuNjI1OTgwOSIKICAgc29kaXBv\nZGk6YXJnMT0iMC40NzcwMzk2NyIKICAgc29kaXBvZGk6YXJnMj0iMS4yNjI0Mzc4IgogICBpbmtz\nY2FwZTpmbGF0c2lkZWQ9InRydWUiCiAgIGlua3NjYXBlOnJvdW5kZWQ9IjAiCiAgIGlua3NjYXBl\nOnJhbmRvbWl6ZWQ9IjAiCiAgIGQ9Ik0gMjguODM1OTc5LDQwLjYwODQ2OCBMIDEwLjk3ODgzNiw0\nNi4yOTYyOTggTCA1LjI5MTAwNDksMjguNDM5MTU1IEwgMjMuMTQ4MTQ4LDIyLjc1MTMyNCBMIDI4\nLjgzNTk3OSw0MC42MDg0NjggeiAiCiAgIHRyYW5zZm9ybT0ibWF0cml4KDAuODk5Mjg5MiwtMC40\nMzczNTQ2LC0wLjQzNzM1NDYsLTAuODk5Mjg5MiwzNi41MjY2MjIsNTMuNTg5MDUyKSIgLz4KCjxy\nZWN0CiAgICBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiICBzdHls\nZT0iZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlLXdpZHRoOjM7c3Ryb2tl\nLWxpbmVqb2luOm1pdGVyO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25l\nO3N0cm9rZS1vcGFjaXR5OjEiCiAgIGlkPSJyZWN0MjIxNCIKICAgd2lkdGg9IjQ1Ljg5OTQ3MSIK\nICAgaGVpZ2h0PSI0LjcwMzcwMzYiCiAgIHg9Ii0xLjg3MzMzMDciCiAgIHk9IjI5LjA5MzAxIgog\nICByeT0iMS4wNDg2NjY4IgogICB0cmFuc2Zvcm09Im1hdHJpeCgwLjk4OTU0NjYsLTAuMTQ0MjEz\nNCwwLjE0NDIxMzQsMC45ODk1NDY2LDAsMCkiLz4KPC9zdmc+\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/udMby5r.png"
+                ]
+            }, 
+            "version": 26, 
+            "whats_new": {
+                "en-US": "<br/>* Add missing add_badge code (the toolkit badge code is not yet upstream)."
+            }, 
+            "xo_url": "org.laptop.physics_v26.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/udMby5r.png"
         ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "62d5297346b5b5842fd50257a039e2dd": "http://i.imgur.com/udMby5r.png"
+        }
+    }, 
+    "title": {
+        "ar": "\u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621", 
+        "ayc": "F\u00edsica yati\u00f1a", 
+        "ca": "F\u00edsica", 
+        "cs": "Fyzika", 
+        "da": "Fysik", 
+        "de": "Physik", 
+        "el": "\u03a6\u03c5\u03c3\u03b9\u03ba\u03ae", 
+        "en": "Physics", 
+        "en-GB": "Physics", 
+        "en-US": "Physics", 
+        "es": "F\u00edsica", 
+        "fa-AF": "\u0641\u0632\u06cc\u06a9 \u0647\u0627", 
+        "fr": "Physique", 
+        "he": "\u05e4\u05d9\u05d6\u05d9\u05e7\u05d4", 
+        "hi": "\u092d\u094c\u0924\u093f\u0915\u0940", 
+        "ht": "Physics", 
+        "hus": "F\u00edsica", 
+        "hy": "\u0556\u056b\u0566\u056b\u056f\u0561", 
+        "id": "Fisika", 
+        "it": "Fisica", 
+        "ja": "Physics/\u7269\u7406\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3", 
+        "km": "\u1796\u17b7\u178f", 
+        "lv": "Fizika", 
+        "mi": "Ahup\u016bngao", 
+        "mn": "\u0424\u0438\u0437\u0438\u043a", 
+        "ne": "\u092d\u094c\u0924\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928", 
+        "nl": "Natuurkunde", 
+        "pap": "Fisika", 
+        "pbs": "lichja'aun", 
+        "pl": "Fizyka", 
+        "ps": "\u0641\u0632\u06cc\u06a9\u0633", 
+        "pt": "F\u00edsica", 
+        "pt-BR": "F\u00edsica", 
+        "quz": "F\u00edsica nisqa", 
+        "si": "\u0db7\u0dde\u0dad\u0dd2\u0d9a \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dc0", 
+        "sm": "Fisiki", 
+        "sq": "Fizik\u00eb", 
+        "sr": "\u0424\u0438\u0437\u0438\u043a\u0430", 
+        "sv": "Fysik", 
+        "ta": "\u0baa\u0bcc\u0ba4\u0bc0\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bcd", 
+        "th": "\u0e1f\u0e34\u0e2a\u0e34\u0e01\u0e2a\u0e4c", 
+        "ug": "\u0641\u0649\u0632\u0649\u0643\u0627", 
+        "vi": "V\u1eadt l\u00fd", 
+        "zh-CN": "\u7269\u7406", 
+        "zh-TW": "\u7269\u7406\u4e16\u754c"
+    }, 
+    "version": 26, 
+    "whats_new": {
+        "en-US": "<br/>* Add missing add_badge code (the toolkit badge code is not yet upstream)."
+    }, 
+    "xo_size": 1921969, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.physics_v26.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.physics_1424154868.xo", 
+    "xo_url_latest_timestamp": 1424154868, 
+    "xo_url_timestamp": 1424154868
 }
