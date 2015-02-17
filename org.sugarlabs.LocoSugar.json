@@ -1,8 +1,62 @@
 {
     "by": [
-            {
-                "name": "Walter",
-                "site": "https://github.com/walterbender"
-            }
-     ]
+        {
+            "name": "Walter", 
+            "site": "https://github.com/walterbender"
+        }
+    ], 
+    "description": {
+        "en-US": "learn how to use the mouse and keyboard"
+    }, 
+    "github_url": "walterbender/locosugar", 
+    "hasOldToolbars": false, 
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8IURPQ1RZUEUgc3ZnICBQVUJMSUMgJy0vL1czQy8vRFRE\nIFNWRyAxLjEvL0VOJyAgJ2h0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2\nZzExLmR0ZCcgWwoJPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMDAwIj4KCTwhRU5USVRZIGZpbGxf\nY29sb3IgIiNhYWEiPgpdPgo8c3ZnIGhlaWdodD0iNTVweCIgdmlld0JveD0iMCAwIDU1IDU1IiB3\naWR0aD0iNTVweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGlu\naz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBz\ndHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlPSImc3Ryb2tl\nX2NvbG9yOyIgZmlsbD0iJmZpbGxfY29sb3I7Ij4KICA8cGF0aAogICAgIGQ9Im0gMTcuMzAzNzgz\nLDIyLjgzMjA0IGMgLTAuNzk4MjQ4LC0wLjgyNDQ2OSAtMS43MTY0MjksLTIuNjQ1NTMxIC0xLjkz\nMjkxNiwtNC4wNDkzNDEgLTAuMjc4NDg4LC0xLjgwNTg3MiAwLjMwMjQyMywtMy41MzY1MzcgMS4z\nNzg2MjksLTUuMDEzMTkyIDEuMzk4MjA3LC0xLjkxODQ3MiA1LjUwMjA4OSwtMS40MTc5NTggNS44\nOTA1MDEsLTMuNzU5ODk0IEMgMjIuODkxNTEyLDguNDkzMDg2MyAxOC4yNzg3MDEsNy41NTAzNzQ1\nIDE5LjUwNjc1LDYuNjI1NzA5MSAyMi4yNjI0NDQsNC41NTA4MDAxIDI2LjM3MDMyNyw0LjgxMjA5\nNyAyOS41MzMxMzUsNS40OTc3NDEgYyAzLjAxMzgzMywwLjY1MzM0OTIgNS4wMjcwMDgsMi4yODI2\nMDQgNy4wMTg0NjUsNC42MzcyMDIgMS40MTE2NjIsMS42NjkwNzMgMi42NzY1MTIsMy43MTQyMzcg\nMi44ODI1ODgsNS44OTA1IDAuMzA0MywzLjIxMzU0OSAtMC40MDk5MTgsNS45MjAxNTUgLTIuNTI1\nOTk0LDcuMjk3NDg5IEMgMjUuNjMxOTUxLDQwLjgxODg4NiAyMi4wNzc3MTYsMjYuMzIyMzc4IDE3\nLjMwMzc4MywyMi44MzIwNCB6IgogICAgIGlkPSJwYXRoMzgzNCIKICAgICBzdHlsZT0iZmlsbDom\nc3Ryb2tlX2NvbG9yOztmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZSIgLz4KICA8cGF0aAogICAg\nIGQ9Im0gMjcuNTgzMjQ0LDI3LjA1OTAxNyBjIC0yLjcxNDgwMSwtMC4wNjA2NCAtNS4yNzgxNzYs\nLTIuMDUxMzY2IC03LjAxODQ2OSwtNC4xMzU4ODUgLTEuMDg0MjUyLC0xLjI5ODcxNiAtMS44MDY2\nNDQsLTMuMDcxNTA2IC0xLjc1NDYxNSwtNC43NjI1MjkgMC4wMzUwOCwtMS4xNDA1MDggMC4zMTAz\nMTUsLTIuNzMyMzc5IDEuMzc4NjI1LC0zLjEzMzI0NyAyLjc2NDY0NiwtMS4wMzczODkgNS4wNzAx\nMzQsMy44NjU2MzYgOC4wMjExMDksMy43NTk4OTMgMi44MjIzNjEsLTAuMTAxMTMzIDQuNTgxMTgz\nLC00LjM4Mzc0NiA3LjM5NDQ1NSwtNC4xMzU4ODMgMS4xODI5MzQsMC4xMDQyMjQgMi41ODM5NzYs\nMS4wODExMzUgMi43NTcyNTQsMi4yNTU5MzYgMC40MDQwODQsMi43Mzk2MTcgLTIuNTc5NTg0LDUu\nMDM5NzY2IC00LjYzNzIsNi44OTMxNDEgLTEuNzIxODU5LDEuNTUwOTQ1IC0zLjgyNDM1OCwzLjMx\nMDMyNSAtNi4xNDExNTksMy4yNTg1NzQgeiIKICAgICBpZD0icGF0aDM4NDciCiAgICAgc3R5bGU9\nImZpbGw6JmZpbGxfY29sb3I7O2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lIiAvPgogIDxjaXJj\nbGUKICAgICBjeD0iMjcuMzcxIgogICAgIGN5PSIxMC44NDkiCiAgICAgcj0iOC4xMjE5OTk3Igog\nICAgIHRyYW5zZm9ybT0ibWF0cml4KDAuNzA4NzcyLDAsMCwwLjcwODc3Miw4LjEwMDIwMDYsMTEu\nMDgxOTQpIgogICAgIGlkPSJjaXJjbGUzMDUzIgogICAgIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9y\nOztzdHJva2U6JnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjMuNSIgLz4KICA8cGF0aAogICAg\nIGQ9Im0gMzEuNjUyMzQsMzYuNTg2NDkgNy4xNjAwMTUsNy4xNTg1OTcgYyAwLjUzMjk5NSwwLjUz\nMTU3NyAwLjg2MjU3NiwxLjI2Mzc0MSAwLjg2MjU3NiwyLjA3ODExOSAwLDEuNjIwOTYyIC0xLjMx\nNDc3MSwyLjkzNjQ0MyAtMi45Mzg1NjgsMi45MzY0NDMgLTAuODExNTQ3LDAgLTEuNTQzNzA3LC0w\nLjMyODE2MyAtMi4wNzgxMTksLTAuODU4MzIzIGwgLTcuMTYwMDE1LC03LjE2MDcyNSAtNy4xNTg1\nOTcsNy4xNTg2MDEgYyAtMC41MzE1ODEsMC41MzE1NzcgLTEuMjY2NTc2LDAuODU4MzE5IC0yLjA3\nOTUzNywwLjg1ODMxOSAtMS42MTg4MzcsMCAtMi45MzY0NDMsLTEuMzE0MDYgLTIuOTM2NDQzLC0y\nLjkzNTAyMiAwLC0wLjgxMjI1MyAwLjMyOTU3NywtMS41NDc5NTkgMC44NTkwMywtMi4wNzk1Mzcg\nTCAyMy4zNDQxMTQsMzYuNTgyOTQ4IDE2LjE4NDEsMjkuNDI0MzQ3IGMgLTAuNTI5NDUzLC0wLjUz\nMDE2IC0wLjg1OTAzMSwtMS4yNjUxNTkgLTAuODU5MDMxLC0yLjA3NjcwNiAwLC0xLjYyMjM3OCAx\nLjMxNDA2NCwtMi45Mzg1NjcgMi45Mzg1NjgsLTIuOTM4NTY3IDAuODEwMTI5LDAgMS41NDUxMjQs\nMC4zMjk1ODEgMi4wNzY3MDIsMC44NjA0NTIgbCA3LjE1Nzg5LDcuMTYwMDE4IDcuMTYwMDE1LC03\nLjE2MDcyOSBjIDAuNTM0NDEyLC0wLjUzMDg3IDEuMjY2NTcyLC0wLjg2MDQ0OCAyLjA3OTUzNywt\nMC44NjA0NDggMS42MjIzNzksMCAyLjkzODU2NywxLjMxNTQ3OCAyLjkzODU2NywyLjkzNzg1NyAw\nLDAuODEyMjUzIC0wLjMzMDk5OCwxLjU0NTEyOCAtMC44NjI1NzYsMi4wNzgxMjMgTCAzMS42NTIz\nNCwzNi41ODY0OSB6IgogICAgIGlkPSJwYXRoMzA1MSIKICAgICBzdHlsZT0iZmlsbDomZmlsbF9j\nb2xvcjs7c3Ryb2tlOiZzdHJva2VfY29sb3I7O3N0cm9rZS13aWR0aDoyLjQ4MDcwMjE2IiAvPgo8\nL3N2Zz4K\n", 
+    "isGTK3": true, 
+    "isWeb": false, 
+    "minSugarVersion": "0.96", 
+    "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/ymkt98j.png"
+                ]
+            }, 
+            "version": 11, 
+            "whats_new": {
+                "en-US": "<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.LocoSugar_v11.xo"
+        }
+    ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/ymkt98j.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "fd00a5f4865ed3c3e1fd43bfb52d4835": "http://i.imgur.com/ymkt98j.png"
+        }
+    }, 
+    "title": {
+        "ayc": "LocoSugar apnaqa\u00f1a wakichata", 
+        "da": "LocoSugar", 
+        "en": "LocoSugar", 
+        "en-GB": "LocoSugar", 
+        "en-US": "LocoSugar", 
+        "es": "LocoSugar", 
+        "hy": "\u053c\u0578\u056f\u0578\u0547\u0561\u0584\u0561\u0580", 
+        "nl": "LocoSugar", 
+        "zh-CN": "LocoSugar"
+    }, 
+    "version": 11, 
+    "whats_new": {
+        "en-US": "<br/>* New translations"
+    }, 
+    "xo_size": 2151095, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.LocoSugar_v11.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.LocoSugar_1424155086.xo", 
+    "xo_url_latest_timestamp": 1424155086, 
+    "xo_url_timestamp": 1424155086
 }
