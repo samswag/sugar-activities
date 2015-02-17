@@ -39,6 +39,19 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/wTashFV.png"
+                ]
+            }, 
+            "version": 209.1, 
+            "whats_new": {
+                "en-US": "209.1<br/>ENHANCEMENT:<br/>* Expose import/export of OBJ files in Sugar version (w/Ignacio Rodriguez)<br/>ENHANCEMENT:<br/>* Added 'private' attribute to block class for plugins<br/>BUG FIXES:<br/>* Rescale constants when rescaling coordinates<br/>* Rescale mouse coordinates to match current scale"
+            }, 
+            "xo_url": "org.laptop.TurtleArtActivity3D_v209.1.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/H5pb3e4.png"
                 ]
             }, 
@@ -51,12 +64,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/H5pb3e4.png"
+            "http://i.imgur.com/wTashFV.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "86e679db4830eee6b0d3e1555730be71": "http://i.imgur.com/H5pb3e4.png"
+            "86e679db4830eee6b0d3e1555730be71": "http://i.imgur.com/wTashFV.png"
         }
     }, 
     "title": {
@@ -64,11 +77,11 @@
     }, 
     "version": 209.1, 
     "whats_new": {
-        "en-US": "<br/>209.1<br/>ENHANCEMENT:<br/>* Expose import/export of OBJ files in Sugar version (w/Ignacio Rodriguez)<br/>ENHANCEMENT:<br/>* Added 'private' attribute to block class for plugins<br/>BUG FIXES:<br/>* Rescale constants when rescaling coordinates<br/>* Rescale mouse coordinates to match current scale"
+        "en-US": "209.1<br/>ENHANCEMENT:<br/>* Expose import/export of OBJ files in Sugar version (w/Ignacio Rodriguez)<br/>ENHANCEMENT:<br/>* Added 'private' attribute to block class for plugins<br/>BUG FIXES:<br/>* Rescale constants when rescaling coordinates<br/>* Rescale mouse coordinates to match current scale"
     }, 
-    "xo_size": 3513060, 
+    "xo_size": 3513057, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity3D_v209.1.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity3D_1424155132.xo", 
-    "xo_url_latest_timestamp": 1424155132, 
-    "xo_url_timestamp": 1424155132
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity3D_1424156728.xo", 
+    "xo_url_latest_timestamp": 1424156728, 
+    "xo_url_timestamp": 1424156728
 }
