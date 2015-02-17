@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths"
+    ], 
     "description": {
         "en-US": "Napier's bones are a multiplication calculator from the 16th century"
     }, 
@@ -15,6 +18,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/vliRiao.png"
+                ]
+            }, 
+            "version": 5, 
+            "whats_new": {
+                "en-US": "ENHANCEMENTS:<br/>* Ignacio Rodriguez port to gtk3"
+            }, 
+            "xo_url": "org.sugarlabs.NapierActivity_v5.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -31,12 +47,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/UCKq6Uc.png"
+            "http://i.imgur.com/vliRiao.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "4e026a1b2dc39bd3fc4b4f98b596b2b3": "http://i.imgur.com/UCKq6Uc.png"
+            "4e026a1b2dc39bd3fc4b4f98b596b2b3": "http://i.imgur.com/vliRiao.png"
         }
     }, 
     "title": {
@@ -44,11 +60,11 @@
     }, 
     "version": 5, 
     "whats_new": {
-        "en-US": "<br/>ENHANCEMENTS:<br/>* Ignacio Rodriguez port to gtk3"
+        "en-US": "ENHANCEMENTS:<br/>* Ignacio Rodriguez port to gtk3"
     }, 
-    "xo_size": 49848, 
+    "xo_size": 49847, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.NapierActivity_v5.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.NapierActivity_1424154902.xo", 
-    "xo_url_latest_timestamp": 1424154902, 
-    "xo_url_timestamp": 1424154902
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.NapierActivity_1424156308.xo", 
+    "xo_url_latest_timestamp": 1424156308, 
+    "xo_url_timestamp": 1424156308
 }
