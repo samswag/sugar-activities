@@ -22,6 +22,20 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/hUCdSo0.png", 
+                    "http://i.imgur.com/T2e4Bwn.png"
+                ]
+            }, 
+            "version": 8, 
+            "whats_new": {
+                "en-US": "* Add visual feedback"
+            }, 
+            "xo_url": "org.sugarlabs.LetterMatch.NI_v8.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/ZgzClX7.png", 
                     "http://i.imgur.com/eFjjqWZ.png"
                 ]
@@ -49,14 +63,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/ZgzClX7.png", 
-            "http://i.imgur.com/eFjjqWZ.png"
+            "http://i.imgur.com/hUCdSo0.png", 
+            "http://i.imgur.com/T2e4Bwn.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "93cdd746c7adf42932a39004c8543737": "http://i.imgur.com/eFjjqWZ.png", 
-            "b97a1a7ee970102a878502e69dc16ced": "http://i.imgur.com/ZgzClX7.png"
+            "93cdd746c7adf42932a39004c8543737": "http://i.imgur.com/T2e4Bwn.png", 
+            "b97a1a7ee970102a878502e69dc16ced": "http://i.imgur.com/hUCdSo0.png"
         }
     }, 
     "title": {
@@ -68,7 +82,7 @@
     }, 
     "xo_size": 3339207, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.LetterMatch.NI_v8.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.LetterMatch.NI_1424156264.xo", 
-    "xo_url_latest_timestamp": 1424156264, 
-    "xo_url_timestamp": 1424156264
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.LetterMatch.NI_1424156401.xo", 
+    "xo_url_latest_timestamp": 1424156401, 
+    "xo_url_timestamp": 1424156401
 }
