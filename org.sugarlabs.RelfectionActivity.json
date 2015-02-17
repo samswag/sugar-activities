@@ -42,6 +42,15 @@
             "screenshots": {}, 
             "version": 13, 
             "whats_new": {
+                "en-US": "NEWS<br/>ENHANCEMENTS:<br/>* New translations"
+            }, 
+            "xo_url": "org.sugarlabs.RelfectionActivity_v13.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {}, 
+            "version": 13, 
+            "whats_new": {
                 "en-US": "<br/>NEWS<br/>ENHANCEMENTS:<br/>* New translations"
             }, 
             "xo_url": "org.sugarlabs.RelfectionActivity_v13.xo"
@@ -68,7 +77,7 @@
     }, 
     "xo_size": 68823, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_v13.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_1424156288.xo", 
-    "xo_url_latest_timestamp": 1424156288, 
-    "xo_url_timestamp": 1424156288
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.RelfectionActivity_1424156424.xo", 
+    "xo_url_latest_timestamp": 1424156424, 
+    "xo_url_timestamp": 1424156424
 }
