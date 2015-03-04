@@ -10,9 +10,7 @@
     ],
     "description": {
         "en-US": "This is a game for football lovers. It's suitable for the xo laptop that have gnash player installed, so enjoy."
-        "en": "This is a game for football lovers. It's suitable for the xo laptop that have gnash player installed, so enjoy."
-
-   },
+    },
     "github_current_tag": "v1",
     "hasOldToolbars": false,
     "icon": "http://activities.sugarlabs.org/en-US/sugar/images/addon_icon/4758/1410601090"
