@@ -1,6 +1,7 @@
 {
     "by": [
         {
+            "email": "samsongoddy@sugarlabs.org
              "name": "Samson Goddy",
              "site": "https://github.com/samswag"
         }
@@ -9,7 +10,7 @@
         "game"
     ],
     "description": {
-        "en-US": "This is a game for football lovers. It's suitable for the xo laptop that have gnash player installed, so enjoy."
+        "en-US": "This is a game about Football and its suitable for xo laptop with gnash player installed"
     },
     "github_current_tag": "v1",
     "hasOldToolbars": false,
@@ -21,16 +22,54 @@
         {
            "minSugarversion": "0.96",
            "screenshots": {
-               "en":[
-                   "http://i.ytimg.com/vi/FA99tV4lOns/maxresdefault.jpg"
-                   ]
+               "en": [
+                   "http://i.imgur.com/5M1iCn7.jpg"
+               ]
+           },   
            "version": 1,
            "xo_url": "http://activities.sugarlabs.org/en-US/sugar/addon/4758"
         },
-        "title": {
-            "en-US: "Football"
+        {
+            "minSugarVersion": "0.96",
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/5M1iCn7.jpg"
+                ]
+            },
+            "version": 1,
+            "whats_new": {
+                "en-US": "The activity has been ported to Gtk3"
+            },
+            "xo_url": "http://activities.sugarlabs.org/en-US/sugar/addon/4758"
+        },
+        {
+            "minSugarVersion": "0.96",
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/5M1iCn7.jpg"
+                ]
+            },
+            "version": 1,
+            "whats_new": {
+                "en-US": "the activity has been ported to Gtk3"
+            },
+            "xo_url": "https://download.sugarlabs.org/activity2/org.sugarlabs.FootballActivity_1.xo"
         }
-        
-}
+    ],
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/5M1iCn7.jpg"
+        ]
+    },
+    "socialhelp_category": "game",
+    "title": {
+        "en": "game"
+        "en-GB": "game"
+        "en-US": "game"
+        "es": "juego"
+        "ibo": "egwuregwu"
+        "fr": "
+    }
+            }
         
         
