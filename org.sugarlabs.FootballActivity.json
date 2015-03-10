@@ -58,7 +58,7 @@
     },
     "version": 1,
     "whats_new": {
-        "en-US": "i ported the game to Gtk3"
+        "en-US": "i ported the game to Gtk3 and i fix some code errors"
     },
     "xo_url": "http://activities.sugarlabs.org/en-US/sugar/addon/4758"
 }
